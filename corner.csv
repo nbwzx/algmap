@@ -1,0 +1,1857 @@
+Source,Target
+ADM:U' R' D R U' R' D' R U2,JMG:U R' D R U' R' D' R
+ADM:U' R' D R U' R' D' R U2,ADY:U' D' R' D R U' R' D' R U2 D
+ADM:U' R' D R U' R' D' R U2,AMD:U2 R' D R U R' D' R U
+ADM:U' R' D R U' R' D' R U2,AQM:R' B' R U' R' D R U' R' D' R U2 R' B R
+ADM:U' R' D R U' R' D' R U2,GCF:R2 D' R U' R' D R U' R' D' R U2 R' D R2
+ADM:U' R' D R U' R' D' R U2,GMD:U2 R' D R U' R' D' R U'
+ADM:U' R' D R U' R' D' R U2,JAM:R' D R U' R' D' R U
+ADN:U' D R' D' R U' R' D R U2 D',ADZ:U' R' D' R U' R' D R U2
+ADN:U' D R' D' R U' R' D R U2 D',AND:U2 D R' D' R U R' D R U D'
+ADN:U' D R' D' R U' R' D R U2 D',GND:U2 D R' D' R U' R' D R U' D'
+ADN:U' D R' D' R U' R' D R U2 D',JAN:D R' D' R U' R' D R U D'
+ADN:U' D R' D' R U' R' D R U2 D',JNG:U D R' D' R U' R' D R D'
+ADO:U' R' B D' R U' R' D R U R' B' R U,JAO:R' B D' R U' R' D R U R' B' R
+ADO:U' R' B D' R U' R' D R U R' B' R U,AOD:U' R' B R U' R' D' R U R' D B' R U
+ADP:U2 D' R D R' U' R D' R' U' D,ADS:U2 R D R' U' R D' R' U'
+ADP:U2 D' R D R' U' R D' R' U' D,APD:U D' R D R' U R D' R' U2 D
+ADP:U2 D' R D R' U' R D' R' U' D,GPD:U D' R D R' U' R D' R' D
+ADP:U2 D' R D R' U' R D' R' U' D,JAP:U' D' R D R' U' R D' R' U2 D
+ADP:U2 D' R D R' U' R D' R' U' D,JPG:D' R D R' U' R D' R' U D
+ADQ:U2 R D' R' U' R D R' U',GQD:U R D' R' U' R D R'
+ADQ:U2 R D' R' U' R D R' U',ADT:U2 D R D' R' U' R D R' U' D'
+ADQ:U2 R D' R' U' R D R' U',AQD:U R D' R' U R D R' U2
+ADQ:U2 R D' R' U' R D R' U',DQM:R F R' U2 R D' R' U' R D R' U' R F' R'
+ADQ:U2 R D' R' U' R D R' U',JAQ:U' R D' R' U' R D R' U2
+ADQ:U2 R D' R' U' R D R' U',JBE:R2 D R' U2 R D' R' U' R D R' U' R D' R2
+ADQ:U2 R D' R' U' R D R' U',JQG:R D' R' U' R D R' U
+ADR:R U' D' R' D R U' R' D' R U2 D R',ADY:U' D' R' D R U' R' D' R U2 D
+ADR:R U' D' R' D R U' R' D' R U2 D R',ARD:R U2 D' R' D R U R' D' R U D R'
+ADR:R U' D' R' D R U' R' D' R U2 D R',JAD:R' U' D' R' D R U' R' D' R U2 D R
+ADS:U2 R D R' U' R D' R' U',GSD:U R D R' U' R D' R'
+ADS:U2 R D R' U' R D' R' U',ASD:U R D R' U R D' R' U2
+ADS:U2 R D R' U' R D' R' U',DWZ:R F' R' U2 R D R' U' R D' R' U' R F R'
+ADS:U2 R D R' U' R D' R' U',GBE:R U2 R D R' U' R D' R' U' R'
+ADS:U2 R D R' U' R D' R' U',JAS:U' R D R' U' R D' R' U2
+ADS:U2 R D R' U' R D' R' U',JSG:R D R' U' R D' R' U
+ADT:U2 D R D' R' U' R D R' U' D',ADX:R' U2 D R D' R' U' R D R' U' D' R
+ADT:U2 D R D' R' U' R D R' U' D',ATD:U D R D' R' U R D R' U2 D'
+ADT:U2 D R D' R' U' R D R' U' D',GAD:R U2 D R D' R' U' R D R' U' D' R'
+ADT:U2 D R D' R' U' R D R' U' D',GTD:U D R D' R' U' R D R' D'
+ADT:U2 D R D' R' U' R D R' U' D',JAT:U' D R D' R' U' R D R' U2 D'
+ADT:U2 D R D' R' U' R D R' U' D',JTG:D R D' R' U' R D R' U D'
+ADW:U R F' R' U R D R' U' R D' F R' U',GWD:R F' R' U R D R' U' R D' F R'
+ADW:U R F' R' U R D R' U' R D' F R' U',AWD:U R F' D R' U R D' R' U' R F R' U'
+ADX:R' U2 D R D' R' U' R D R' U' D' R,AXD:R' U D R D' R' U R D R' U2 D' R
+ADX:R' U2 D R D' R' U' R D R' U' D' R,GAD:R U2 D R D' R' U' R D R' U' D' R'
+ADY:U' D' R' D R U' R' D' R U2 D,AYD:U2 D' R' D R U R' D' R U D
+ADY:U' D' R' D R U' R' D' R U2 D,GYD:U2 D' R' D R U' R' D' R U' D
+ADY:U' D' R' D R U' R' D' R U2 D,JAD:R' U' D' R' D R U' R' D' R U2 D R
+ADY:U' D' R' D R U' R' D' R U2 D,JAY:D' R' D R U' R' D' R U D
+ADY:U' D' R' D R U' R' D' R U2 D,JYG:U D' R' D R U' R' D' R D
+ADZ:U' R' D' R U' R' D R U2,JZG:U R' D' R U' R' D R
+ADZ:U' R' D' R U' R' D R U2,ASO:R' B R U' R' D' R U' R' D R U2 R' B' R
+ADZ:U' R' D' R U' R' D R U2,AZD:U2 R' D' R U R' D R U
+ADZ:U' R' D' R U' R' D R U2,GZD:U2 R' D' R U' R' D R U'
+ADZ:U' R' D' R U' R' D R U2,JAZ:R' D' R U' R' D R U
+ADZ:U' R' D' R U' R' D R U2,JCF:R' U' R' D' R U' R' D R U2 R
+AEM:R U R' U2 R' D R U2 R' D' R2 U' R',GWF:R' U2 R' D R U2 R' D' R2
+AEM:R U R' U2 R' D R U2 R' D' R2 U' R',AME:R U R2 D R U2 R' D' R U2 R U' R'
+AEN:R' U' R U R' D R U2 R' D' R U R' U R,JBN:R U R' D R U2 R' D' R U R'
+AEN:R' U' R U R' D R U2 R' D' R U R' U R,ANE:R' U' R U' R' D R U2 R' D' R U' R' U R
+AEO:R' U' R2 D' R' U2 R D R' U2 R' U R,JBO:R2 D' R' U2 R D R' U2 R'
+AEO:R' U' R2 D' R' U2 R D R' U2 R' U R,AOE:R' U' R U2 R D' R' U2 R D R2 U R
+AEP:R U R' U D' R D R' U2 R D' R' U D R U' R',GOF:R' U D' R D R' U2 R D' R' U D R
+AEP:R U R' U D' R D R' U2 R D' R' U D R U' R',APE:R U R' U' D' R D R' U2 R D' R' U' D R U' R'
+AEQ:R U R' U R D' R' U2 R D R' U R U' R',GPF:R' U R D' R' U2 R D R' U R
+AEQ:R U R' U R D' R' U2 R D R' U R U' R',AQE:R U R' U' R D' R' U2 R D R' U' R U' R'
+AER:U' D R2 D' R' U2 R D R' U2 R' U D',JBO:R2 D' R' U2 R D R' U2 R'
+AER:U' D R2 D' R' U2 R D R' U2 R' U D',ARE:U' D R U2 R D' R' U2 R D R2 U D'
+AER:U' D R2 D' R' U2 R D R' U2 R' U D',JBR:D R2 D' R' U2 R D R' U2 R' D'
+AER:U' D R2 D' R' U2 R D R' U2 R' U D',JTI:U D R2 D' R' U2 R D R' U2 R' U' D'
+AES:R U R' U R D R' U2 R D' R' U R U' R',AEZ:U R' U R D R' U2 R D' R' U R U'
+AES:R U R' U R D R' U2 R D' R' U R U' R',ASE:R U R' U' R D R' U2 R D' R' U' R U' R'
+AES:R U R' U R D R' U2 R D' R' U R U' R',GBF:R2 U R' U R D R' U2 R D' R' U R U' R2
+AET:U' R U R' D' R U2 R' D R U R' U,JBT:R U R' D' R U2 R' D R U R'
+AET:U' R U R' D' R U2 R' D R U R' U,AEX:R' U' R U R' D' R U2 R' D R U R' U R
+AET:U' R U R' D' R U2 R' D R U R' U,ATE:U' R U' R' D' R U2 R' D R U' R' U
+AET:U' R U R' D' R U2 R' D R U R' U,JBF:R2 U' R U R' D' R U2 R' D R U R' U R2
+AET:U' R U R' D' R U2 R' D R U R' U,JSI:U R U R' D' R U2 R' D R U R' U'
+AEW:R' U' R U D R' D' R U2 R' D R U D' R' U R,JBW:R U D R' D' R U2 R' D R U D' R'
+AEW:R' U' R U D R' D' R U2 R' D R U D' R' U R,AWE:R' U' R U' D R' D' R U2 R' D R U' D' R' U R
+AEX:R' U' R U R' D' R U2 R' D R U R' U R,AXE:R' U' R U' R' D' R U2 R' D R U' R' U R
+AEX:R' U' R U R' D' R U2 R' D R U R' U R,JBF:R2 U' R U R' D' R U2 R' D R U R' U R2
+AEY:U D' R' U2 R' D R U2 R' D' R2 U' D,GWF:R' U2 R' D R U2 R' D' R2
+AEY:U D' R' U2 R' D R U2 R' D' R2 U' D,AYE:U D' R2 D R U2 R' D' R U2 R U' D
+AEY:U D' R' U2 R' D R U2 R' D' R2 U' D,GXF:D' R' U2 R' D R U2 R' D' R2 D
+AEY:U D' R' U2 R' D R U2 R' D' R2 U' D,JXI:U' D' R' U2 R' D R U2 R' D' R2 U D
+AEZ:U R' U R D R' U2 R D' R' U R U',GYF:R' U R D R' U2 R D' R' U R
+AEZ:U R' U R D R' U2 R D' R' U R U',AZE:U R' U' R D R' U2 R D' R' U' R U'
+AEZ:U R' U R D R' U2 R D' R' U R U',GBF:R2 U R' U R D R' U2 R D' R' U R U' R2
+AEZ:U R' U R D R' U2 R D' R' U R U',JYI:U' R' U R D R' U2 R D' R' U R U
+AFM:R B' R' U' R' D R U R' D' R2 B R',GWC:R' U' R' D R U R' D' R2
+AFM:R B' R' U' R' D R U R' D' R2 B R',AMF:R B' R2 D R U' R' D' R U R B R'
+AFN:R B' R' U' D R' D' R U R' D R D' R B R',GMC:R' U' D R' D' R U R' D R D' R
+AFN:R B' R' U' D R' D' R U R' D R D' R B R',ANF:R B' R' D R' D' R U' R' D R U D' R B R'
+AFO:R' F R D' R D R' U R D' R' U' D R' F' R,JEQ:R D' R D R' U R D' R' U' D R'
+AFO:R' F R D' R D R' U R D' R' U' D R' F' R,AOF:R' F R U D' R D R' U' R D' R' D R' F' R
+AFP:R' F R2 D' R' U R D R' U' R' F' R,JEO:R2 D' R' U R D R' U' R'
+AFP:R' F R2 D' R' U R D R' U' R' F' R,APF:R' F R U R D' R' U' R D R2 F' R
+AFQ:U2 R U' D' R' U R D R' U' R U R' U2,JOH:R U' D' R' U R D R' U' R U R'
+AFQ:U2 R U' D' R' U R D R' U' R U R' U2,AQF:U2 R U' R' U R D' R' U' R U D R' U2
+AFQ:U2 R U' D' R' U R D R' U' R U R' U2,GOE:U R U' D' R' U R D R' U' R U R' U'
+AFQ:U2 R U' D' R' U R D R' U' R U R' U2,JCQ:U' R U' D' R' U R D R' U' R U R' U
+AFR:R' F R2 D R' U R D' R' U' R' F' R,JEG:R2 D R' U R D' R' U' R'
+AFR:R' F R2 D R' U R D' R' U' R' F' R,ARF:R' F R U R D R' U' R D' R2 F' R
+AFS:R' U R2 D R' U R D' R' U' R' U' R,GBD:U R2 D R' U R D' R' U' R' U'
+AFS:R' U R2 D R' U R D' R' U' R' U' R,ASF:R' U R U R D R' U' R D' R2 U' R
+AFT:U R' U R U2 R D R' U2 R D' R2 U' R U',GRE:R' U R U2 R D R' U2 R D' R2 U' R
+AFT:U R' U R U2 R D R' U2 R D' R2 U' R U',ATF:U R' U R2 D R' U2 R D' R' U2 R' U' R U'
+AFW:U2 R' U R U' R' D R U R' U' D' R U2,JMH:R' U R U' R' D R U R' U' D' R
+AFW:U2 R' U R U' R' D R U R' U' D' R U2,AWF:U2 R' U D R U' R' D' R U R' U' R U2
+AFW:U2 R' U R U' R' D R U R' U' D' R U2,GME:U R' U R U' R' D R U R' U' D' R U'
+AFW:U2 R' U R U' R' D R U R' U' D' R U2,JCW:U' R' U R U' R' D R U R' U' D' R U
+AFX:U' R U' R2 D' R U2 R' D R U2 R U R' U,JCX:R U' R2 D' R U2 R' D R U2 R U R'
+AFX:U' R U' R2 D' R U2 R' D R U2 R U R' U,AXF:U' R U' R' U2 R' D' R U2 R' D R2 U R' U
+AFY:R U' R' U' R' D' R U R' D R2 U R',JAF:U' R' U' R' D' R U R' D R2 U
+AFY:R U' R' U' R' D' R U R' D R2 U R',AYF:R U' R2 D' R U' R' D R U R U R'
+AFZ:R B' R' U' R' D' R U R' D R2 B R',JCG:R' U' R' D' R U R' D R2
+AFZ:R B' R' U' R' D' R U R' D R2 B R',AZF:R B' R2 D' R U' R' D R U R B R'
+AMD:U2 R' D R U R' D' R U,JMA:U' R' D R U R' D' R
+AMD:U2 R' D R U R' D' R U,AMQ:R' B' R U2 R' D R U R' D' R U R' B R
+AMD:U2 R' D R U R' D' R U,AYD:U2 D' R' D R U R' D' R U D
+AMD:U2 R' D R U R' D' R U,GDM:U R' D R U R' D' R U2
+AMD:U2 R' D R U R' D' R U,GFC:R2 D' R U2 R' D R U R' D' R U R' D R2
+AMD:U2 R' D R U R' D' R U,JGM:R' D R U R' D' R U'
+AME:R U R2 D R U2 R' D' R U2 R U' R',GFW:R2 D R U2 R' D' R U2 R
+AMF:R B' R2 D R U' R' D' R U R B R',GCW:R2 D R U' R' D' R U R
+AMO:R' F R D' R D R2 F R2 D' R' D R' F2 R,GBP:D' R D R2 F R2 D' R' D R' F' R
+AMO:R' F R D' R D R2 F R2 D' R' D R' F2 R,AOM:R' F2 R D' R D R2 F' R2 D' R' D R' F' R
+AMO:R' F R D' R D R2 F R2 D' R' D R' F2 R,DMO:U' R' F R D' R D R2 F R2 D' R' D R' F2 R U
+AMP:R' F2 R U' R D' R' U R D R2 F2 R,JOZ:R U' R D' R' U R D R2
+AMP:R' F2 R U' R D' R' U R D R2 F2 R,APM:R' F2 R2 D' R' U' R D R' U R' F2 R
+AMQ:R' B' R U2 R' D R U R' D' R U R' B R,AQM:R' B' R U' R' D R U' R' D' R U2 R' B R
+AMR:R' F2 R U' R D R' U R D' R2 F2 R,GSY:R' U' R D R' U R D'
+AMR:R' F2 R U' R D R' U R D' R2 F2 R,ARM:R' F2 R2 D R' U' R D' R' U R' F2 R
+AMR:R' F2 R U' R D R' U R D' R2 F2 R,JGS:U' R D R' U R D' R'
+AMS:R' U R U R' D R U R' D' R U2 R' U' R,GBN:U R U R' D R U R' D' R U2 R' U'
+AMS:R' U R U R' D R U R' D' R U2 R' U' R,ASM:R' U R U2 R' D R U' R' D' R U' R' U' R
+AMT:R' U R' D R U2 R' D' R U R,GAM:U R' D R U2 R' D' R U
+AMT:R' U R' D R U2 R' D' R U R,ATM:R' U' R' D R U2 R' D' R U' R
+AMT:R' U R' D R U2 R' D' R U R,JBN:R U R' D R U2 R' D' R U R'
+AMX:D R U' D' R' D R U R' D' R D R' D',AYR:R U' D' R' D R U R' D' R D R'
+AMX:D R U' D' R' D R U R' D' R D R' D',AXM:D R D' R' D R U' R' D' R U D R' D'
+AMY:D R U' R' D' R U R',JAM:R' D R U' R' D' R U
+AMY:D R U' R' D' R U R',GCW:R2 D R U' R' D' R U R
+AMY:D R U' R' D' R U R',JMY:U D R U' R' D' R U R' U'
+AMY:D R U' R' D' R U R',AYM:R U' R' D R U R' D'
+AMY:D R U' R' D' R U R',AYS:R U' R' D' R U R' D
+AMY:D R U' R' D' R U R',DMR:R U' D R U' R' D' R U R' U R'
+AMY:D R U' R' D' R U R',GBW:R' F' D R U' R' D' R U R' F R
+AMY:D R U' R' D' R U R',JHN:R' F D R U' R' D' R U R' F' R
+AMY:D R U' R' D' R U R',JOD:R' U' D' R D R U' R' D' R U R2 U D R
+AMZ:U R U' R2 D R U' R' D' R U R U R' U',DMZ:R U' R2 D R U' R' D' R U R U R'
+AMZ:U R U' R2 D R U' R' D' R U R U R' U',AZM:U R U' R' U' R' D R U R' D' R2 U R' U'
+AND:U2 D R' D' R U R' D R U D',AZD:U2 R' D' R U R' D R U
+AND:U2 D R' D' R U R' D R U D',GDN:U D R' D' R U R' D R U2 D'
+AND:U2 D R' D' R U R' D R U D',JGN:D R' D' R U R' D R U' D'
+AND:U2 D R' D' R U R' D R U D',JNA:U' D R' D' R U R' D R D'
+ANE:R' U' R U' R' D R U2 R' D' R U' R' U R,JNB:R U' R' D R U2 R' D' R U' R'
+ANF:R B' R' D R' D' R U' R' D R U D' R B R',GCM:R' D R' D' R U' R' D R U D' R
+ANO:U R B' R' U2 R' D R U2 R' D' R2 B R' U',DNO:R B' R' U2 R' D R U2 R' D' R2 B R'
+ANO:U R B' R' U2 R' D R U2 R' D' R2 B R' U',AON:U R B' R2 D R U2 R' D' R U2 R B R' U'
+ANO:U R B' R' U2 R' D R U2 R' D' R2 B R' U',GNO:U' R B' R' U2 R' D R U2 R' D' R2 B R' U
+ANP:R B R' U D R' D' R U2 R' D R U D' R B' R',ANT:R' U D R' D' R U2 R' D R U D' R
+ANP:R B R' U D R' D' R U2 R' D R U D' R B' R',APN:R B R' U' D R' D' R U2 R' D R U' D' R B' R'
+ANQ:U' R' F' R2 D' R' U' R D R' U R' F R U,JNQ:R' F' R2 D' R' U' R D R' U R' F R
+ANQ:U' R' F' R2 D' R' U' R D R' U R' F R U,AQN:U' R' F' R U' R D' R' U R D R2 F R U
+ANQ:U' R' F' R2 D' R' U' R D R' U R' F R U,GNQ:U R' F' R2 D' R' U' R D R' U R' F R U'
+ANR:U' D R2 D' R' U' R D R' U R' U D',AZO:U' R2 D' R' U' R D R' U R' U
+ANR:U' D R2 D' R' U' R D R' U R' U D',ARN:U' D R U' R D' R' U R D R2 U D'
+ANR:U' D R2 D' R' U' R D R' U R' U D',GNR:U D R2 D' R' U' R D R' U R' U' D'
+ANR:U' D R2 D' R' U' R D R' U R' U D',JNR:D R2 D' R' U' R D R' U R' D'
+ANS:U' R' F' R2 D R' U' R D' R' U R' F R U,JNS:R' F' R2 D R' U' R D' R' U R' F R
+ANS:U' R' F' R2 D R' U' R D' R' U R' F R U,ASN:U' R' F' R U' R D R' U R D' R2 F R U
+ANS:U' R' F' R2 D R' U' R D' R' U R' F R U,DNS:U2 R' F' R2 D R' U' R D' R' U R' F R U2
+ANS:U' R' F' R2 D R' U' R D' R' U R' F R U,GNS:U R' F' R2 D R' U' R D' R' U R' F R U'
+ANT:R' U D R' D' R U2 R' D R U D' R,GAN:U D R' D' R U2 R' D R U D'
+ANT:R' U D R' D' R U2 R' D R U D' R,ATN:R' U' D R' D' R U2 R' D R U' D' R
+ANT:R' U D R' D' R U2 R' D R U D' R,JBW:R U D R' D' R U2 R' D R U D' R'
+ANX:U' R U' R2 D R U2 R' D' R U2 R U R' U,JNX:R U' R2 D R U2 R' D' R U2 R U R'
+ANX:U' R U' R2 D R U2 R' D' R U2 R U R' U,AXN:U' R U' R' U2 R' D R U2 R' D' R2 U R' U
+ANX:U' R U' R2 D R U2 R' D' R U2 R U R' U,DNX:U2 R U' R2 D R U2 R' D' R U2 R U R' U2
+ANX:U' R U' R2 D R U2 R' D' R U2 R U R' U,GNX:U R U' R2 D R U2 R' D' R U2 R U R' U'
+ANY:R D R' D' R U' R' D R U D' R',JAN:D R' D' R U' R' D R U D'
+ANY:R D R' D' R U' R' D R U D' R',AYN:R U' D R' D' R U R' D R D' R'
+ANY:R D R' D' R U' R' D R U D' R',GCM:R' D R' D' R U' R' D R U D' R
+ANZ:U' D R U R' D' R U' R' U,JNZ:D R U R' D' R U' R'
+ANZ:U' D R U R' D' R U' R' U,AZN:U' R U R' D R U' R' U D'
+ANZ:U' D R U R' D' R U' R' U,AZT:U' R U R' D' R U' R' U D
+ANZ:U' D R U R' D' R U' R' U,JCM:R' U' D R U R' D' R U' R' U R
+ANZ:U' D R U R' D' R U' R' U,GNZ:U D R U R' D' R U' R' U'
+AOD:U' R' B R U' R' D' R U R' D B' R U,JOA:R' B R U' R' D' R U R' D B' R
+AOE:R' U' R U2 R D' R' U2 R D R2 U R,JOB:R U2 R D' R' U2 R D R2
+AOF:R' F R U D' R D R' U' R D' R' D R' F' R,JQE:R U D' R D R' U' R D' R' D R'
+AOM:R' F2 R D' R D R2 F' R2 D' R' D R' F' R,GPB:R' F R D' R D R2 F' R2 D' R' D
+AOM:R' F2 R D' R D R2 F' R2 D' R' D R' F' R,DOM:U' R' F2 R D' R D R2 F' R2 D' R' D R' F' R U
+AON:U R B' R2 D R U2 R' D' R U2 R B R' U',DON:R B' R2 D R U2 R' D' R U2 R B R'
+AON:U R B' R2 D R U2 R' D' R U2 R B R' U',GON:U' R B' R2 D R U2 R' D' R U2 R B R' U
+AOR:R' U' R U R D' R' U' R D R2 U R,GCQ:U' R U R D' R' U' R D R2 U
+AOR:R' U' R U R D' R' U' R D R2 U R,ARO:R' U' R2 D' R' U R D R' U' R' U R
+AOR:R' U' R U R D' R' U' R D R2 U R,DOR:U' R' U' R U R D' R' U' R D R2 U R U
+AOS:R' B R U2 R' D' R U R' D R U R' B' R,AZD:U2 R' D' R U R' D R U
+AOS:R' B R U2 R' D' R U R' D R U R' B' R,ASO:R' B R U' R' D' R U' R' D R U2 R' B' R
+AOT:U2 R' U R2 D' R2 U' R U R2 D R2 U,JOT:U' R' U R2 D' R2 U' R U R2 D R2
+AOT:U2 R' U R2 D' R2 U' R U R2 D R2 U,ATO:U' R2 D' R2 U' R' U R2 D R2 U' R U2
+AOT:U2 R' U R2 D' R2 U' R U R2 D R2 U,GOT:R' U R2 D' R2 U' R U R2 D R2 U'
+AOW:R' F R U2 D' R D R' U2 R D' R' D R' F' R,JQB:R U2 D' R D R' U2 R D' R' D R'
+AOW:R' F R U2 D' R D R' U2 R D' R' D R' F' R,AWO:R' F R D' R D R' U2 R D' R' U2 D R' F' R
+AOX:U R B' R2 D' R U2 R' D R U2 R B R' U',DOX:R B' R2 D' R U2 R' D R U2 R B R'
+AOX:U R B' R2 D' R U2 R' D R U2 R B R' U',AXO:U R B' R' U2 R' D' R U2 R' D R2 B R' U'
+AOX:U R B' R2 D' R U2 R' D R U2 R B R' U',GOX:U' R B' R2 D' R U2 R' D R U2 R B R' U
+AOY:U' R2 U' R' U R D' R' U' R U D R2 U,JOY:R2 U' R' U R D' R' U' R U D R2
+AOY:U' R2 U' R' U R D' R' U' R U D R2 U,AYO:U' R2 U' D' R' U R D R' U' R U R2 U
+AOY:U' R2 U' R' U R D' R' U' R U D R2 U,GOY:U R2 U' R' U R D' R' U' R U D R2 U'
+AOZ:U' R U' R D' R' U R D R2 U,JOZ:R U' R D' R' U R D R2
+AOZ:U' R U' R D' R' U R D R2 U,ARN:U' D R U' R D' R' U R D R2 U D'
+AOZ:U' R U' R D' R' U R D R2 U,AZO:U' R2 D' R' U' R D R' U R' U
+AOZ:U' R U' R D' R' U R D R2 U,GOZ:U R U' R D' R' U R D R2 U'
+APD:U D' R D R' U R D' R' U2 D,ASD:U R D R' U R D' R' U2
+APD:U D' R D R' U R D' R' U2 D,GDP:D' R D R' U R D' R' U' D
+APD:U D' R D R' U R D' R' U2 D,JGP:U' D' R D R' U R D' R' D
+APD:U D' R D R' U R D' R' U2 D,JPA:U2 D' R D R' U R D' R' U D
+APE:R U R' U' D' R D R' U2 R D' R' U' D R U' R',GFO:R' U' D' R D R' U2 R D' R' U' D R
+APF:R' F R U R D' R' U' R D R2 F' R,JOE:R U R D' R' U' R D R2
+APM:R' F2 R2 D' R' U' R D R' U R' F2 R,JZO:R2 D' R' U' R D R' U R'
+APN:R B R' U' D R' D' R U2 R' D R U' D' R B' R',ATN:R' U' D R' D' R U2 R' D R U' D' R
+APR:U2 R' U R2 D' R' U2 R D R' U2 R' U' R U2,GPR:R' U R2 D' R' U2 R D R' U2 R' U' R
+APR:U2 R' U R2 D' R' U2 R D R' U2 R' U' R U2,ARP:U2 R' U R U2 R D' R' U2 R D R2 U' R U2
+APR:U2 R' U R2 D' R' U2 R D R' U2 R' U' R U2,DPR:U R' U R2 D' R' U2 R D R' U2 R' U' R U'
+APR:U2 R' U R2 D' R' U2 R D R' U2 R' U' R U2,JPR:U' R' U R2 D' R' U2 R D R' U2 R' U' R U
+APS:R B R' U2 R D R' U2 R D' B' R',AQT:D' R' U2 R D R' U2 R
+APS:R B R' U2 R D R' U2 R D' B' R',ASP:R B D R' U2 R D' R' U2 R B' R'
+APS:R B R' U2 R D R' U2 R D' B' R',GSA:U2 R D R' U2 R D' R'
+APT:R' D' R D R' U2 R D' R' U2 D R,GAP:D' R D R' U2 R D' R' U2 D
+APT:R' D' R D R' U2 R D' R' U2 D R,ATP:R' U2 D' R D R' U2 R D' R' D R
+APT:R' D' R D R' U2 R D' R' U2 D R,JBQ:R D' R D R' U2 R D' R' U2 D R'
+APT:R' D' R D R' U2 R D' R' U2 D R,JPT:U R' D' R D R' U2 R D' R' U2 D R U'
+APW:R' F R U2 R D' R' U2 R D R2 F' R,JOB:R U2 R D' R' U2 R D R2
+APW:R' F R U2 R D' R' U2 R D R2 F' R,AWP:R' F R2 D' R' U2 R D R' U2 R' F' R
+APW:R' F R U2 R D' R' U2 R D R2 F' R,DPW:U' R' F R U2 R D' R' U2 R D R2 F' R U
+APW:R' F R U2 R D' R' U2 R D R2 F' R,JPW:U R' F R U2 R D' R' U2 R D R2 F' R U'
+APX:U R U R' U2 R D' R' U R D R' U R U' R' U',GPC:R' U2 R D' R' U R D R' U R
+APX:U R U R' U2 R D' R' U R D R' U R U' R' U',AXP:U R U R' U' R D' R' U' R D R' U2 R U' R' U'
+APY:R U' D' R D R' U' R D' R' U2 D R',JAP:U' D' R D R' U' R D' R' U2 D
+APY:R U' D' R D R' U' R D' R' U2 D R',AYP:R U2 D' R D R' U R D' R' U D R'
+APY:R U' D' R D R' U' R D' R' U2 D R',GCO:R' U' D' R D R' U' R D' R' U2 D R
+APY:R U' D' R D R' U' R D' R' U2 D R',GQW:R' F' R U' D' R D R' U' R D' R' U2 D R' F R
+APY:R U' D' R D R' U' R D' R' U2 D R',WTQ:R2 F' R U' D' R D R' U' R D' R' U2 D R' F R2
+APZ:U2 R B R2 D' R U R' D R U' R B' R' U2,GPZ:R B R2 D' R U R' D R U' R B' R'
+APZ:U2 R B R2 D' R U R' D R U' R B' R' U2,AZP:U2 R B R' U R' D' R U' R' D R2 B' R' U2
+APZ:U2 R B R2 D' R U R' D R U' R B' R' U2,DPZ:U R B R2 D' R U R' D R U' R B' R' U'
+APZ:U2 R B R2 D' R U R' D R U' R B' R' U2,JPZ:U' R B R2 D' R U R' D R U' R B' R' U
+AQD:U R D' R' U R D R' U2,JGQ:U' R D' R' U R D R'
+AQD:U R D' R' U R D R' U2,ATD:U D R D' R' U R D R' U2 D'
+AQD:U R D' R' U R D R' U2,DMQ:R F R' U R D' R' U R D R' U2 R F' R'
+AQD:U R D' R' U R D R' U2,GDQ:R D' R' U R D R' U'
+AQD:U R D' R' U R D R' U2,JEB:R2 D R' U R D' R' U R D R' U2 R D' R2
+AQD:U R D' R' U R D R' U2,JQA:U2 R D' R' U R D R' U
+AQE:R U R' U' R D' R' U2 R D R' U' R U' R',GFP:R' U' R D' R' U2 R D R' U' R
+AQF:U2 R U' R' U R D' R' U' R U D R' U2,JHO:R U' R' U R D' R' U' R U D R'
+AQF:U2 R U' R' U R D' R' U' R U D R' U2,GEO:U R U' R' U R D' R' U' R U D R' U'
+AQF:U2 R U' R' U R D' R' U' R U D R' U2,JQC:U' R U' R' U R D' R' U' R U D R' U
+AQN:U' R' F' R U' R D' R' U R D R2 F R U,JQN:R' F' R U' R D' R' U R D R2 F R
+AQN:U' R' F' R U' R D' R' U R D R2 F R U,GQN:U R' F' R U' R D' R' U R D R2 F R U'
+AQR:U' R D' R2 D R U R' D' R U' R D R' U,JQR:R D' R2 D R U R' D' R U' R D R'
+AQR:U' R D' R2 D R U R' D' R U' R D R' U,ARQ:U' R D' R' U R' D R U' R' D' R2 D R' U
+AQR:U' R D' R2 D R U R' D' R U' R D R' U,GQR:U R D' R2 D R U R' D' R U' R D R' U'
+AQS:R' U R2 D' R' U R D R' U' R' U' R,GBO:U R2 D' R' U R D R' U' R' U'
+AQS:R' U R2 D' R' U R D R' U' R' U' R,ASQ:R' U R U R D' R' U' R D R2 U' R
+AQS:R' U R2 D' R' U R D R' U' R' U' R,ATY:D R' U R2 D' R' U R D R' U' R' U' R D'
+AQS:R' U R2 D' R' U R D R' U' R' U' R,DQS:U' R' U R2 D' R' U R D R' U' R' U' R U
+AQT:D' R' U2 R D R' U2 R,JBO:R2 D' R' U2 R D R' U2 R'
+AQT:D' R' U2 R D R' U2 R,GAQ:R D' R' U2 R D R' U2
+AQT:D' R' U2 R D R' U2 R,ATQ:R' U2 R D' R' U2 R D
+AQT:D' R' U2 R D R' U2 R,JQT:U D' R' U2 R D R' U2 R U'
+AQT:D' R' U2 R D R' U2 R,GSA:U2 R D R' U2 R D' R'
+AQT:D' R' U2 R D R' U2 R,JGB:R U2 R D R' U2 R D' R2
+AQT:D' R' U2 R D R' U2 R,GWZ:R F' R' U2 R D R' U2 R D' F R'
+AQW:U R B' R' D R' D' R2 B' R2 D R D' R B2 R' U',DQW:R B' R' D R' D' R2 B' R2 D R D' R B2 R'
+AQW:U R B' R' D R' D' R2 B' R2 D R D' R B2 R' U',AWQ:U R B2 R' D R' D' R2 B R2 D R D' R B R' U'
+AQX:R' U D' R' U R D R' U' R U' R,DQT:D' R' U R D R' U' R
+AQX:R' U D' R' U R D R' U' R U' R,AXQ:R' U R' U R D' R' U' R U' D R
+AQY:R U' R D' R' U' R D R' U2 R',JAQ:U' R D' R' U' R D R' U2
+AQY:R U' R D' R' U' R D R' U2 R',AYQ:R U2 R D' R' U R D R' U R'
+AQY:R U' R D' R' U' R D R' U2 R',GCP:R' U' R D' R' U' R D R' U2 R
+AQY:R U' R D' R' U' R D R' U2 R',GOW:R' F' R U' R D' R' U' R D R' U2 R' F R
+AQY:R U' R D' R' U' R D R' U2 R',JQY:U R U' R D' R' U' R D R' U2 R' U'
+AQY:R U' R D' R' U' R D R' U2 R',WTO:R2 F' R U' R D' R' U' R D R' U2 R' F R2
+AQZ:U' R U' D' R D R' U R D' R' D R' U,JQZ:R U' D' R D R' U R D' R' D R'
+AQZ:U' R U' D' R D R' U R D' R' D R' U,AZQ:U' R D' R D R' U' R D' R' U D R' U
+ARD:R U2 D' R' D R U R' D' R U D R',AYD:U2 D' R' D R U R' D' R U D
+ARD:R U2 D' R' D R U R' D' R U D R',JDA:R' U2 D' R' D R U R' D' R U D R
+ARE:U' D R U2 R D' R' U2 R D R2 U D',JOB:R U2 R D' R' U2 R D R2
+ARE:U' D R U2 R D' R' U2 R D R2 U D',JIT:U D R U2 R D' R' U2 R D R2 U' D'
+ARE:U' D R U2 R D' R' U2 R D R2 U D',JRB:D R U2 R D' R' U2 R D R2 D'
+ARF:R' F R U R D R' U' R D' R2 F' R,JGE:R U R D R' U' R D' R2
+ARM:R' F2 R2 D R' U' R D' R' U R' F2 R,JSG:R D R' U' R D' R' U
+ARM:R' F2 R2 D R' U' R D' R' U R' F2 R,GYS:D R' U' R D' R' U R
+ARN:U' D R U' R D' R' U R D R2 U D',GRN:U D R U' R D' R' U R D R2 U' D'
+ARN:U' D R U' R D' R' U R D R2 U D',JRN:D R U' R D' R' U R D R2 D'
+ARO:R' U' R2 D' R' U R D R' U' R' U R,GQC:U' R2 D' R' U R D R' U' R' U
+ARO:R' U' R2 D' R' U R D R' U' R' U R,DRO:U' R' U' R2 D' R' U R D R' U' R' U R U
+ARP:U2 R' U R U2 R D' R' U2 R D R2 U' R U2,GRP:R' U R U2 R D' R' U2 R D R2 U' R
+ARP:U2 R' U R U2 R D' R' U2 R D R2 U' R U2,DRP:U R' U R U2 R D' R' U2 R D R2 U' R U'
+ARP:U2 R' U R U2 R D' R' U2 R D R2 U' R U2,JRP:U' R' U R U2 R D' R' U2 R D R2 U' R U
+ARQ:U' R D' R' U R' D R U' R' D' R2 D R' U,JRQ:R D' R' U R' D R U' R' D' R2 D R'
+ARQ:U' R D' R' U R' D R U' R' D' R2 D R' U,GRQ:U R D' R' U R' D R U' R' D' R2 D R' U'
+ARW:R' F R U2 R D R' U2 R D' R2 F' R,JGB:R U2 R D R' U2 R D' R2
+ARW:R' F R U2 R D R' U2 R D' R2 F' R,AWR:R' F R2 D R' U2 R D' R' U2 R' F' R
+ARW:R' F R U2 R D R' U2 R D' R2 F' R,DRW:U' R' F R U2 R D R' U2 R D' R2 F' R U
+ARW:R' F R U2 R D R' U2 R D' R2 F' R,JRW:U R' F R U2 R D R' U2 R D' R2 F' R U'
+ARX:R' U' R U R' D' R U R' D R U2 R' U R,JET:R U R' D' R U R' D R U2 R'
+ARX:R' U' R U R' D' R U R' D R U2 R' U R,AXR:R' U' R U2 R' D' R U' R' D R U' R' U R
+ARY:R D' R' D R U' R' D' R U D R',JAY:D' R' D R U' R' D' R U D
+ARY:R D' R' D R U' R' D' R U D R',AXM:D R D' R' D R U' R' D' R U D R' D'
+ARY:R D' R' D R U' R' D' R U D R',AYR:R U' D' R' D R U R' D' R D R'
+ARY:R D' R' D R U' R' D' R U D R',JHA:R' D' R' D R U' R' D' R U D R
+ARY:R D' R' D R U' R' D' R U D R',JRY:U R D' R' D R U' R' D' R U D R' U'
+ARZ:R2 U' R2 D' R U2 R' D R U2 R U R2,JIA:U' R2 D' R U2 R' D R U2 R U
+ARZ:R2 U' R2 D' R U2 R' D R U2 R U R2,AZR:R2 U' R' U2 R' D' R U2 R' D R2 U R2
+ARZ:R2 U' R2 D' R U2 R' D R U2 R U R2,JCX:R U' R2 D' R U2 R' D R U2 R U R'
+ASD:U R D R' U R D' R' U2,JGS:U' R D R' U R D' R'
+ASD:U R D R' U R D' R' U2,DZW:R F' R' U R D R' U R D' R' U2 R F R'
+ASD:U R D R' U R D' R' U2,GDS:R D R' U R D' R' U'
+ASD:U R D R' U R D' R' U2,GEB:R U R D R' U R D' R' U2 R'
+ASD:U R D R' U R D' R' U2,JSA:U2 R D R' U R D' R' U
+ASE:R U R' U' R D R' U2 R D' R' U' R U' R',AZE:U R' U' R D R' U2 R D' R' U' R U'
+ASE:R U R' U' R D R' U2 R D' R' U' R U' R',GFB:R2 U R' U' R D R' U2 R D' R' U' R U' R2
+ASF:R' U R U R D R' U' R D' R2 U' R,GDB:U R U R D R' U' R D' R2 U'
+ASM:R' U R U2 R' D R U' R' D' R U' R' U' R,GNB:U R U2 R' D R U' R' D' R U' R' U'
+ASN:U' R' F' R U' R D R' U R D' R2 F R U,JSN:R' F' R U' R D R' U R D' R2 F R
+ASN:U' R' F' R U' R D R' U R D' R2 F R U,DSN:U2 R' F' R U' R D R' U R D' R2 F R U2
+ASN:U' R' F' R U' R D R' U R D' R2 F R U,GSN:U R' F' R U' R D R' U R D' R2 F R U'
+ASP:R B D R' U2 R D' R' U2 R B' R',GAS:R D R' U2 R D' R' U2
+ASP:R B D R' U2 R D' R' U2 R B' R',ATQ:R' U2 R D' R' U2 R D
+ASQ:R' U R U R D' R' U' R D R2 U' R,GOB:U R U R D' R' U' R D R2 U'
+ASQ:R' U R U R D' R' U' R D R2 U' R,AYT:D R' U R U R D' R' U' R D R2 U' R D'
+ASQ:R' U R U R D' R' U' R D R2 U' R,DSQ:U' R' U R U R D' R' U' R D R2 U' R U
+ASW:R' F R U2 D R D' R' U2 R D R' D' R' F' R,JHB:R U2 D R D' R' U2 R D R' D' R'
+ASW:R' F R U2 D R D' R' U2 R D R' D' R' F' R,AWS:R' F R D R D' R' U2 R D R' U2 D' R' F' R
+ASX:R' U D R U R D' R' U' R D R2 U' D' R,GRB:U D R U R D' R' U' R D R2 U' D'
+ASX:R' U D R U R D' R' U' R D R2 U' D' R,AXS:R' U D R2 D' R' U R D R' U' R' U' D' R
+ASY:D' R U' R' D R U R',JAZ:R' D' R U' R' D R U
+ASY:D' R U' R' D R U R',JAO:R' B D' R U' R' D R U R' B' R
+ASY:D' R U' R' D R U R',JGC:R2 D' R U' R' D R U R
+ASY:D' R U' R' D R U R',AYM:R U' R' D R U R' D'
+ASY:D' R U' R' D R U R',AYS:R U' R' D' R U R' D
+ASY:D' R U' R' D R U R',GXW:R' F' D' R U' R' D R U R' F R
+ASY:D' R U' R' D R U R',JSY:U D' R U' R' D R U R' U'
+ASY:D' R U' R' D R U R',DRM:R U' R U' R' D R U R' U D' R'
+ASZ:U' R D' R' D R U R' D' R U' D R' U,JSZ:R D' R' D R U R' D' R U' D R'
+ASZ:U' R D' R' D R U R' D' R U' D R' U,AZS:U' R U D' R' D R U' R' D' R D R' U
+ATD:U D R D' R' U R D R' U2 D',AXD:R' U D R D' R' U R D R' U2 D' R
+ATD:U D R D' R' U R D R' U2 D',GDA:R U D R D' R' U R D R' U2 D' R'
+ATD:U D R D' R' U R D R' U2 D',GDT:D R D' R' U R D R' U' D'
+ATD:U D R D' R' U R D R' U2 D',JGT:U' D R D' R' U R D R' D'
+ATD:U D R D' R' U R D R' U2 D',JTA:U2 D R D' R' U R D R' U D'
+ATE:U' R U' R' D' R U2 R' D R U' R' U,JTB:R U' R' D' R U2 R' D R U' R'
+ATE:U' R U' R' D' R U2 R' D R U' R' U,AXE:R' U' R U' R' D' R U2 R' D R U' R' U R
+ATE:U' R U' R' D' R U2 R' D R U' R' U,JFB:R2 U' R U' R' D' R U2 R' D R U' R' U R2
+ATE:U' R U' R' D' R U2 R' D R U' R' U,JIS:U R U' R' D' R U2 R' D R U' R' U'
+ATF:U R' U R2 D R' U2 R D' R' U2 R' U' R U',GER:R' U R2 D R' U2 R D' R' U2 R' U' R
+ATM:R' U' R' D R U2 R' D' R U' R,GMA:U' R' D R U2 R' D' R U'
+ATM:R' U' R' D R U2 R' D' R U' R,JNB:R U' R' D R U2 R' D' R U' R'
+ATN:R' U' D R' D' R U2 R' D R U' D' R,GNA:U' D R' D' R U2 R' D R U' D'
+ATN:R' U' D R' D' R U2 R' D R U' D' R,JWB:R U' D R' D' R U2 R' D R U' D' R'
+ATO:U' R2 D' R2 U' R' U R2 D R2 U' R U2,GTO:U R2 D' R2 U' R' U R2 D R2 U' R
+ATO:U' R2 D' R2 U' R' U R2 D R2 U' R U2,JTO:R2 D' R2 U' R' U R2 D R2 U' R U
+ATP:R' U2 D' R D R' U2 R D' R' D R,GPA:U2 D' R D R' U2 R D' R' D
+ATP:R' U2 D' R D R' U2 R D' R' D R,JQB:R U2 D' R D R' U2 R D' R' D R'
+ATP:R' U2 D' R D R' U2 R D' R' D R,JTP:U R' U2 D' R D R' U2 R D' R' D R U'
+ATQ:R' U2 R D' R' U2 R D,GAS:R D R' U2 R D' R' U2
+ATQ:R' U2 R D' R' U2 R D,JBG:R2 D R' U2 R D' R' U2 R'
+ATQ:R' U2 R D' R' U2 R D,GQA:U2 R D' R' U2 R D R'
+ATQ:R' U2 R D' R' U2 R D,GZW:R F' D R' U2 R D' R' U2 R F R'
+ATQ:R' U2 R D' R' U2 R D,JOB:R U2 R D' R' U2 R D R2
+ATQ:R' U2 R D' R' U2 R D,JTQ:U R' U2 R D' R' U2 R U' D
+ATW:R U R U R2 D R U' R' D' R U R U' R' U' R',AXW:U R U R2 D R U' R' D' R U R U' R' U'
+ATW:R U R U R2 D R U' R' D' R U R U' R' U' R',AWT:R U R U R' U' R' D R U R' D' R2 U' R' U' R'
+ATX:R' U2 D R D' R' U2 R D R' D' R,GTA:U2 D R D' R' U2 R D R' D'
+ATX:R' U2 D R D' R' U2 R D R' D' R,AXT:R' D R D' R' U2 R D R' U2 D' R
+ATX:R' U2 D R D' R' U2 R D R' D' R,JHB:R U2 D R D' R' U2 R D R' D' R'
+ATY:D R' U R2 D' R' U R D R' U' R' U' R D',AYT:D R' U R U R D' R' U' R D R2 U' R D'
+ATZ:U' D' R U R' D R U' R' U,JTZ:D' R U R' D R U' R'
+ATZ:U' D' R U R' D R U' R' U,AZN:U' R U R' D R U' R' U D'
+ATZ:U' D' R U R' D R U' R' U,AZT:U' R U R' D' R U' R' U D
+ATZ:U' D' R U R' D R U' R' U,JCZ:R' U' D' R U R' D R U' R' U R
+AWD:U R F' D R' U R D' R' U' R F R' U',GDW:R F' D R' U R D' R' U' R F R'
+AWE:R' U' R U' D R' D' R U2 R' D R U' D' R' U R,JWB:R U' D R' D' R U2 R' D R U' D' R'
+AWF:U2 R' U D R U' R' D' R U R' U' R U2,JHM:R' U D R U' R' D' R U R' U' R
+AWF:U2 R' U D R U' R' D' R U R' U' R U2,GEM:U R' U D R U' R' D' R U R' U' R U'
+AWF:U2 R' U D R U' R' D' R U R' U' R U2,JWC:U' R' U D R U' R' D' R U R' U' R U
+AWO:R' F R D' R D R' U2 R D' R' U2 D R' F' R,JBQ:R D' R D R' U2 R D' R' U2 D R'
+AWP:R' F R2 D' R' U2 R D R' U2 R' F' R,JBO:R2 D' R' U2 R D R' U2 R'
+AWP:R' F R2 D' R' U2 R D R' U2 R' F' R,DWP:U' R' F R2 D' R' U2 R D R' U2 R' F' R U
+AWP:R' F R2 D' R' U2 R D R' U2 R' F' R,JWP:U R' F R2 D' R' U2 R D R' U2 R' F' R U'
+AWQ:U R B2 R' D R' D' R2 B R2 D R D' R B R' U',DWQ:R B2 R' D R' D' R2 B R2 D R D' R B R'
+AWR:R' F R2 D R' U2 R D' R' U2 R' F' R,JBG:R2 D R' U2 R D' R' U2 R'
+AWR:R' F R2 D R' U2 R D' R' U2 R' F' R,DWR:U' R' F R2 D R' U2 R D' R' U2 R' F' R U
+AWR:R' F R2 D R' U2 R D' R' U2 R' F' R,JWR:U R' F R2 D R' U2 R D' R' U2 R' F' R U'
+AWS:R' F R D R D' R' U2 R D R' U2 D' R' F' R,JBH:R D R D' R' U2 R D R' U2 D' R'
+AWT:R U R U R' U' R' D R U R' D' R2 U' R' U' R',AWX:U R U R' U' R' D R U R' D' R2 U' R' U'
+AWX:U R U R' U' R' D R U R' D' R2 U' R' U',DWX:R U R' U' R' D R U R' D' R2 U' R'
+AWX:U R U R' U' R' D R U R' D' R2 U' R' U',AXW:U R U R2 D R U' R' D' R U R U' R' U'
+AWY:R' F R U R' D' R U2 R' D R U R' F' R,JBT:R U R' D' R U2 R' D R U R'
+AWY:R' F R U R' D' R U2 R' D R U R' F' R,AYW:R' F R U' R' D' R U2 R' D R U' R' F' R
+AWY:R' F R U R' D' R U2 R' D R U R' F' R,JAW:R2 F R U R' D' R U2 R' D R U R' F' R2
+AWZ:U' R D R' D' R U R' D R U' D' R' U,JWZ:R D R' D' R U R' D R U' D' R'
+AWZ:U' R D R' D' R U R' D R U' D' R' U,AZW:U' R U D R' D' R U' R' D R D' R' U
+AXD:R' U D R D' R' U R D R' U2 D' R,GDA:R U D R D' R' U R D R' U2 D' R'
+AXE:R' U' R U' R' D' R U2 R' D R U' R' U R,JFB:R2 U' R U' R' D' R U2 R' D R U' R' U R2
+AXF:U' R U' R' U2 R' D' R U2 R' D R2 U R' U,JXC:R U' R' U2 R' D' R U2 R' D R2 U R'
+AXN:U' R U' R' U2 R' D R U2 R' D' R2 U R' U,JXN:R U' R' U2 R' D R U2 R' D' R2 U R'
+AXN:U' R U' R' U2 R' D R U2 R' D' R2 U R' U,DXN:U2 R U' R' U2 R' D R U2 R' D' R2 U R' U2
+AXN:U' R U' R' U2 R' D R U2 R' D' R2 U R' U,GXN:U R U' R' U2 R' D R U2 R' D' R2 U R' U'
+AXO:U R B' R' U2 R' D' R U2 R' D R2 B R' U',DXO:R B' R' U2 R' D' R U2 R' D R2 B R'
+AXO:U R B' R' U2 R' D' R U2 R' D R2 B R' U',GXO:U' R B' R' U2 R' D' R U2 R' D R2 B R' U
+AXP:U R U R' U' R D' R' U' R D R' U2 R U' R' U',GCP:R' U' R D' R' U' R D R' U2 R
+AXQ:R' U R' U R D' R' U' R U' D R,DZT:D R' U R D' R' U' R
+AXQ:R' U R' U R D' R' U' R U' D R,DTQ:R' U R D' R' U' R D
+AXR:R' U' R U2 R' D' R U' R' D R U' R' U R,JTE:R U2 R' D' R U' R' D R U' R'
+AXS:R' U D R2 D' R' U R D R' U' R' U' D' R,GBR:U D R2 D' R' U R D R' U' R' U' D'
+AXT:R' D R D' R' U2 R D R' U2 D' R,GAT:D R D' R' U2 R D R' U2 D'
+AXT:R' D R D' R' U2 R D R' U2 D' R,JBH:R D R D' R' U2 R D R' U2 D' R'
+AXW:U R U R2 D R U' R' D' R U R U' R' U',DXW:R U R2 D R U' R' D' R U R U' R'
+AYD:U2 D' R' D R U R' D' R U D,GDY:U D' R' D R U R' D' R U2 D
+AYD:U2 D' R' D R U R' D' R U D,JDA:R' U2 D' R' D R U R' D' R U D R
+AYD:U2 D' R' D R U R' D' R U D,JGY:D' R' D R U R' D' R U' D
+AYD:U2 D' R' D R U R' D' R U D,JYA:U' D' R' D R U R' D' R D
+AYE:U D' R2 D R U2 R' D' R U2 R U' D,GFW:R2 D R U2 R' D' R U2 R
+AYE:U D' R2 D R U2 R' D' R U2 R U' D,GFX:D' R2 D R U2 R' D' R U2 R D
+AYE:U D' R2 D R U2 R' D' R U2 R U' D,JIX:U' D' R2 D R U2 R' D' R U2 R U D
+AYF:R U' R2 D' R U' R' D R U R U R',JFA:U' R2 D' R U' R' D R U R U
+AYM:R U' R' D R U R' D',JYM:U R U' R' D R U R' U' D'
+AYM:R U' R' D R U R' D',DRM:R U' R U' R' D R U R' U D' R'
+AYM:R U' R' D R U R' D',GWB:R' F' R U' R' D R U R' D' F R
+AYM:R U' R' D R U R' D',GWC:R' U' R' D R U R' D' R2
+AYM:R U' R' D R U R' D',JMA:U' R' D R U R' D' R
+AYM:R U' R' D R U R' D',JNH:R' F R U' R' D R U R' D' F' R
+AYM:R U' R' D R U R' D',JDO:R' U' D' R2 U' R' D R U R' D' R' U D R
+AYN:R U' D R' D' R U R' D R D' R',JNA:U' D R' D' R U R' D R D'
+AYN:R U' D R' D' R U R' D R D' R',GMC:R' U' D R' D' R U R' D R D' R
+AYO:U' R2 U' D' R' U R D R' U' R U R2 U,JYO:R2 U' D' R' U R D R' U' R U R2
+AYO:U' R2 U' D' R' U R D R' U' R U R2 U,GYO:U R2 U' D' R' U R D R' U' R U R2 U'
+AYP:R U2 D' R D R' U R D' R' U D R',JPA:U2 D' R D R' U R D' R' U D
+AYP:R U2 D' R D R' U R D' R' U D R',GOC:R' U2 D' R D R' U R D' R' U D R
+AYP:R U2 D' R D R' U R D' R' U D R',GWQ:R' F' R U2 D' R D R' U R D' R' U D R' F R
+AYP:R U2 D' R D R' U R D' R' U D R',WQT:R2 F' R U2 D' R D R' U R D' R' U D R' F R2
+AYQ:R U2 R D' R' U R D R' U R',JQA:U2 R D' R' U R D R' U
+AYQ:R U2 R D' R' U R D R' U R',GPC:R' U2 R D' R' U R D R' U R
+AYQ:R U2 R D' R' U R D R' U R',GWO:R' F' R U2 R D' R' U R D R' U R' F R
+AYQ:R U2 R D' R' U R D R' U R',JYQ:U R U2 R D' R' U R D R' U R' U'
+AYQ:R U2 R D' R' U R D R' U R',WOT:R2 F' R U2 R D' R' U R D R' U R' F R2
+AYR:R U' D' R' D R U R' D' R D R',JYA:U' D' R' D R U R' D' R D
+AYR:R U' D' R' D R U R' D' R D R',JAH:R' U' D' R' D R U R' D' R D R
+AYR:R U' D' R' D R U R' D' R D R',JYR:U R U' D' R' D R U R' D' R D R' U'
+AYS:R U' R' D' R U R' D,JOA:R' B R U' R' D' R U R' D B' R
+AYS:R U' R' D' R U R' D,GWX:R' F' R U' R' D' R U R' D F R
+AYS:R U' R' D' R U R' D,JCG:R' U' R' D' R U R' D R2
+AYS:R U' R' D' R U R' D,JYS:U R U' R' D' R U R' U' D
+AYS:R U' R' D' R U R' D,JZA:U' R' D' R U R' D R
+AYW:R' F R U' R' D' R U2 R' D R U' R' F' R,JTB:R U' R' D' R U2 R' D R U' R'
+AYW:R' F R U' R' D' R U2 R' D R U' R' F' R,JWA:R2 F R U' R' D' R U2 R' D R U' R' F' R2
+AZD:U2 R' D' R U R' D R U,JZA:U' R' D' R U R' D R
+AZD:U2 R' D' R U R' D R U,GDZ:U R' D' R U R' D R U2
+AZD:U2 R' D' R U R' D R U,JFC:R' U2 R' D' R U R' D R U R
+AZD:U2 R' D' R U R' D R U,JGZ:R' D' R U R' D R U'
+AZE:U R' U' R D R' U2 R D' R' U' R U',GFY:R' U' R D R' U2 R D' R' U' R
+AZE:U R' U' R D R' U2 R D' R' U' R U',GFB:R2 U R' U' R D R' U2 R D' R' U' R U' R2
+AZE:U R' U' R D R' U2 R D' R' U' R U',JIY:U' R' U' R D R' U2 R D' R' U' R U
+AZF:R B' R2 D' R U' R' D R U R B R',JGC:R2 D' R U' R' D R U R
+AZM:U R U' R' U' R' D R U R' D' R2 U R' U',DZM:R U' R' U' R' D R U R' D' R2 U R'
+AZN:U' R U R' D R U' R' U D',JMC:R' U' R U R' D R U' R' U D' R
+AZN:U' R U R' D R U' R' U D',GZN:U R U R' D R U' R' U' D'
+AZN:U' R U R' D R U' R' U D',JZN:R U R' D R U' R' D'
+AZO:U' R2 D' R' U' R D R' U R' U,JZO:R2 D' R' U' R D R' U R'
+AZO:U' R2 D' R' U' R D R' U R' U,GZO:U R2 D' R' U' R D R' U R' U'
+AZP:U2 R B R' U R' D' R U' R' D R2 B' R' U2,GZP:R B R' U R' D' R U' R' D R2 B' R'
+AZP:U2 R B R' U R' D' R U' R' D R2 B' R' U2,DZP:U R B R' U R' D' R U' R' D R2 B' R' U'
+AZP:U2 R B R' U R' D' R U' R' D R2 B' R' U2,JZP:U' R B R' U R' D' R U' R' D R2 B' R' U
+AZQ:U' R D' R D R' U' R D' R' U D R' U,JZQ:R D' R D R' U' R D' R' U D R'
+AZR:R2 U' R' U2 R' D' R U2 R' D R2 U R2,JAI:U' R' U2 R' D' R U2 R' D R2 U
+AZR:R2 U' R' U2 R' D' R U2 R' D R2 U R2,JXC:R U' R' U2 R' D' R U2 R' D R2 U R'
+AZS:U' R U D' R' D R U' R' D' R D R' U,JZS:R U D' R' D R U' R' D' R D R'
+AZT:U' R U R' D' R U' R' U D,JZC:R' U' R U R' D' R U' R' U D R
+AZT:U' R U R' D' R U' R' U D,JZT:R U R' D' R U' R' D
+AZW:U' R U D R' D' R U' R' D R D' R' U,JZW:R U D R' D' R U' R' D R D' R'
+DMO:U' R' F R D' R D R2 F R2 D' R' D R' F2 R U,DOM:U' R' F2 R D' R D R2 F' R2 D' R' D R' F' R U
+DMP:U R B R' U R' D R U' R' D' R2 B' R' U',GMP:R B R' U R' D R U' R' D' R2 B' R'
+DMP:U R B R' U R' D R U' R' D' R2 B' R' U',DPM:U R B R2 D R U R' D' R U' R B' R' U'
+DMP:U R B R' U R' D R U' R' D' R2 B' R' U',JMP:U' R B R' U R' D R U' R' D' R2 B' R' U
+DMQ:R F R' U R D' R' U R D R' U2 R F' R',DQM:R F R' U2 R D' R' U' R D R' U' R F' R'
+DMR:R U' D R U' R' D' R U R' U R',DRM:R U' R U' R' D R U R' U D' R'
+DMS:U R' U D R' D' R U' R' D R D' R U',GMS:R' U D R' D' R U' R' D R D' R
+DMS:U R' U D R' D' R U' R' D R D' R U',DSM:U R' D R' D' R U R' D R U' D' R U'
+DMT:R' U R' D R U R' D' R U2 R,GDM:U R' D R U R' D' R U2
+DMT:R' U R' D R U R' D' R U2 R,DTM:R' U2 R' D R U' R' D' R U' R
+DMT:R' U R' D R U R' D' R U2 R,GMT:U' R' U R' D R U R' D' R U2 R U
+DMT:R' U R' D R U R' D' R U2 R,JEN:R U R' D R U R' D' R U2 R'
+DMT:R' U R' D R U R' D' R U2 R,JWO:R B R' U R' D R U R' D' R U2 R B' R'
+DMT:R' U R' D R U R' D' R U2 R,XNQ:R2 B R' U R' D R U R' D' R U2 R B' R2
+DMX:U R' D R2 D' R' U' R D R' U R' D' R U',GMX:R' D R2 D' R' U' R D R' U R' D' R
+DMX:U R' D R2 D' R' U' R D R' U R' D' R U',DXM:U R' D R U' R D' R' U R D R2 D' R U'
+DMX:U R' D R2 D' R' U' R D R' U R' D' R U',JMX:U' R' D R2 D' R' U' R D R' U R' D' R U
+DMY:D R U2 R' D' R U2 R',JDM:R' D R U2 R' D' R U2
+DMY:D R U2 R' D' R U2 R',GFW:R2 D R U2 R' D' R U2 R
+DMY:D R U2 R' D' R U2 R',DYM:R U2 R' D R U2 R' D'
+DMY:D R U2 R' D' R U2 R',GMY:U' D R U2 R' D' R U2 R' U
+DMY:D R U2 R' D' R U2 R',JZD:U2 R' D' R U2 R' D R
+DMY:D R U2 R' D' R U2 R',JFG:R' U2 R' D' R U2 R' D R2
+DMY:D R U2 R' D' R U2 R',DNZ:R' F' R U2 R' D' R U2 R' D F R
+DMY:D R U2 R' D' R U2 R',JOS:R' B R U2 R' D' R U2 R' D B' R
+DMZ:R U' R2 D R U' R' D' R U R U R',JFW:U' R2 D R U' R' D' R U R U
+DMZ:R U' R2 D R U' R' D' R U R U R',DYT:D' R U' R2 D R U' R' D' R U R U R' D
+DMZ:R U' R2 D R U' R' D' R U R U R',DZM:R U' R' U' R' D R U R' D' R2 U R'
+DNO:R B' R' U2 R' D R U2 R' D' R2 B R',GWF:R' U2 R' D R U2 R' D' R2
+DNO:R B' R' U2 R' D R U2 R' D' R2 B R',DON:R B' R2 D R U2 R' D' R U2 R B R'
+DNO:R B' R' U2 R' D R U2 R' D' R2 B R',GNO:U' R B' R' U2 R' D R U2 R' D' R2 B R' U
+DNP:R' F' R U D' R D R' U2 R D' R' U D R' F R,DYP:R U D' R D R' U2 R D' R' U D R'
+DNP:R' F' R U D' R D R' U2 R D' R' U D R' F R,DPN:R' F' R U' D' R D R' U2 R D' R' U' D R' F R
+DNQ:R B2 R2 D R U R' D' R U' R B2 R',GSW:R2 D R U R' D' R U' R
+DNQ:R B2 R2 D R U R' D' R U' R B2 R',DQN:R B2 R' U R' D R U' R' D' R2 B2 R'
+DNR:U' R' U' R U2 R' D R U' R' D' R U' R' U R U,JNE:R U2 R' D R U' R' D' R U' R'
+DNR:U' R' U' R U2 R' D R U' R' D' R U' R' U R U,DRN:U' R' U' R U R' D R U R' D' R U2 R' U R U
+DNS:U2 R' F' R2 D R' U' R D' R' U R' F R U2,JNS:R' F' R2 D R' U' R D' R' U R' F R
+DNS:U2 R' F' R2 D R' U' R D' R' U R' F R U2,DSN:U2 R' F' R U' R D R' U R D' R2 F R U2
+DNS:U2 R' F' R2 D R' U' R D' R' U R' F R U2,GNS:U R' F' R2 D R' U' R D' R' U R' F R U'
+DNT:R' U D R' D' R U R' D R U2 D' R,GDN:U D R' D' R U R' D R U2 D'
+DNT:R' U D R' D' R U R' D R U2 D' R,DTN:R' U2 D R' D' R U' R' D R U' D' R
+DNT:R' U D R' D' R U R' D R U2 D' R,JEW:R U D R' D' R U R' D R U2 D' R'
+DNT:R' U D R' D' R U R' D R U2 D' R,JMO:R B R' U D R' D' R U R' D R U2 D' R B' R'
+DNT:R' U D R' D' R U R' D R U2 D' R,XWQ:R2 B R' U D R' D' R U R' D R U2 D' R B' R2
+DNX:U2 R U' R2 D R U2 R' D' R U2 R U R' U2,JNX:R U' R2 D R U2 R' D' R U2 R U R'
+DNX:U2 R U' R2 D R U2 R' D' R U2 R U R' U2,DXN:U2 R U' R' U2 R' D R U2 R' D' R2 U R' U2
+DNX:U2 R U' R2 D R U2 R' D' R U2 R U R' U2,GNX:U R U' R2 D R U2 R' D' R U2 R U R' U'
+DNY:R D R' D' R U2 R' D R U2 D' R',JDN:D R' D' R U2 R' D R U2 D'
+DNY:R D R' D' R U2 R' D R U2 D' R',DYN:R U2 D R' D' R U2 R' D R D' R'
+DNY:R D R' D' R U2 R' D R U2 D' R',GFM:R' D R' D' R U2 R' D R U2 D' R
+DNY:R D R' D' R U2 R' D R U2 D' R',GNY:U' R D R' D' R U2 R' D R U2 D' R' U
+DNZ:R' F' R U2 R' D' R U2 R' D F R,DZN:R' F' D' R U2 R' D R U2 R' F R
+DNZ:R' F' R U2 R' D' R U2 R' D F R,JZD:U2 R' D' R U2 R' D R
+DON:R B' R2 D R U2 R' D' R U2 R B R',GFW:R2 D R U2 R' D' R U2 R
+DON:R B' R2 D R U2 R' D' R U2 R B R',GON:U' R B' R2 D R U2 R' D' R U2 R B R' U
+DOR:U' R' U' R U R D' R' U' R D R2 U R U,DOY:R' U' R' U' R U R D' R' U' R D R2 U R U R
+DOR:U' R' U' R U R D' R' U' R D R2 U R U,DRO:U' R' U' R2 D' R' U R D R' U' R' U R U
+DOS:U R' D' R D R' U' R D' R' U D R U',GOS:R' D' R D R' U' R D' R' U D R
+DOS:U R' D' R D R' U' R D' R' U D R U',DSO:U R' U' D' R D R' U R D' R' D R U'
+DOT:R B' R' U' R D R' U2 R D' R' U' R B R',GFY:R' U' R D R' U2 R D' R' U' R
+DOT:R B' R' U' R D R' U2 R D' R' U' R B R',DTO:R B' R' U R D R' U2 R D' R' U R B R'
+DOT:R B' R' U' R D R' U2 R D' R' U' R B R',GDO:R2 B' R' U' R D R' U2 R D' R' U' R B R2
+DOW:R B' R' D R' D' R U2 R' D R U2 D' R B R',GFM:R' D R' D' R U2 R' D R U2 D' R
+DOW:R B' R' D R' D' R U2 R' D R U2 D' R B R',DWO:R B' R' U2 D R' D' R U2 R' D R D' R B R'
+DOX:R B' R2 D' R U2 R' D R U2 R B R',JGF:R2 D' R U2 R' D R U2 R
+DOX:R B' R2 D' R U2 R' D R U2 R B R',DXO:R B' R' U2 R' D' R U2 R' D R2 B R'
+DOX:R B' R2 D' R U2 R' D R U2 R B R',GOX:U' R B' R2 D' R U2 R' D R U2 R B R' U
+DOY:R' U' R' U' R U R D' R' U' R D R2 U R U R,DYO:R' U' R' U' R2 D' R' U R D R' U' R' U R U R
+DOZ:R B' R' D' R' D R U2 R' D' R U2 D R B R',JHD:R' D' R' D R U2 R' D' R U2 D R
+DOZ:R B' R' D' R' D R U2 R' D' R U2 D R B R',DZO:R B' R' U2 D' R' D R U2 R' D' R D R B R'
+DPM:U R B R2 D R U R' D' R U' R B' R' U',GPM:R B R2 D R U R' D' R U' R B' R'
+DPM:U R B R2 D R U R' D' R U' R B' R' U',JPM:U' R B R2 D R U R' D' R U' R B' R' U
+DPN:R' F' R U' D' R D R' U2 R D' R' U' D R' F R,DPY:R U' D' R D R' U2 R D' R' U' D R'
+DPR:U R' U R2 D' R' U2 R D R' U2 R' U' R U',GPR:R' U R2 D' R' U2 R D R' U2 R' U' R
+DPR:U R' U R2 D' R' U2 R D R' U2 R' U' R U',DRP:U R' U R U2 R D' R' U2 R D R2 U' R U'
+DPR:U R' U R2 D' R' U2 R D R' U2 R' U' R U',JPR:U' R' U R2 D' R' U2 R D R' U2 R' U' R U
+DPS:U D' R' U' R D R' U R U',GPS:D' R' U' R D R' U R
+DPS:U D' R' U' R D R' U R U',DSP:U R' U' R D' R' U R U' D
+DPS:U D' R' U' R D R' U R U',DSY:U R' U' R D R' U R U' D'
+DPS:U D' R' U' R D R' U R U',GEQ:R U D' R' U' R D R' U R U' R'
+DPS:U D' R' U' R D R' U R U',JPS:U' D' R' U' R D R' U R U
+DPT:R' D' R D R' U R D' R' U' D R,GDP:D' R D R' U R D' R' U' D
+DPT:R' D' R D R' U R D' R' U' D R,DTP:R' U D' R D R' U' R D' R' D R
+DPT:R' D' R D R' U R D' R' U' D R,JEQ:R D' R D R' U R D' R' U' D R'
+DPW:U' R' F R U2 R D' R' U2 R D R2 F' R U,DWP:U' R' F R2 D' R' U2 R D R' U2 R' F' R U
+DPW:U' R' F R U2 R D' R' U2 R D R2 F' R U,JPW:U R' F R U2 R D' R' U2 R D R2 F' R U'
+DPX:U D' R2 D R U R' D' R U' R U' D,DSW:U R2 D R U R' D' R U' R U'
+DPX:U D' R2 D R U R' D' R U' R U' D,DXP:U D' R' U R' D R U' R' D' R2 U' D
+DPX:U D' R2 D R U R' D' R U' R U' D,GPX:D' R2 D R U R' D' R U' R D
+DPX:U D' R2 D R U R' D' R U' R U' D,JPX:U' D' R2 D R U R' D' R U' R U D
+DPY:R U' D' R D R' U2 R D' R' U' D R',JDP:U' D' R D R' U2 R D' R' U' D
+DPY:R U' D' R D R' U2 R D' R' U' D R',DYP:R U D' R D R' U2 R D' R' U D R'
+DPY:R U' D' R D R' U2 R D' R' U' D R',GFO:R' U' D' R D R' U2 R D' R' U' D R
+DPZ:U R B R2 D' R U R' D R U' R B' R' U',GPZ:R B R2 D' R U R' D R U' R B' R'
+DPZ:U R B R2 D' R U R' D R U' R B' R' U',DZP:U R B R' U R' D' R U' R' D R2 B' R' U'
+DPZ:U R B R2 D' R U R' D R U' R B' R' U',JPZ:U' R B R2 D' R U R' D R U' R B' R' U
+DQN:R B2 R' U R' D R U' R' D' R2 B2 R',GWS:R' U R' D R U' R' D' R2
+DQR:D' R' U D R D' R' U' R D R' D' R D,DTX:R' U D R D' R' U' R D R' D' R
+DQR:D' R' U D R D' R' U' R D R' D' R D,DRQ:D' R' D R D' R' U R D R' U' D' R D
+DQS:U' R' U R2 D' R' U R D R' U' R' U' R U,DSQ:U' R' U R U R D' R' U' R D R2 U' R U
+DQT:D' R' U R D R' U' R,GDQ:R D' R' U R D R' U'
+DQT:D' R' U R D R' U' R,JEO:R2 D' R' U R D R' U' R'
+DQT:D' R' U R D R' U' R,GQT:U' D' R' U R D R' U' R U
+DQT:D' R' U R D R' U' R,DTQ:R' U R D' R' U' R D
+DQT:D' R' U R D R' U' R,DTZ:R' U R D R' U' R D'
+DQT:D' R' U R D R' U' R,GWA:R U D R' D' R' U R D R' U' R2 U' D' R'
+DQT:D' R' U R D R' U' R,JFO:R B D' R' U R D R' U' R B' R'
+DQT:D' R' U R D R' U' R,JQH:R B' D' R' U R D R' U' R B R'
+DQW:R B' R' D R' D' R2 B' R2 D R D' R B2 R',JFN:D R' D' R2 B' R2 D R D' R B R'
+DQW:R B' R' D R' D' R2 B' R2 D R D' R B2 R',DWQ:R B2 R' D R' D' R2 B R2 D R D' R B R'
+DQX:R B2 R' U R' D' R U' R' D R2 B2 R',JZT:R U R' D' R U' R' D
+DQX:R B2 R' U R' D' R U' R' D R2 B2 R',DXQ:R B2 R2 D' R U R' D R U' R B2 R'
+DQX:R B2 R' U R' D' R U' R' D R2 B2 R',JZG:U R' D' R U' R' D R
+DQY:R U' R D' R' U2 R D R' U' R',JDQ:U' R D' R' U2 R D R' U'
+DQY:R U' R D' R' U2 R D R' U' R',DYQ:R U R D' R' U2 R D R' U R'
+DQY:R U' R D' R' U2 R D R' U' R',GFP:R' U' R D' R' U2 R D R' U' R
+DQZ:R U' R' U' R D' R' U' R D R' U2 R U R',JFP:U' R' U' R D' R' U' R D R' U2 R U
+DQZ:R U' R' U' R D' R' U' R D R' U2 R U R',DZQ:R U' R' U2 R D' R' U R D R' U R U R'
+DRN:U' R' U' R U R' D R U R' D' R U2 R' U R U,JEN:R U R' D R U R' D' R U2 R'
+DRO:U' R' U' R2 D' R' U R D R' U' R' U R U,DYO:R' U' R' U' R2 D' R' U R D R' U' R' U R U R
+DRP:U R' U R U2 R D' R' U2 R D R2 U' R U',GRP:R' U R U2 R D' R' U2 R D R2 U' R
+DRP:U R' U R U2 R D' R' U2 R D R2 U' R U',JRP:U' R' U R U2 R D' R' U2 R D R2 U' R U
+DRQ:D' R' D R D' R' U R D R' U' D' R D,DXT:R' D R D' R' U R D R' U' D' R
+DRW:U' R' F R U2 R D R' U2 R D' R2 F' R U,DWR:U' R' F R2 D R' U2 R D' R' U2 R' F' R U
+DRW:U' R' F R U2 R D R' U2 R D' R2 F' R U,JRW:U R' F R U2 R D R' U2 R D' R2 F' R U'
+DRX:R U R' U2 R D R' U R D' R' U R U' R',GYC:R' U2 R D R' U R D' R' U R
+DRX:R U R' U2 R D R' U R D' R' U R U' R',DXR:R U R' U' R D R' U' R D' R' U2 R U' R'
+DRY:R D' R' D R U2 R' D' R U2 D R',JDY:D' R' D R U2 R' D' R U2 D
+DRY:R D' R' D R U2 R' D' R U2 D R',DYR:R U2 D' R' D R U2 R' D' R D R'
+DRY:R D' R' D R U2 R' D' R U2 D R',JHD:R' D' R' D R U2 R' D' R U2 D R
+DRZ:R U' D' R2 D R U' R' D' R U R U D R',JFX:U' D' R2 D R U' R' D' R U R U D
+DRZ:R U' D' R2 D R U' R' D' R U R U D R',DZR:R U' D' R' U' R' D R U R' D' R2 U D R'
+DSM:U R' D R' D' R U R' D R U' D' R U',GSM:R' D R' D' R U R' D R U' D' R
+DSN:U2 R' F' R U' R D R' U R D' R2 F R U2,JSN:R' F' R U' R D R' U R D' R2 F R
+DSN:U2 R' F' R U' R D R' U R D' R2 F R U2,GSN:U R' F' R U' R D R' U R D' R2 F R U'
+DSO:U R' U' D' R D R' U R D' R' D R U',GSO:R' U' D' R D R' U R D' R' D R
+DSP:U R' U' R D' R' U R U' D,DYS:U D R' U' R D' R' U R U'
+DSP:U R' U' R D' R' U R U' D,GQE:R U R' U' R D' R' U R U' D R'
+DSP:U R' U' R D' R' U R U' D,GSP:R' U' R D' R' U R D
+DSP:U R' U' R D' R' U R U' D,JSP:U' R' U' R D' R' U R U D
+DSW:U R2 D R U R' D' R U' R U',GSW:R2 D R U R' D' R U' R
+DSW:U R2 D R U R' D' R U' R U',DWS:U R' U R' D R U' R' D' R2 U'
+DSW:U R2 D R U R' D' R U' R U',JSW:U' R2 D R U R' D' R U' R U
+DSX:R2 U R U2 R D R' U2 R D' R2 U' R2,JIF:U R U2 R D R' U2 R D' R2 U'
+DSX:R2 U R U2 R D R' U2 R D' R2 U' R2,DXS:R2 U R2 D R' U2 R D' R' U2 R' U' R2
+DSX:R2 U R U2 R D R' U2 R D' R2 U' R2,GRE:R' U R U2 R D R' U2 R D' R2 U' R
+DSY:U R' U' R D R' U R U' D',DYS:U D R' U' R D' R' U R U'
+DSY:U R' U' R D R' U R U' D',GSE:R U R' U' R D R' U R U' D' R'
+DSY:U R' U' R D R' U R U' D',GSY:R' U' R D R' U R D'
+DSZ:U R' U' D R D' R' U R D R' D' R U',GSZ:R' U' D R D' R' U R D R' D' R
+DSZ:U R' U' D R D' R' U R D R' D' R U',DZS:U R' D R D' R' U' R D R' U D' R U'
+DTM:R' U2 R' D R U' R' D' R U' R,GMD:U2 R' D R U' R' D' R U'
+DTM:R' U2 R' D R U' R' D' R U' R,GTM:U' R' U2 R' D R U' R' D' R U' R U
+DTM:R' U2 R' D R U' R' D' R U' R,JNE:R U2 R' D R U' R' D' R U' R'
+DTM:R' U2 R' D R U' R' D' R U' R,JOW:R B R' U2 R' D R U' R' D' R U' R B' R'
+DTM:R' U2 R' D R U' R' D' R U' R,XQN:R2 B R' U2 R' D R U' R' D' R U' R B' R2
+DTN:R' U2 D R' D' R U' R' D R U' D' R,GND:U2 D R' D' R U' R' D R U' D'
+DTN:R' U2 D R' D' R U' R' D R U' D' R,JOM:R B R' U2 D R' D' R U' R' D R U' D' R B' R'
+DTN:R' U2 D R' D' R U' R' D R U' D' R,JWE:R U2 D R' D' R U' R' D R U' D' R'
+DTN:R' U2 D R' D' R U' R' D R U' D' R,XQW:R2 B R' U2 D R' D' R U' R' D R U' D' R B' R2
+DTO:R B' R' U R D R' U2 R D' R' U R B R',GYF:R' U R D R' U2 R D' R' U R
+DTO:R B' R' U R D R' U2 R D' R' U R B R',GOD:R2 B' R' U R D R' U2 R D' R' U R B R2
+DTP:R' U D' R D R' U' R D' R' D R,GPD:U D' R D R' U' R D' R' D
+DTP:R' U D' R D R' U' R D' R' D R,JQE:R U D' R D R' U' R D' R' D R'
+DTQ:R' U R D' R' U' R D,DZT:D R' U R D' R' U' R
+DTQ:R' U R D' R' U' R D,GTQ:U' R' U R D' R' U' R U D
+DTQ:R' U R D' R' U' R D,GQD:U R D' R' U' R D R'
+DTQ:R' U R D' R' U' R D,JHQ:R B' R' U R D' R' U' R D B R'
+DTQ:R' U R D' R' U' R D,JOE:R U R D' R' U' R D R2
+DTQ:R' U R D' R' U' R D,JOF:R B R' U R D' R' U' R D B' R'
+DTQ:R' U R D' R' U' R D,GAW:R U D R2 U R D' R' U' R D R U' D' R'
+DTW:U R2 U D R U' R' D' R U R' U' R2 U',GTW:R2 U D R U' R' D' R U R' U' R2
+DTW:U R2 U D R U' R' D' R U R' U' R2 U',DWT:U R2 U R U' R' D R U R' U' D' R2 U'
+DTW:U R2 U D R U' R' D' R U R' U' R2 U',JTW:U' R2 U D R U' R' D' R U R' U' R2 U
+DTX:R' U D R D' R' U' R D R' D' R,GTD:U D R D' R' U' R D R' D'
+DTX:R' U D R D' R' U' R D R' D' R,DXT:R' D R D' R' U R D R' U' D' R
+DTX:R' U D R D' R' U' R D R' D' R,GTX:U' R' U D R D' R' U' R D R' D' R U
+DTX:R' U D R D' R' U' R D R' D' R,JHE:R U D R D' R' U' R D R' D' R'
+DTY:D' R U' R' U' R' D R U R' D' R2 U R' D,DZM:R U' R' U' R' D R U R' D' R2 U R'
+DTY:D' R U' R' U' R' D R U R' D' R2 U R' D,DYT:D' R U' R2 D R U' R' D' R U R U R' D
+DTZ:R' U R D R' U' R D',GWD:R F' R' U R D R' U' R D' F R'
+DTZ:R' U R D R' U' R D',DZT:D R' U R D' R' U' R
+DTZ:R' U R D R' U' R D',GSD:U R D R' U' R D' R'
+DTZ:R' U R D R' U' R D',GTZ:U' R' U R D R' U' R U D'
+DTZ:R' U R D R' U' R D',JGE:R U R D R' U' R D' R2
+DTZ:R' U R D R' U' R D',JOR:R B R' U R D R' U' R D' B' R'
+DWO:R B' R' U2 D R' D' R U2 R' D R D' R B R',GMF:R' U2 D R' D' R U2 R' D R D' R
+DWP:U' R' F R2 D' R' U2 R D R' U2 R' F' R U,JWP:U R' F R2 D' R' U2 R D R' U2 R' F' R U'
+DWQ:R B2 R' D R' D' R2 B R2 D R D' R B R',JNF:R B' R' D R' D' R2 B R2 D R D'
+DWR:U' R' F R2 D R' U2 R D' R' U2 R' F' R U,JWR:U R' F R2 D R' U2 R D' R' U2 R' F' R U'
+DWS:U R' U R' D R U' R' D' R2 U',GWS:R' U R' D R U' R' D' R2
+DWS:U R' U R' D R U' R' D' R2 U',DXP:U D' R' U R' D R U' R' D' R2 U' D
+DWS:U R' U R' D R U' R' D' R2 U',JWS:U' R' U R' D R U' R' D' R2 U
+DWT:U R2 U R U' R' D R U R' U' D' R2 U',GWT:R2 U R U' R' D R U R' U' D' R2
+DWT:U R2 U R U' R' D R U R' U' D' R2 U',JWT:U' R2 U R U' R' D R U R' U' D' R2 U
+DWX:R U R' U' R' D R U R' D' R2 U' R',JEM:U R' U' R' D R U R' D' R2 U'
+DWX:R U R' U' R' D R U R' D' R2 U' R',DXW:R U R2 D R U' R' D' R U R U' R'
+DWY:U2 R U' R2 D R2 U R' U' R2 D' R2 U',GWY:U R U' R2 D R2 U R' U' R2 D' R2
+DWY:U2 R U' R2 D R2 U R' U' R2 D' R2 U',DYW:U R2 D R2 U R U' R2 D' R2 U R' U2
+DWY:U2 R U' R2 D R2 U R' U' R2 D' R2 U',JWY:R U' R2 D R2 U R' U' R2 D' R2 U
+DWZ:R F' R' U2 R D R' U' R D' R' U' R F R',DZW:R F' R' U R D R' U R D' R' U2 R F R'
+DXM:U R' D R U' R D' R' U R D R2 D' R U',GXM:R' D R U' R D' R' U R D R2 D' R
+DXM:U R' D R U' R D' R' U R D R2 D' R U',JXM:U' R' D R U' R D' R' U R D R2 D' R U
+DXN:U2 R U' R' U2 R' D R U2 R' D' R2 U R' U2,JXN:R U' R' U2 R' D R U2 R' D' R2 U R'
+DXN:U2 R U' R' U2 R' D R U2 R' D' R2 U R' U2,GXN:U R U' R' U2 R' D R U2 R' D' R2 U R' U'
+DXO:R B' R' U2 R' D' R U2 R' D R2 B R',JFG:R' U2 R' D' R U2 R' D R2
+DXO:R B' R' U2 R' D' R U2 R' D R2 B R',GXO:U' R B' R' U2 R' D' R U2 R' D R2 B R' U
+DXP:U D' R' U R' D R U' R' D' R2 U' D,GXP:D' R' U R' D R U' R' D' R2 D
+DXP:U D' R' U R' D R U' R' D' R2 U' D,JXP:U' D' R' U R' D R U' R' D' R2 U D
+DXQ:R B2 R2 D' R U R' D R U' R B2 R',JGZ:R' D' R U R' D R U'
+DXQ:R B2 R2 D' R U R' D R U' R B2 R',JTZ:D' R U R' D R U' R'
+DXR:R U R' U' R D R' U' R D' R' U2 R U' R',GCY:R' U' R D R' U' R D' R' U2 R
+DXS:R2 U R2 D R' U2 R D' R' U2 R' U' R2,JFI:U R2 D R' U2 R D' R' U2 R' U'
+DXS:R2 U R2 D R' U2 R D' R' U2 R' U' R2,GER:R' U R2 D R' U2 R D' R' U2 R' U' R
+DXT:R' D R D' R' U R D R' U' D' R,GDT:D R D' R' U R D R' U' D'
+DXT:R' D R D' R' U R D R' U' D' R,GXT:U' R' D R D' R' U R D R' U' D' R U
+DXT:R' D R D' R' U R D R' U' D' R,JEH:R D R D' R' U R D R' U' D' R'
+DXW:R U R2 D R U' R' D' R U R U' R',JME:U R2 D R U' R' D' R U R U'
+DYM:R U2 R' D R U2 R' D',JDZ:R' D' R U2 R' D R U2
+DYM:R U2 R' D R U2 R' D',JGF:R2 D' R U2 R' D R U2 R
+DYM:R U2 R' D R U2 R' D',DZN:R' F' D' R U2 R' D R U2 R' F R
+DYM:R U2 R' D R U2 R' D',GWF:R' U2 R' D R U2 R' D' R2
+DYM:R U2 R' D R U2 R' D',GYM:U' R U2 R' D R U2 R' U D'
+DYM:R U2 R' D R U2 R' D',JMD:U2 R' D R U2 R' D' R
+DYM:R U2 R' D R U2 R' D',JSO:R' B D' R U2 R' D R U2 R' B' R
+DYN:R U2 D R' D' R U2 R' D R D' R',JND:U2 D R' D' R U2 R' D R D'
+DYN:R U2 D R' D' R U2 R' D R D' R',GMF:R' U2 D R' D' R U2 R' D R D' R
+DYN:R U2 D R' D' R U2 R' D R D' R',GYN:U' R U2 D R' D' R U2 R' D R D' R' U
+DYP:R U D' R D R' U2 R D' R' U D R',JPD:U D' R D R' U2 R D' R' U D
+DYP:R U D' R D R' U2 R D' R' U D R',GOF:R' U D' R D R' U2 R D' R' U D R
+DYQ:R U R D' R' U2 R D R' U R',JQD:U R D' R' U2 R D R' U
+DYQ:R U R D' R' U2 R D R' U R',GPF:R' U R D' R' U2 R D R' U R
+DYR:R U2 D' R' D R U2 R' D' R D R',JYD:U2 D' R' D R U2 R' D' R D
+DYR:R U2 D' R' D R U2 R' D' R D R',JDH:R' U2 D' R' D R U2 R' D' R D R
+DYS:U D R' U' R D' R' U R U',GYS:D R' U' R D' R' U R
+DYS:U D R' U' R D' R' U R U',GES:R U D R' U' R D' R' U R U' R'
+DYW:U R2 D R2 U R U' R2 D' R2 U R' U2,JYW:U' R2 D R2 U R U' R2 D' R2 U R'
+DYW:U R2 D R2 U R U' R2 D' R2 U R' U2,GYW:R2 D R2 U R U' R2 D' R2 U R' U'
+DZM:R U' R' U' R' D R U R' D' R2 U R',JWF:U' R' U' R' D R U R' D' R2 U
+DZN:R' F' D' R U2 R' D R U2 R' F R,JDZ:R' D' R U2 R' D R U2
+DZO:R B' R' U2 D' R' D R U2 R' D' R D R B R',JDH:R' U2 D' R' D R U2 R' D' R D R
+DZP:U R B R' U R' D' R U' R' D R2 B' R' U',GZP:R B R' U R' D' R U' R' D R2 B' R'
+DZP:U R B R' U R' D' R U' R' D R2 B' R' U',JZP:U' R B R' U R' D' R U' R' D R2 B' R' U
+DZQ:R U' R' U2 R D' R' U R D R' U R U R',JPF:U' R' U2 R D' R' U R D R' U R U
+DZR:R U' D' R' U' R' D R U R' D' R2 U D R',JXF:U' D' R' U' R' D R U R' D' R2 U D
+DZS:U R' D R D' R' U' R D R' U D' R U',GZS:R' D R D' R' U' R D R' U D' R
+DZT:D R' U R D' R' U' R,GDS:R D R' U R D' R' U'
+DZT:D R' U R D' R' U' R,JEG:R2 D R' U R D' R' U' R'
+DZT:D R' U R D' R' U' R,GDW:R F' D R' U R D' R' U' R F R'
+DZT:D R' U R D' R' U' R,GZT:U' D R' U R D' R' U' R U
+DZT:D R' U R D' R' U' R,JRO:R B D R' U R D' R' U' R B' R'
+GAD:R U2 D R D' R' U' R D R' U' D' R',GDA:R U D R D' R' U R D R' U2 D' R'
+GAE:U R' U2 D' R' D R U2 R' D' R D R U',JDH:R' U2 D' R' D R U2 R' D' R D R
+GAE:U R' U2 D' R' D R U2 R' D' R D R U',GEA:U R' D' R' D R U2 R' D' R U2 D R U'
+GAF:R B' R' U2 D' R D R' U R D' R' U D R B R',GOC:R' U2 D' R D R' U R D' R' U D R
+GAF:R B' R' U2 D' R D R' U R D' R' U D R B R',GFA:R B' R' U' D' R D R' U' R D' R' U2 D R B R'
+GAM:U R' D R U2 R' D' R U,JBN:R U R' D R U2 R' D' R U R'
+GAM:U R' D R U2 R' D' R U,JMD:U2 R' D R U2 R' D' R
+GAM:U R' D R U2 R' D' R U,GAY:U D' R' D R U2 R' D' R U D
+GAM:U R' D R U2 R' D' R U,GMA:U' R' D R U2 R' D' R U'
+GAM:U R' D R U2 R' D' R U,JDM:R' D R U2 R' D' R U2
+GAN:U D R' D' R U2 R' D R U D',JBW:R U D R' D' R U2 R' D R U D' R'
+GAN:U D R' D' R U2 R' D R U D',GAZ:U R' D' R U2 R' D R U
+GAN:U D R' D' R U2 R' D R U D',GNA:U' D R' D' R U2 R' D R U' D'
+GAN:U D R' D' R U2 R' D R U D',JDN:D R' D' R U2 R' D R U2 D'
+GAN:U D R' D' R U2 R' D R U D',JND:U2 D R' D' R U2 R' D R D'
+GAO:R' B R U R' D' R U2 R' D R U R' B' R,JBT:R U R' D' R U2 R' D R U R'
+GAO:R' B R U R' D' R U2 R' D R U R' B' R,GOA:R' B R U' R' D' R U2 R' D R U' R' B' R
+GAP:D' R D R' U2 R D' R' U2 D,JPD:U D' R D R' U2 R D' R' U D
+GAP:D' R D R' U2 R D' R' U2 D,GPA:U2 D' R D R' U2 R D' R' D
+GAP:D' R D R' U2 R D' R' U2 D,JDP:U' D' R D R' U2 R D' R' U' D
+GAP:D' R D R' U2 R D' R' U2 D,GAS:R D R' U2 R D' R' U2
+GAP:D' R D R' U2 R D' R' U2 D,JBQ:R D' R D R' U2 R D' R' U2 D R'
+GAQ:R D' R' U2 R D R' U2,GQA:U2 R D' R' U2 R D R'
+GAQ:R D' R' U2 R D R' U2,JQD:U R D' R' U2 R D R' U
+GAQ:R D' R' U2 R D R' U2,JDQ:U' R D' R' U2 R D R' U'
+GAQ:R D' R' U2 R D R' U2,GAT:D R D' R' U2 R D R' U2 D'
+GAQ:R D' R' U2 R D R' U2,JBO:R2 D' R' U2 R D R' U2 R'
+GAR:U R D' R2 D R U2 R' D' R U2 R D R' U',JDR:R D' R2 D R U2 R' D' R U2 R D R'
+GAR:U R D' R2 D R U2 R' D' R U2 R D R' U',GRA:U R D' R' U2 R' D R U2 R' D' R2 D R' U'
+GAS:R D R' U2 R D' R' U2,GSA:U2 R D R' U2 R D' R'
+GAS:R D R' U2 R D' R' U2,JSD:U R D R' U2 R D' R' U
+GAS:R D R' U2 R D' R' U2,JDS:U' R D R' U2 R D' R' U'
+GAS:R D R' U2 R D' R' U2,JBG:R2 D R' U2 R D' R' U2 R'
+GAS:R D R' U2 R D' R' U2,GZW:R F' D R' U2 R D' R' U2 R F R'
+GAS:R D R' U2 R D' R' U2,JTQ:U R' U2 R D' R' U2 R U' D
+GAT:D R D' R' U2 R D R' U2 D',GTA:U2 D R D' R' U2 R D R' D'
+GAT:D R D' R' U2 R D R' U2 D',JBH:R D R D' R' U2 R D R' U2 D' R'
+GAT:D R D' R' U2 R D R' U2 D',JDT:U' D R D' R' U2 R D R' U' D'
+GAT:D R D' R' U2 R D R' U2 D',JTD:U D R D' R' U2 R D R' U D'
+GAW:R U D R2 U R D' R' U' R D R U' D' R',GWA:R U D R' D' R' U R D R' U' R2 U' D' R'
+GAW:R U D R2 U R D' R' U' R D R U' D' R',GQD:U R D' R' U' R D R'
+GAX:R' D R2 D' R' U2 R D R' U2 R' D' R,JBR:D R2 D' R' U2 R D R' U2 R' D'
+GAX:R' D R2 D' R' U2 R D R' U2 R' D' R,GXA:R' D R U2 R D' R' U2 R D R2 D' R
+GAX:R' D R2 D' R' U2 R D R' U2 R' D' R,JXD:U R' D R2 D' R' U2 R D R' U2 R' D' R U'
+GAY:U D' R' D R U2 R' D' R U D,JBS:R U D' R' D R U2 R' D' R U D R'
+GAY:U D' R' D R U2 R' D' R U D,GYA:U' D' R' D R U2 R' D' R U' D
+GAY:U D' R' D R U2 R' D' R U D,JDY:D' R' D R U2 R' D' R U2 D
+GAY:U D' R' D R U2 R' D' R U D,JYD:U2 D' R' D R U2 R' D' R D
+GAZ:U R' D' R U2 R' D R U,JBT:R U R' D' R U2 R' D R U R'
+GAZ:U R' D' R U2 R' D R U,JZD:U2 R' D' R U2 R' D R
+GAZ:U R' D' R U2 R' D R U,GZA:U' R' D' R U2 R' D R U'
+GAZ:U R' D' R U2 R' D R U,JDZ:R' D' R U2 R' D R U2
+GAZ:U R' D' R U2 R' D R U,JSC:R' U R' D' R U2 R' D R U R
+GBD:U R2 D R' U R D' R' U' R' U',JEG:R2 D R' U R D' R' U' R'
+GBD:U R2 D R' U R D' R' U' R' U',GDB:U R U R D R' U' R D' R2 U'
+GBE:R U2 R D R' U' R D' R' U' R',GCE:R' U R U2 R D R' U' R D' R' U' R' U' R
+GBE:R U2 R D R' U' R D' R' U' R',GEB:R U R D R' U R D' R' U2 R'
+GBF:R2 U R' U R D R' U2 R D' R' U R U' R2,GFB:R2 U R' U' R D R' U2 R D' R' U' R U' R2
+GBM:R' D R' U' D' R U R' D R U' R' U R D' R,JCN:D R' U' D' R U R' D R U' R' U R D'
+GBM:R' D R' U' D' R U R' D R U' R' U R D' R,GMB:R' D R' U' R U R' D' R U' R' U D R D' R
+GBN:U R U R' D R U R' D' R U2 R' U',JEN:R U R' D R U R' D' R U2 R'
+GBN:U R U R' D R U R' D' R U2 R' U',GNB:U R U2 R' D R U' R' D' R U' R' U'
+GBO:U R2 D' R' U R D R' U' R' U',JEO:R2 D' R' U R D R' U' R'
+GBO:U R2 D' R' U R D R' U' R' U',GBR:U D R2 D' R' U R D R' U' R' U' D'
+GBO:U R2 D' R' U R D R' U' R' U',GOB:U R U R D' R' U' R D R2 U'
+GBO:U R2 D' R' U R D R' U' R' U',GQC:U' R2 D' R' U R D R' U' R' U
+GBP:D' R D R2 F R2 D' R' D R' F' R,GPB:R' F R D' R D R2 F' R2 D' R' D
+GBQ:R' F R U' R D' R' U R D R2 F' R,JOZ:R U' R D' R' U R D R2
+GBQ:R' F R U' R D' R' U R D R2 F' R,GQB:R' F R2 D' R' U' R D R' U R' F' R
+GBR:U D R2 D' R' U R D R' U' R' U' D',GRB:U D R U R D' R' U' R D R2 U' D'
+GBR:U D R2 D' R' U R D R' U' R' U' D',JER:D R2 D' R' U R D R' U' R' D'
+GBS:R' F R U' R D R' U R D' R2 F' R,GSY:R' U' R D R' U R D'
+GBS:R' F R U' R D R' U R D' R2 F' R,GSB:R' F R2 D R' U' R D' R' U R' F' R
+GBS:R' F R U' R D R' U R D' R2 F' R,JRF:U R' F R U' R D R' U R D' R2 F' R U'
+GBS:R' F R U' R D R' U R D' R2 F' R,JGS:U' R D R' U R D' R'
+GBT:U R U R' D' R U R' D R U2 R' U',JET:R U R' D' R U R' D R U2 R'
+GBT:U R U R' D' R U R' D R U2 R' U',GTB:U R U2 R' D' R U' R' D R U' R' U'
+GBW:R' F' D R U' R' D' R U R' F R,GWB:R' F' R U' R' D R U R' D' F R
+GBX:U' R B' R2 D' R U R' D R U' R B R' U,JZF:R B' R2 D' R U R' D R U' R B R'
+GBX:U' R B' R2 D' R U R' D R U' R B R' U,GXB:U' R B' R' U R' D' R U' R' D R2 B R' U
+GBY:U R U R2 D' R U' R' D R U R U' R' U',JEY:R U R2 D' R U' R' D R U R U' R'
+GBY:U R U R2 D' R U' R' D R U R U' R' U',GYB:U R U R' U' R' D' R U R' D R2 U' R' U'
+GBZ:R U2 R D R' U R D' R' U R',JSA:U2 R D R' U R D' R' U
+GBZ:R U2 R D R' U R D' R' U R',GYC:R' U2 R D R' U R D' R' U R
+GBZ:R U2 R D R' U R D' R' U R',GZB:R U' R D R' U' R D' R' U2 R'
+GBZ:R U2 R D R' U R D' R' U R',XTW:R2 F' R U2 R D R' U R D' R' U R' F R2
+GCD:U R' U2 R' D' R U2 R' D R2 U',JFG:R' U2 R' D' R U2 R' D R2
+GCD:U R' U2 R' D' R U2 R' D R2 U',GDC:U R2 D' R U2 R' D R U2 R U'
+GCD:U R' U2 R' D' R U2 R' D R2 U',JAI:U' R' U2 R' D' R U2 R' D R2 U
+GCE:R' U R U2 R D R' U' R D' R' U' R' U' R,GEC:R' U R U R D R' U R D' R' U2 R' U' R
+GCF:R2 D' R U' R' D R U' R' D' R U2 R' D R2,GFC:R2 D' R U2 R' D R U R' D' R U R' D R2
+GCM:R' D R' D' R U' R' D R U D' R,JAN:D R' D' R U' R' D R U D'
+GCM:R' D R' D' R U' R' D R U D' R,GMC:R' U' D R' D' R U R' D R D' R
+GCN:U' R U2 D R' D' R U' R' D R U' D' R' U,JWE:R U2 D R' D' R U' R' D R U' D' R'
+GCN:U' R U2 D R' D' R U' R' D R U' D' R' U,GNC:U' R U D R' D' R U R' D R U2 D' R' U
+GCO:R' U' D' R D R' U' R D' R' U2 D R,JAP:U' D' R D R' U' R D' R' U2 D
+GCO:R' U' D' R D R' U' R D' R' U2 D R,GCR:D R' U' D' R D R' U' R D' R' U2 D R D'
+GCO:R' U' D' R D R' U' R D' R' U2 D R,GFA:R B' R' U' D' R D R' U' R D' R' U2 D R B R'
+GCO:R' U' D' R D R' U' R D' R' U2 D R,GOC:R' U2 D' R D R' U R D' R' U D R
+GCO:R' U' D' R D R' U' R D' R' U2 D R,JPE:U R' U' D' R D R' U' R D' R' U2 D R U'
+GCP:R' U' R D' R' U' R D R' U2 R,JAQ:U' R D' R' U' R D R' U2
+GCP:R' U' R D' R' U' R D R' U2 R,JFP:U' R' U' R D' R' U' R D R' U2 R U
+GCP:R' U' R D' R' U' R D R' U2 R,GCS:D R' U' R D' R' U' R D R' U2 R D'
+GCP:R' U' R D' R' U' R D R' U2 R,GPC:R' U2 R D' R' U R D R' U R
+GCQ:U' R U R D' R' U' R D R2 U,JOE:R U R D' R' U' R D R2
+GCQ:U' R U R D' R' U' R D R2 U,GOB:U R U R D' R' U' R D R2 U'
+GCQ:U' R U R D' R' U' R D R2 U,GQC:U' R2 D' R' U R D R' U' R' U
+GCR:D R' U' D' R D R' U' R D' R' U2 D R D',GRC:D R' U2 D' R D R' U R D' R' U D R D'
+GCS:D R' U' R D' R' U' R D R' U2 R D',GSC:D R' U2 R D' R' U R D R' U R D'
+GCT:R' U' R2 D R' U R D' R' U' R' U R,JEG:R2 D R' U R D' R' U' R'
+GCT:R' U' R2 D R' U R D' R' U' R' U R,GTC:R' U' R U R D R' U' R D' R2 U R
+GCT:R' U' R2 D R' U R D' R' U' R' U R,JFT:U' R' U' R2 D R' U R D' R' U' R' U R U
+GCW:R2 D R U' R' D' R U R,JAM:R' D R U' R' D' R U
+GCW:R2 D R U' R' D' R U R,JFW:U' R2 D R U' R' D' R U R U
+GCW:R2 D R U' R' D' R U R,JME:U R2 D R U' R' D' R U R U'
+GCW:R2 D R U' R' D' R U R,GCX:D' R2 D R U' R' D' R U R D
+GCW:R2 D R U' R' D' R U R,GWC:R' U' R' D R U R' D' R2
+GCW:R2 D R U' R' D' R U R,JMT:R F R2 D R U' R' D' R U R F' R'
+GCX:D' R2 D R U' R' D' R U R D,JFX:U' D' R2 D R U' R' D' R U R U D
+GCX:D' R2 D R U' R' D' R U R D,GXC:D' R' U' R' D R U R' D' R2 D
+GCX:D' R2 D R U' R' D' R U R D,JAR:R D' R2 D R U' R' D' R U R D R'
+GCY:R' U' R D R' U' R D' R' U2 R,JAS:U' R D R' U' R D' R' U2
+GCY:R' U' R D R' U' R D' R' U2 R,GYC:R' U2 R D R' U R D' R' U R
+GCY:R' U' R D R' U' R D' R' U2 R,GZB:R U' R D R' U' R D' R' U2 R'
+GCY:R' U' R D R' U' R D' R' U2 R,JFY:U' R' U' R D R' U' R D' R' U2 R U
+GCZ:R' U' D R D' R' U' R D R' U2 D' R,JAT:U' D R D' R' U' R D R' U2 D'
+GCZ:R' U' D R D' R' U' R D R' U2 D' R,GZC:R' U2 D R D' R' U R D R' U D' R
+GDB:U R U R D R' U' R D' R2 U',JGE:R U R D R' U' R D' R2
+GDC:U R2 D' R U2 R' D R U2 R U',JGF:R2 D' R U2 R' D R U2 R
+GDC:U R2 D' R U2 R' D R U2 R U',JIA:U' R2 D' R U2 R' D R U2 R U
+GDM:U R' D R U R' D' R U2,JEN:R U R' D R U R' D' R U2 R'
+GDM:U R' D R U R' D' R U2,JMA:U' R' D R U R' D' R
+GDM:U R' D R U R' D' R U2,GDY:U D' R' D R U R' D' R U2 D
+GDM:U R' D R U R' D' R U2,GMD:U2 R' D R U' R' D' R U'
+GDM:U R' D R U R' D' R U2,JGM:R' D R U R' D' R U'
+GDN:U D R' D' R U R' D R U2 D',GDZ:U R' D' R U R' D R U2
+GDN:U D R' D' R U R' D R U2 D',JEW:R U D R' D' R U R' D R U2 D' R'
+GDN:U D R' D' R U R' D R U2 D',GND:U2 D R' D' R U' R' D R U' D'
+GDN:U D R' D' R U R' D R U2 D',JGN:D R' D' R U R' D R U' D'
+GDN:U D R' D' R U R' D R U2 D',JNA:U' D R' D' R U R' D R D'
+GDO:R2 B' R' U' R D R' U2 R D' R' U' R B R2,GFY:R' U' R D R' U2 R D' R' U' R
+GDO:R2 B' R' U' R D R' U2 R D' R' U' R B R2,GOD:R2 B' R' U R D R' U2 R D' R' U R B R2
+GDP:D' R D R' U R D' R' U' D,JEQ:R D' R D R' U R D' R' U' D R'
+GDP:D' R D R' U R D' R' U' D,GDS:R D R' U R D' R' U'
+GDP:D' R D R' U R D' R' U' D,JGP:U' D' R D R' U R D' R' D
+GDP:D' R D R' U R D' R' U' D,JPA:U2 D' R D R' U R D' R' U D
+GDP:D' R D R' U R D' R' U' D,GPD:U D' R D R' U' R D' R' D
+GDQ:R D' R' U R D R' U',JGQ:U' R D' R' U R D R'
+GDQ:R D' R' U R D R' U',JQA:U2 R D' R' U R D R' U
+GDQ:R D' R' U R D R' U',GDT:D R D' R' U R D R' U' D'
+GDQ:R D' R' U R D R' U',GQD:U R D' R' U' R D R'
+GDQ:R D' R' U R D R' U',JEO:R2 D' R' U R D R' U' R'
+GDQ:R D' R' U R D R' U',GWA:R U D R' D' R' U R D R' U' R2 U' D' R'
+GDR:R D' R' U R' D R U R' D' R U' R D R' U',JGR:U' R D' R' U R' D R U R' D' R U' R D R'
+GDR:R D' R' U R' D R U R' D' R U' R D R' U',GRD:U R D' R' U R' D R U' R' D' R U' R D R'
+GDR:R D' R' U R' D R U R' D' R U' R D R' U',JEI:R2 D' R' U R' D R U R' D' R U' R D R' U' R'
+GDR:R D' R' U R' D R U R' D' R U' R D R' U',GSX:R' U' R D' R' U R' D R U R' D' R U' R D
+GDS:R D R' U R D' R' U',JGS:U' R D R' U R D' R'
+GDS:R D R' U R D' R' U',JSA:U2 R D R' U R D' R' U
+GDS:R D R' U R D' R' U',GSD:U R D R' U' R D' R'
+GDS:R D R' U R D' R' U',JEG:R2 D R' U R D' R' U' R'
+GDT:D R D' R' U R D R' U' D',JGT:U' D R D' R' U R D R' D'
+GDT:D R D' R' U R D R' U' D',GTD:U D R D' R' U' R D R' D'
+GDT:D R D' R' U R D R' U' D',JTA:U2 D R D' R' U R D R' U D'
+GDT:D R D' R' U R D R' U' D',JEH:R D R D' R' U R D R' U' D' R'
+GDW:R F' D R' U R D' R' U' R F R',GWD:R F' R' U R D R' U' R D' F R'
+GDX:R' D R2 D' R' U R D R' U' R' D' R,JER:D R2 D' R' U R D R' U' R' D'
+GDX:R' D R2 D' R' U R D R' U' R' D' R,GXD:R' D R U R D' R' U' R D R2 D' R
+GDY:U D' R' D R U R' D' R U2 D,GYD:U2 D' R' D R U' R' D' R U' D
+GDY:U D' R' D R U R' D' R U2 D,JES:R U D' R' D R U R' D' R U2 D R'
+GDY:U D' R' D R U R' D' R U2 D,JGY:D' R' D R U R' D' R U' D
+GDY:U D' R' D R U R' D' R U2 D,JYA:U' D' R' D R U R' D' R D
+GDZ:U R' D' R U R' D R U2,JET:R U R' D' R U R' D R U2 R'
+GDZ:U R' D' R U R' D R U2,JZA:U' R' D' R U R' D R
+GDZ:U R' D' R U R' D R U2,GZD:U2 R' D' R U' R' D R U'
+GDZ:U R' D' R U R' D R U2,JGZ:R' D' R U R' D R U'
+GDZ:U R' D' R U R' D R U2,JSF:R' U R' D' R U R' D R U2 R
+GEA:U R' D' R' D R U2 R' D' R U2 D R U',JHD:R' D' R' D R U2 R' D' R U2 D R
+GEB:R U R D R' U R D' R' U2 R',GEC:R' U R U R D R' U R D' R' U2 R' U' R
+GEM:U R' U D R U' R' D' R U R' U' R U',JHM:R' U D R U' R' D' R U R' U' R
+GEM:U R' U D R U' R' D' R U R' U' R U',GME:U R' U R U' R' D R U R' U' D' R U'
+GEM:U R' U D R U' R' D' R U R' U' R U',JWC:U' R' U D R U' R' D' R U R' U' R U
+GEN:U2 R' U' R U R' D R U' R' U D' R U2,JMC:R' U' R U R' D R U' R' U D' R
+GEN:U2 R' U' R U R' D R U' R' U D' R U2,GNE:U2 R' U' D R U R' D' R U' R' U R U2
+GEO:U R U' R' U R D' R' U' R U D R' U',JHO:R U' R' U R D' R' U' R U D R'
+GEO:U R U' R' U R D' R' U' R U D R' U',GOE:U R U' D' R' U R D R' U' R U R' U'
+GEO:U R U' R' U R D' R' U' R U D R' U',JQC:U' R U' R' U R D' R' U' R U D R' U
+GEP:D' R U D R' U' R D' R' U R U' R' D,GES:R U D R' U' R D' R' U R U' R'
+GEP:D' R U D R' U' R D' R' U R U' R' D,GPE:D' R U R' U' R D R' U R U' D' R' D
+GEP:D' R U D R' U' R D' R' U R U' R' D,JFQ:R D' R U D R' U' R D' R' U R U' R' D R'
+GEQ:R U D' R' U' R D R' U R U' R',GET:D R U D' R' U' R D R' U R U' R' D'
+GEQ:R U D' R' U' R D R' U R U' R',GQE:R U R' U' R D' R' U R U' D R'
+GEQ:R U D' R' U' R D R' U R U' R',JPC:U2 R U D' R' U' R D R' U R U' R' U2
+GER:R' U R2 D R' U2 R D' R' U2 R' U' R,JFI:U R2 D R' U2 R D' R' U2 R' U'
+GER:R' U R2 D R' U2 R D' R' U2 R' U' R,GRE:R' U R U2 R D R' U2 R D' R2 U' R
+GES:R U D R' U' R D' R' U R U' R',GSE:R U R' U' R D R' U R U' D' R'
+GES:R U D R' U' R D' R' U R U' R',JHS:U' R U D R' U' R D' R' U R U' R' U
+GES:R U D R' U' R D' R' U R U' R',JRC:U2 R U D R' U' R D' R' U R U' R' U2
+GET:D R U D' R' U' R D R' U R U' R' D',GTE:D R U R' U' R D' R' U R U' D R' D'
+GEW:R2 D R2 U R' U' R2 D' R2 U R U',JHW:U' R2 D R2 U R' U' R2 D' R2 U R
+GEW:R2 D R2 U R' U' R2 D' R2 U R U',GWE:U R' U' R2 D R2 U R U' R2 D' R2
+GEW:R2 D R2 U R' U' R2 D' R2 U R U',GWY:U R U' R2 D R2 U R' U' R2 D' R2
+GEX:U2 R' U' R U R' D' R U' R' U D R U2,JZC:R' U' R U R' D' R U' R' U D R
+GEX:U2 R' U' R U R' D' R U' R' U D R U2,GXE:U2 R' U' D' R U R' D R U' R' U R U2
+GEX:U2 R' U' R U R' D' R U' R' U D R U2,JHX:U R' U' R U R' D' R U' R' U D R U'
+GEY:R2 U R2 D R' U' R D' R' U R' U' R2,JSG:R D R' U' R D' R' U
+GEY:R2 U R2 D R' U' R D' R' U R' U' R2,GYE:R2 U R U' R D R' U R D' R2 U' R2
+GEY:R2 U R2 D R' U' R D' R' U R' U' R2,GYS:D R' U' R D' R' U R
+GEZ:R U R D R' U2 R D' R' U R',JSD:U R D R' U2 R D' R' U
+GEZ:R U R D R' U2 R D' R' U R',GYF:R' U R D R' U2 R D' R' U R
+GEZ:R U R D R' U2 R D' R' U R',GZE:R U' R D R' U2 R D' R' U' R'
+GFM:R' D R' D' R U2 R' D R U2 D' R,JDN:D R' D' R U2 R' D R U2 D'
+GFM:R' D R' D' R U2 R' D R U2 D' R,GMF:R' U2 D R' D' R U2 R' D R D' R
+GFM:R' D R' D' R U2 R' D R U2 D' R,JWX:R U' R' D R' D' R U2 R' D R U2 D' R U R'
+GFM:R' D R' D' R U2 R' D R U2 D' R,WQS:B2 R' D R' D' R U2 R' D R U2 D' R B2
+GFN:U D R' D' R U' R B' R2 D R D' R B R',GMO:B R' U D R' D' R U' R B' R2 D R D' R
+GFN:U D R' D' R U' R B' R2 D R D' R B R',GNF:R B' R' D R' D' R2 B R' U R' D R U' D'
+GFN:U D R' D' R U' R B' R2 D R D' R B R',JIN:D R' D' R U' R B' R2 D R D' R B R' U
+GFO:R' U' D' R D R' U2 R D' R' U' D R,JDP:U' D' R D R' U2 R D' R' U' D
+GFO:R' U' D' R D R' U2 R D' R' U' D R,GFR:D R' U' D' R D R' U2 R D' R' U' D R D'
+GFO:R' U' D' R D R' U2 R D' R' U' D R,GOF:R' U D' R D R' U2 R D' R' U D R
+GFO:R' U' D' R D R' U2 R D' R' U' D R,JQX:R U' R' U' D' R D R' U2 R D' R' U' D R U R'
+GFP:R' U' R D' R' U2 R D R' U' R,JDQ:U' R D' R' U2 R D R' U'
+GFP:R' U' R D' R' U2 R D R' U' R,GFS:D R' U' R D' R' U2 R D R' U' R D'
+GFP:R' U' R D' R' U2 R D R' U' R,GPF:R' U R D' R' U2 R D R' U R
+GFP:R' U' R D' R' U2 R D R' U' R,JIP:U' R' U' R D' R' U2 R D R' U' R U
+GFQ:R D' B2 D R' D' R B2 R' D,GFT:D R D' B2 D R' D' R B2 R'
+GFQ:R D' B2 D R' D' R B2 R' D,GQF:D' R B2 R' D R D' B2 D R'
+GFR:D R' U' D' R D R' U2 R D' R' U' D R D',GRF:D R' U D' R D R' U2 R D' R' U D R D'
+GFR:D R' U' D' R D R' U2 R D' R' U' D R D',JDI:R D R' U' D' R D R' U2 R D' R' U' D R D' R'
+GFS:D R' U' R D' R' U2 R D R' U' R D',GSF:D R' U R D' R' U2 R D R' U R D'
+GFT:D R D' B2 D R' D' R B2 R',GTF:R B2 R' D R D' B2 D R' D'
+GFW:R2 D R U2 R' D' R U2 R,JDM:R' D R U2 R' D' R U2
+GFW:R2 D R U2 R' D' R U2 R,JIW:U' R2 D R U2 R' D' R U2 R U
+GFW:R2 D R U2 R' D' R U2 R,GFX:D' R2 D R U2 R' D' R U2 R D
+GFW:R2 D R U2 R' D' R U2 R,GWF:R' U2 R' D R U2 R' D' R2
+GFX:D' R2 D R U2 R' D' R U2 R D,JDR:R D' R2 D R U2 R' D' R U2 R D R'
+GFX:D' R2 D R U2 R' D' R U2 R D,GXF:D' R' U2 R' D R U2 R' D' R2 D
+GFX:D' R2 D R U2 R' D' R U2 R D,JIX:U' D' R2 D R U2 R' D' R U2 R U D
+GFY:R' U' R D R' U2 R D' R' U' R,JDS:U' R D R' U2 R D' R' U'
+GFY:R' U' R D R' U2 R D' R' U' R,GYF:R' U R D R' U2 R D' R' U R
+GFY:R' U' R D R' U2 R D' R' U' R,GZE:R U' R D R' U2 R D' R' U' R'
+GFY:R' U' R D R' U2 R D' R' U' R,JDW:R F' R' U' R D R' U2 R D' R' U' R F R'
+GFY:R' U' R D R' U2 R D' R' U' R,JIY:U' R' U' R D R' U2 R D' R' U' R U
+GFZ:R' U' D R D' R' U2 R D R' U' D' R,JDT:U' D R D' R' U2 R D R' U' D'
+GFZ:R' U' D R D' R' U2 R D R' U' D' R,GZF:R' U D R D' R' U2 R D R' U D' R
+GFZ:R' U' D R D' R' U2 R D R' U' D' R,JRX:R U' R' U' D R D' R' U2 R D R' U' D' R U R'
+GMA:U' R' D R U2 R' D' R U',JNB:R U' R' D R U2 R' D' R U' R'
+GMA:U' R' D R U2 R' D' R U',JMD:U2 R' D R U2 R' D' R
+GMA:U' R' D R U2 R' D' R U',GYA:U' D' R' D R U2 R' D' R U' D
+GMA:U' R' D R U2 R' D' R U',JDM:R' D R U2 R' D' R U2
+GMB:R' D R' U' R U R' D' R U' R' U D R D' R,JNC:D R' U' R U R' D' R U' R' U D R D'
+GMC:R' U' D R' D' R U R' D R D' R,JNA:U' D R' D' R U R' D R D'
+GMD:U2 R' D R U' R' D' R U',JNE:R U2 R' D R U' R' D' R U' R'
+GMD:U2 R' D R U' R' D' R U',JMG:U R' D R U' R' D' R
+GMD:U2 R' D R U' R' D' R U',GYD:U2 D' R' D R U' R' D' R U' D
+GMD:U2 R' D R U' R' D' R U',JAM:R' D R U' R' D' R U
+GME:U R' U R U' R' D R U R' U' D' R U',JMH:R' U R U' R' D R U R' U' D' R
+GME:U R' U R U' R' D R U R' U' D' R U',JCW:U' R' U R U' R' D R U R' U' D' R U
+GMF:R' U2 D R' D' R U2 R' D R D' R,JND:U2 D R' D' R U2 R' D R D'
+GMF:R' U2 D R' D' R U2 R' D R D' R,JXW:R U' R' U2 D R' D' R U2 R' D R D' R U R'
+GMF:R' U2 D R' D' R U2 R' D R D' R,WSQ:B2 R' U2 D R' D' R U2 R' D R D' R B2
+GMO:B R' U D R' D' R U' R B' R2 D R D' R,JIZ:R' D' R U' R B' R2 D R D' R B R' U D
+GMO:B R' U D R' D' R U' R B' R2 D R D' R,GOM:R' D R' D' R2 B R' U R' D R U' D' R B'
+GMP:R B R' U R' D R U' R' D' R2 B' R',WOS:B R' U R' D R U' R' D' R2 B'
+GMP:R B R' U R' D R U' R' D' R2 B' R',GPM:R B R2 D R U R' D' R U' R B' R'
+GMP:R B R' U R' D R U' R' D' R2 B' R',JMP:U' R B R' U R' D R U' R' D' R2 B' R' U
+GMQ:R D' B D R' D' R B' R' D,GPT:D R D' B D R' D' R B' R'
+GMQ:R D' B D R' D' R B' R' D,GQM:D' R B R' D R D' B' D R'
+GMQ:R D' B D R' D' R B' R' D,WPS:D' B D R' D' R B' R' D R
+GMQ:R D' B D R' D' R B' R' D,WPR:R' U R2 D' B D R' D' R B' R' D R' U' R
+GMR:R' U R U D R' D' R U2 R' D R U D' R' U' R,JBW:R U D R' D' R U2 R' D R U D' R'
+GMR:R' U R U D R' D' R U2 R' D R U D' R' U' R,GRM:R' U R U' D R' D' R U2 R' D R U' D' R' U' R
+GMS:R' U D R' D' R U' R' D R D' R,JNG:U D R' D' R U' R' D R D'
+GMS:R' U D R' D' R U' R' D R D' R,WQR:B R' U D R' D' R U' R' D R D' R B'
+GMS:R' U D R' D' R U' R' D R D' R,GSM:R' D R' D' R U R' D R U' D' R
+GMS:R' U D R' D' R U' R' D R D' R,JZW:R U D R' D' R U' R' D R D' R'
+GMT:U' R' U R' D R U R' D' R U2 R U,GTM:U' R' U2 R' D R U' R' D' R U' R U
+GMX:R' D R2 D' R' U' R D R' U R' D' R,JNR:D R2 D' R' U' R D R' U R' D'
+GMX:R' D R2 D' R' U' R D R' U R' D' R,GXM:R' D R U' R D' R' U R D R2 D' R
+GMX:R' D R2 D' R' U' R D R' U R' D' R,JMX:U' R' D R2 D' R' U' R D R' U R' D' R U
+GMY:U' D R U2 R' D' R U2 R' U,GYM:U' R U2 R' D R U2 R' U D'
+GMZ:R U' R2 D R U R' D' R U' R U R',JSW:U' R2 D R U R' D' R U' R U
+GMZ:R U' R2 D R U R' D' R U' R U R',GYT:D' R U' R2 D R U R' D' R U' R U R' D
+GMZ:R U' R2 D R U R' D' R U' R U R',GZM:R U' R' U R' D R U' R' D' R2 U R'
+GMZ:R U' R2 D R U R' D' R U' R U R',JMZ:U' R U' R2 D R U R' D' R U' R U R' U
+GNA:U' D R' D' R U2 R' D R U' D',GZA:U' R' D' R U2 R' D R U'
+GNA:U' D R' D' R U2 R' D R U' D',JWB:R U' D R' D' R U2 R' D R U' D' R'
+GNA:U' D R' D' R U2 R' D R U' D',JDN:D R' D' R U2 R' D R U2 D'
+GNA:U' D R' D' R U2 R' D R U' D',JND:U2 D R' D' R U2 R' D R D'
+GNB:U R U2 R' D R U' R' D' R U' R' U',JNE:R U2 R' D R U' R' D' R U' R'
+GNC:U' R U D R' D' R U R' D R U2 D' R' U,JEW:R U D R' D' R U R' D R U2 D' R'
+GND:U2 D R' D' R U' R' D R U' D',GZD:U2 R' D' R U' R' D R U'
+GND:U2 D R' D' R U' R' D R U' D',JWE:R U2 D R' D' R U' R' D R U' D' R'
+GND:U2 D R' D' R U' R' D R U' D',JAN:D R' D' R U' R' D R U D'
+GND:U2 D R' D' R U' R' D R U' D',JNG:U D R' D' R U' R' D R D'
+GNE:U2 R' U' D R U R' D' R U' R' U R U2,JCM:R' U' D R U R' D' R U' R' U R
+GNF:R B' R' D R' D' R2 B R' U R' D R U' D',JZI:U' D' R B' R' D R' D' R2 B R' U R' D R
+GNF:R B' R' D R' D' R2 B R' U R' D R U' D',JNI:U' R B' R' D R' D' R2 B R' U R' D R D'
+GNF:R B' R' D R' D' R2 B R' U R' D R U' D',GOM:R' D R' D' R2 B R' U R' D R U' D' R B'
+GNO:U' R B' R' U2 R' D R U2 R' D' R2 B R' U,GON:U' R B' R2 D R U2 R' D' R U2 R B R' U
+GNP:R B R' U D R' D' R U' R' D R D' R B' R',WQR:B R' U D R' D' R U' R' D R D' R B'
+GNP:R B R' U D R' D' R U' R' D R D' R B' R',GPN:R B R' D R' D' R U R' D R U' D' R B' R'
+GNQ:U R' F' R2 D' R' U' R D R' U R' F R U',JNQ:R' F' R2 D' R' U' R D R' U R' F R
+GNQ:U R' F' R2 D' R' U' R D R' U R' F R U',GQN:U R' F' R U' R D' R' U R D R2 F R U'
+GNQ:U R' F' R2 D' R' U' R D R' U R' F R U',WOR:R' U R' F' R2 D' R' U' R D R' U R' F R U' R
+GNR:U D R2 D' R' U' R D R' U R' U' D',GZO:U R2 D' R' U' R D R' U R' U'
+GNR:U D R2 D' R' U' R D R' U R' U' D',GRN:U D R U' R D' R' U R D R2 U' D'
+GNR:U D R2 D' R' U' R D R' U R' U' D',JNR:D R2 D' R' U' R D R' U R' D'
+GNR:U D R2 D' R' U' R D R' U R' U' D',XSM:R' U D R2 D' R' U' R D R' U R' U' D' R
+GNS:U R' F' R2 D R' U' R D' R' U R' F R U',JNS:R' F' R2 D R' U' R D' R' U R' F R
+GNS:U R' F' R2 D R' U' R D' R' U R' F R U',GSN:U R' F' R U' R D R' U R D' R2 F R U'
+GNT:D R U' D' R' U' R D R' U R U R' D',GZQ:R U' D' R' U' R D R' U R U R'
+GNT:D R U' D' R' U' R D R' U R U R' D',GTN:D R U' R' U' R D' R' U R U D R' D'
+GNX:U R U' R2 D R U2 R' D' R U2 R U R' U',JNX:R U' R2 D R U2 R' D' R U2 R U R'
+GNX:U R U' R2 D R U2 R' D' R U2 R U R' U',GXN:U R U' R' U2 R' D R U2 R' D' R2 U R' U'
+GNY:U' R D R' D' R U2 R' D R U2 D' R' U,GYN:U' R U2 D R' D' R U2 R' D R D' R' U
+GNZ:U D R U R' D' R U' R' U',JNZ:D R U R' D' R U' R'
+GNZ:U D R U R' D' R U' R' U',GZN:U R U R' D R U' R' U' D'
+GNZ:U D R U R' D' R U' R' U',JSM:R' U D R U R' D' R U' R' U' R
+GOA:R' B R U' R' D' R U2 R' D R U' R' B' R,JTB:R U' R' D' R U2 R' D R U' R'
+GOB:U R U R D' R' U' R D R2 U',JOE:R U R D' R' U' R D R2
+GOB:U R U R D' R' U' R D R2 U',GRB:U D R U R D' R' U' R D R2 U' D'
+GOC:R' U2 D' R D R' U R D' R' U D R,JPA:U2 D' R D R' U R D' R' U D
+GOC:R' U2 D' R D R' U R D' R' U D R,GRC:D R' U2 D' R D R' U R D' R' U D R D'
+GOC:R' U2 D' R D R' U R D' R' U D R,JEP:U R' U2 D' R D R' U R D' R' U D R U'
+GOD:R2 B' R' U R D R' U2 R D' R' U R B R2,GYF:R' U R D R' U2 R D' R' U R
+GOE:U R U' D' R' U R D R' U' R U R' U',JOH:R U' D' R' U R D R' U' R U R'
+GOE:U R U' D' R' U R D R' U' R U R' U',JCQ:U' R U' D' R' U R D R' U' R U R' U
+GOF:R' U D' R D R' U2 R D' R' U D R,JPD:U D' R D R' U2 R D' R' U D
+GOF:R' U D' R D R' U2 R D' R' U D R,GRF:D R' U D' R D R' U2 R D' R' U D R D'
+GOF:R' U D' R D R' U2 R D' R' U D R,JXQ:R U' R' U D' R D R' U2 R D' R' U D R U R'
+GOM:R' D R' D' R2 B R' U R' D R U' D' R B',JZI:U' D' R B' R' D R' D' R2 B R' U R' D R
+GOR:R' U R D' R D R' U2 R D' R' U2 D R' U' R,JBQ:R D' R D R' U2 R D' R' U2 D R'
+GOR:R' U R D' R D R' U2 R D' R' U2 D R' U' R,GRO:R' U R U2 D' R D R' U2 R D' R' D R' U' R
+GOS:R' D' R D R' U' R D' R' U D R,JPG:D' R D R' U' R D' R' U D
+GOS:R' D' R D R' U' R D' R' U D R,GSO:R' U' D' R D R' U R D' R' D R
+GOS:R' D' R D R' U' R D' R' U D R,JZQ:R D' R D R' U' R D' R' U D R'
+GOT:R' U R2 D' R2 U' R U R2 D R2 U',JOT:U' R' U R2 D' R2 U' R U R2 D R2
+GOT:R' U R2 D' R2 U' R U R2 D R2 U',GTO:U R2 D' R2 U' R' U R2 D R2 U' R
+GOT:R' U R2 D' R2 U' R U R2 D R2 U',JPH:U R2 D' R2 U' R U R2 D R2 U' R'
+GOT:R' U R2 D' R2 U' R U R2 D R2 U',XTO:R2 U R2 D' R2 U' R U R2 D R2 U' R
+GOW:R' F' R U' R D' R' U' R D R' U2 R' F R,GWO:R' F' R U2 R D' R' U R D R' U R' F R
+GOW:R' F' R U' R D' R' U' R D R' U2 R' F R,WTO:R2 F' R U' R D' R' U' R D R' U2 R' F R2
+GOX:U' R B' R2 D' R U2 R' D R U2 R B R' U,GXO:U' R B' R' U2 R' D' R U2 R' D R2 B R' U
+GOY:U R2 U' R' U R D' R' U' R U D R2 U',JOY:R2 U' R' U R D' R' U' R U D R2
+GOY:U R2 U' R' U R D' R' U' R U D R2 U',GYO:U R2 U' D' R' U R D R' U' R U R2 U'
+GOZ:U R U' R D' R' U R D R2 U',JOZ:R U' R D' R' U R D R2
+GOZ:U R U' R D' R' U R D R2 U',GRN:U D R U' R D' R' U R D R2 U' D'
+GOZ:U R U' R D' R' U R D R2 U',JSQ:R' U R U' R D' R' U R D R2 U' R
+GOZ:U R U' R D' R' U R D R2 U',GZO:U R2 D' R' U' R D R' U R' U'
+GPA:U2 D' R D R' U2 R D' R' D,JQB:R U2 D' R D R' U2 R D' R' D R'
+GPA:U2 D' R D R' U2 R D' R' D,GSA:U2 R D R' U2 R D' R'
+GPA:U2 D' R D R' U2 R D' R' D,JDP:U' D' R D R' U2 R D' R' U' D
+GPA:U2 D' R D R' U2 R D' R' D,JPD:U D' R D R' U2 R D' R' U D
+GPC:R' U2 R D' R' U R D R' U R,JQA:U2 R D' R' U R D R' U
+GPC:R' U2 R D' R' U R D R' U R,JPF:U' R' U2 R D' R' U R D R' U R U
+GPC:R' U2 R D' R' U R D R' U R,GSC:D R' U2 R D' R' U R D R' U R D'
+GPD:U D' R D R' U' R D' R' D,JQE:R U D' R D R' U' R D' R' D R'
+GPD:U D' R D R' U' R D' R' D,GSD:U R D R' U' R D' R'
+GPD:U D' R D R' U' R D' R' D,JAP:U' D' R D R' U' R D' R' U2 D
+GPD:U D' R D R' U' R D' R' D,JPG:D' R D R' U' R D' R' U D
+GPE:D' R U R' U' R D R' U R U' D' R' D,GSE:R U R' U' R D R' U R U' D' R'
+GPE:D' R U R' U' R D R' U R U' D' R' D,JQF:R D' R U R' U' R D R' U R U' D' R' D R'
+GPF:R' U R D' R' U2 R D R' U R,JQD:U R D' R' U2 R D R' U
+GPF:R' U R D' R' U2 R D R' U R,GSF:D R' U R D' R' U2 R D R' U R D'
+GPF:R' U R D' R' U2 R D R' U R,JPI:U' R' U R D' R' U2 R D R' U R U
+GPM:R B R2 D R U R' D' R U' R B' R',WSO:B R2 D R U R' D' R U' R B'
+GPM:R B R2 D R U R' D' R U' R B' R',JPM:U' R B R2 D R U R' D' R U' R B' R' U
+GPN:R B R' D R' D' R U R' D R U' D' R B' R',WRQ:B R' D R' D' R U R' D R U' D' R B'
+GPR:R' U R2 D' R' U2 R D R' U2 R' U' R,JQI:U R2 D' R' U2 R D R' U2 R' U'
+GPR:R' U R2 D' R' U2 R D R' U2 R' U' R,GRP:R' U R U2 R D' R' U2 R D R2 U' R
+GPR:R' U R2 D' R' U2 R D R' U2 R' U' R,JPR:U' R' U R2 D' R' U2 R D R' U2 R' U' R U
+GPS:D' R' U' R D R' U R,JQG:R D' R' U' R D R' U
+GPS:D' R' U' R D R' U R,JZO:R2 D' R' U' R D R' U R'
+GPS:D' R' U' R D R' U R,JPS:U' D' R' U' R D R' U R U
+GPS:D' R' U' R D R' U R,GSP:R' U' R D' R' U R D
+GPS:D' R' U' R D R' U R,GSY:R' U' R D R' U R D'
+GPS:D' R' U' R D R' U R,JFH:R B' D' R' U' R D R' U R B R'
+GPT:D R D' B D R' D' R B' R',XTP:R' D R D' B D R' D' R B'
+GPT:D R D' B D R' D' R B' R',GTP:R B R' D R D' B' D R' D'
+GPW:R D' R' D R D' B D R' D' R B' D R',XTP:R' D R D' B D R' D' R B'
+GPW:R D' R' D R D' B D R' D' R B' D R',GWP:R D' B R' D R D' B' D R' D' R D R'
+GPX:D' R2 D R U R' D' R U' R D,JQR:R D' R2 D R U R' D' R U' R D R'
+GPX:D' R2 D R U R' D' R U' R D,GSW:R2 D R U R' D' R U' R
+GPX:D' R2 D R U R' D' R U' R D,GXP:D' R' U R' D R U' R' D' R2 D
+GPX:D' R2 D R U R' D' R U' R D,JPX:U' D' R2 D R U R' D' R U' R U D
+GPY:R B R' D' R' D R U R' D' R U' D R B' R',JGY:D' R' D R U R' D' R U' D
+GPY:R B R' D' R' D R U R' D' R U' D R B' R',GYP:R B R' U D' R' D R U' R' D' R D R B' R'
+GPZ:R B R2 D' R U R' D R U' R B' R',JGZ:R' D' R U R' D R U'
+GPZ:R B R2 D' R U R' D R U' R B' R',GZP:R B R' U R' D' R U' R' D R2 B' R'
+GPZ:R B R2 D' R U R' D R U' R B' R',JPZ:U' R B R2 D' R U R' D R U' R B' R' U
+GPZ:R B R2 D' R U R' D R U' R B' R',JTZ:D' R U R' D R U' R'
+GQA:U2 R D' R' U2 R D R',JOB:R U2 R D' R' U2 R D R2
+GQA:U2 R D' R' U2 R D R',GTA:U2 D R D' R' U2 R D R' D'
+GQA:U2 R D' R' U2 R D R',JDQ:U' R D' R' U2 R D R' U'
+GQA:U2 R D' R' U2 R D R',JQD:U R D' R' U2 R D R' U
+GQB:R' F R2 D' R' U' R D R' U R' F' R,JZO:R2 D' R' U' R D R' U R'
+GQC:U' R2 D' R' U R D R' U' R' U,JEO:R2 D' R' U R D R' U' R'
+GQD:U R D' R' U' R D R',JOE:R U R D' R' U' R D R2
+GQD:U R D' R' U' R D R',GTD:U D R D' R' U' R D R' D'
+GQD:U R D' R' U' R D R',JAQ:U' R D' R' U' R D R' U2
+GQD:U R D' R' U' R D R',JQG:R D' R' U' R D R' U
+GQE:R U R' U' R D' R' U R U' D R',GTE:D R U R' U' R D' R' U R U' D R' D'
+GQE:R U R' U' R D' R' U R U' D R',JCP:U2 R U R' U' R D' R' U R U' D R' U2
+GQF:D' R B2 R' D R D' B2 D R',GTF:R B2 R' D R D' B2 D R' D'
+GQM:D' R B R' D R D' B' D R',WSP:R' D' R B R' D R D' B' D
+GQM:D' R B R' D R D' B' D R',GTP:R B R' D R D' B' D R' D'
+GQM:D' R B R' D R D' B' D R',WRP:R' U R D' R B R' D R D' B' D R2 U' R
+GQN:U R' F' R U' R D' R' U R D R2 F R U',JQN:R' F' R U' R D' R' U R D R2 F R
+GQN:U R' F' R U' R D' R' U R D R2 F R U',WRO:R' U R' F' R U' R D' R' U R D R2 F R U' R
+GQR:U R D' R2 D R U R' D' R U' R D R' U',JQR:R D' R2 D R U R' D' R U' R D R'
+GQR:U R D' R2 D R U R' D' R U' R D R' U',GRQ:U R D' R' U R' D R U' R' D' R2 D R' U'
+GQR:U R D' R2 D R U R' D' R U' R D R' U',XSP:R' U R D' R2 D R U R' D' R U' R D R' U' R
+GQS:U R' U R2 D' R' U' R D R' U R' U' R U',JQS:R' U R2 D' R' U' R D R' U R' U' R
+GQS:U R' U R2 D' R' U' R D R' U R' U' R U',GSQ:U R' U R U' R D' R' U R D R2 U' R U'
+GQS:U R' U R2 D' R' U' R D R' U R' U' R U',XRO:R' U R' U R2 D' R' U' R D R' U R' U' R U' R
+GQT:U' D' R' U R D R' U' R U,JOH:R U' D' R' U R D R' U' R U R'
+GQT:U' D' R' U R D R' U' R U,JYO:R2 U' D' R' U R D R' U' R U R2
+GQT:U' D' R' U R D R' U' R U,GTQ:U' R' U R D' R' U' R U D
+GQT:U' D' R' U R D R' U' R U,GTZ:U' R' U R D R' U' R U D'
+GQW:R' F' R U' D' R D R' U' R D' R' U2 D R' F R,GWQ:R' F' R U2 D' R D R' U R D' R' U D R' F R
+GQW:R' F' R U' D' R D R' U' R D' R' U2 D R' F R,WTQ:R2 F' R U' D' R D R' U' R D' R' U2 D R' F R2
+GQX:D' R2 U D R U' R' D' R U R' U' R2 D,GTW:R2 U D R U' R' D' R U R' U' R2
+GQX:D' R2 U D R U' R' D' R U R' U' R2 D,GXQ:D' R2 U R U' R' D R U R' U' D' R2 D
+GQY:R' B' R2 D' R' U R D R' U' R' B R,JEO:R2 D' R' U R D R' U' R'
+GQY:R' B' R2 D' R' U R D R' U' R' B R,GYQ:R' B' R U R D' R' U' R D R2 B R
+GQZ:R U' R' U' R D' R' U R U D R',JSP:U' R' U' R D' R' U R U D
+GQZ:R U' R' U' R D' R' U R U D R',GTN:D R U' R' U' R D' R' U R U D R' D'
+GQZ:R U' R' U' R D' R' U R U D R',GZQ:R U' D' R' U' R D R' U R U R'
+GQZ:R U' R' U' R D' R' U R U D R',XPR:R U' R U' R' U' R D' R' U R U D R' U R'
+GRA:U R D' R' U2 R' D R U2 R' D' R2 D R' U',JRD:R D' R' U2 R' D R U2 R' D' R2 D R'
+GRB:U D R U R D' R' U' R D R2 U' D',JRE:D R U R D' R' U' R D R2 D'
+GRD:U R D' R' U R' D R U' R' D' R U' R D R',GXS:D' R' U R' D R U' R' D' R U' R D R' U R
+GRD:U R D' R' U R' D R U' R' D' R U' R D R',JIE:R U R D' R' U R' D R U' R' D' R U' R D R2
+GRD:U R D' R' U R' D R U' R' D' R U' R D R',JRG:R D' R' U R' D R U' R' D' R U' R D R' U
+GRE:R' U R U2 R D R' U2 R D' R2 U' R,JIF:U R U2 R D R' U2 R D' R2 U'
+GRF:D R' U D' R D R' U2 R D' R' U D R D',JID:R D R' U D' R D R' U2 R D' R' U D R D' R'
+GRM:R' U R U' D R' D' R U2 R' D R U' D' R' U' R,JWB:R U' D R' D' R U2 R' D R U' D' R'
+GRN:U D R U' R D' R' U R D R2 U' D',JRN:D R U' R D' R' U R D R2 D'
+GRN:U D R U' R D' R' U R D R2 U' D',XMS:R' U D R U' R D' R' U R D R2 U' D' R
+GRO:R' U R U2 D' R D R' U2 R D' R' D R' U' R,JQB:R U2 D' R D R' U2 R D' R' D R'
+GRP:R' U R U2 R D' R' U2 R D R2 U' R,JIQ:U R U2 R D' R' U2 R D R2 U'
+GRP:R' U R U2 R D' R' U2 R D R2 U' R,JRP:U' R' U R U2 R D' R' U2 R D R2 U' R U
+GRQ:U R D' R' U R' D R U' R' D' R2 D R' U',JRQ:R D' R' U R' D R U' R' D' R2 D R'
+GRQ:U R D' R' U R' D R U' R' D' R2 D R' U',XPS:R' U R D' R' U R' D R U' R' D' R2 D R' U' R
+GRW:R' U R U' R' D R U2 R' D' R U' R' U' R,JIM:U R U' R' D R U2 R' D' R U' R' U'
+GRW:R' U R U' R' D R U2 R' D' R U' R' U' R,GWR:R' U R U R' D R U2 R' D' R U R' U' R
+GRX:R' U R U' D' R' D R U2 R' D' R U' D R' U' R,JSB:R U' D' R' D R U2 R' D' R U' D R'
+GRX:R' U R U' D' R' D R U2 R' D' R U' D R' U' R,GXR:R' U R U D' R' D R U2 R' D' R U D R' U' R
+GRY:R' U R U' R' D' R U2 R' D R U' R' U' R,JIS:U R U' R' D' R U2 R' D R U' R' U'
+GRY:R' U R U' R' D' R U2 R' D R U' R' U' R,GYR:R' U R U R' D' R U2 R' D R U R' U' R
+GRZ:R' U D R U2 R D' R' U2 R D R2 U' D' R,JIT:U D R U2 R D' R' U2 R D R2 U' D'
+GRZ:R' U D R U2 R D' R' U2 R D R2 U' D' R,GZR:R' U D R2 D' R' U2 R D R' U2 R' U' D' R
+GSA:U2 R D R' U2 R D' R',JGB:R U2 R D R' U2 R D' R2
+GSA:U2 R D R' U2 R D' R',GWZ:R F' R' U2 R D R' U2 R D' F R'
+GSA:U2 R D R' U2 R D' R',JDS:U' R D R' U2 R D' R' U'
+GSA:U2 R D R' U2 R D' R',JSD:U R D R' U2 R D' R' U
+GSB:R' F R2 D R' U' R D' R' U R' F' R,JSG:R D R' U' R D' R' U
+GSB:R' F R2 D R' U' R D' R' U R' F' R,JFR:U R' F R2 D R' U' R D' R' U R' F' R U'
+GSB:R' F R2 D R' U' R D' R' U R' F' R,GYS:D R' U' R D' R' U R
+GSD:U R D R' U' R D' R',JGE:R U R D R' U' R D' R2
+GSD:U R D R' U' R D' R',JAS:U' R D R' U' R D' R' U2
+GSD:U R D R' U' R D' R',JSG:R D R' U' R D' R' U
+GSE:R U R' U' R D R' U R U' D' R',JCR:U2 R U R' U' R D R' U R U' D' R' U2
+GSE:R U R' U' R D R' U R U' D' R',JSH:U' R U R' U' R D R' U R U' D' R' U
+GSM:R' D R' D' R U R' D R U' D' R,JGN:D R' D' R U R' D R U' D'
+GSM:R' D R' D' R U R' D R U' D' R,WRQ:B R' D R' D' R U R' D R U' D' R B'
+GSM:R' D R' D' R U R' D R U' D' R,JWZ:R D R' D' R U R' D R U' D' R'
+GSN:U R' F' R U' R D R' U R D' R2 F R U',JSN:R' F' R U' R D R' U R D' R2 F R
+GSO:R' U' D' R D R' U R D' R' D R,JGP:U' D' R D R' U R D' R' D
+GSO:R' U' D' R D R' U R D' R' D R,JQZ:R U' D' R D R' U R D' R' D R'
+GSP:R' U' R D' R' U R D,GYS:D R' U' R D' R' U R
+GSP:R' U' R D' R' U R D,JSP:U' R' U' R D' R' U R U D
+GSP:R' U' R D' R' U R D,JGQ:U' R D' R' U R D R'
+GSP:R' U' R D' R' U R D,JHF:R B' R' U' R D' R' U R D B R'
+GSP:R' U' R D' R' U R D,JOZ:R U' R D' R' U R D R2
+GSQ:U R' U R U' R D' R' U R D R2 U' R U',JSQ:R' U R U' R D' R' U R D R2 U' R
+GSQ:U R' U R U' R D' R' U R D R2 U' R U',XOR:R' U R' U R U' R D' R' U R D R2 U' R U' R
+GSW:R2 D R U R' D' R U' R,JGM:R' D R U R' D' R U'
+GSW:R2 D R U R' D' R U' R,WSO:B R2 D R U R' D' R U' R B'
+GSW:R2 D R U R' D' R U' R,JSW:U' R2 D R U R' D' R U' R U
+GSW:R2 D R U R' D' R U' R,GWS:R' U R' D R U' R' D' R2
+GSW:R2 D R U R' D' R U' R,JGA:R F' R2 D R U R' D' R U' R F R'
+GSW:R2 D R U R' D' R U' R,JMF:R B' R2 D R U R' D' R U' R B R'
+GSW:R2 D R U R' D' R U' R,JNZ:D R U R' D' R U' R'
+GSX:R' U' R D' R' U R' D R U R' D' R U' R D,GXS:D' R' U R' D R U' R' D' R U' R D R' U R
+GSX:R' U' R D' R' U R' D R U R' D' R U' R D,JEI:R2 D' R' U R' D R U R' D' R U' R D R' U' R'
+GSX:R' U' R D' R' U R' D R U R' D' R U' R D,JGR:U' R D' R' U R' D R U R' D' R U' R D R'
+GSY:R' U' R D R' U R D',GYS:D R' U' R D' R' U R
+GSY:R' U' R D R' U R D',JGS:U' R D R' U R D' R'
+GSY:R' U' R D R' U R D',JGW:R F' R' U' R D R' U R D' F R'
+GSY:R' U' R D R' U R D',JSN:R' F' R U' R D R' U R D' R2 F R
+GSY:R' U' R D R' U R D',GYE:R2 U R U' R D R' U R D' R2 U' R2
+GSY:R' U' R D R' U R D',JGD:R' B' R U' R D R' U R D' R2 B R
+GSZ:R' U' D R D' R' U R D R' D' R,JGT:U' D R D' R' U R D R' D'
+GSZ:R' U' D R D' R' U R D R' D' R,GZS:R' D R D' R' U' R D R' U D' R
+GTA:U2 D R D' R' U2 R D R' D',JHB:R U2 D R D' R' U2 R D R' D' R'
+GTA:U2 D R D' R' U2 R D R' D',JDT:U' D R D' R' U2 R D R' U' D'
+GTA:U2 D R D' R' U2 R D R' D',JTD:U D R D' R' U2 R D R' U D'
+GTB:U R U2 R' D' R U' R' D R U' R' U',JTE:R U2 R' D' R U' R' D R U' R'
+GTC:R' U' R U R D R' U' R D' R2 U R,JGE:R U R D R' U' R D' R2
+GTC:R' U' R U R D R' U' R D' R2 U R,JTF:U' R' U' R U R D R' U' R D' R2 U R U
+GTD:U D R D' R' U' R D R' D',JAT:U' D R D' R' U' R D R' U2 D'
+GTD:U D R D' R' U' R D R' D',JHE:R U D R D' R' U' R D R' D' R'
+GTD:U D R D' R' U' R D R' D',JTG:D R D' R' U' R D R' U D'
+GTO:U R2 D' R2 U' R' U R2 D R2 U' R,JHP:R U R2 D' R2 U' R' U R2 D R2 U'
+GTO:U R2 D' R2 U' R' U R2 D R2 U' R,JTO:R2 D' R2 U' R' U R2 D R2 U' R U
+GTO:U R2 D' R2 U' R' U R2 D R2 U' R,XOT:R' U R2 D' R2 U' R' U R2 D R2 U' R2
+GTP:R B R' D R D' B' D R' D',XPT:B R' D R D' B' D R' D' R
+GTQ:U' R' U R D' R' U' R U D,JOY:R2 U' R' U R D' R' U' R U D R2
+GTQ:U' R' U R D' R' U' R U D,GZT:U' D R' U R D' R' U' R U
+GTQ:U' R' U R D' R' U' R U D,JHO:R U' R' U R D' R' U' R U D R'
+GTW:R2 U D R U' R' D' R U R' U' R2,JMY:U D R U' R' D' R U R' U'
+GTW:R2 U D R U' R' D' R U R' U' R2,GWT:R2 U R U' R' D R U R' U' D' R2
+GTW:R2 U D R U' R' D' R U R' U' R2,JHM:R' U D R U' R' D' R U R' U' R
+GTW:R2 U D R U' R' D' R U R' U' R2,JTW:U' R2 U D R U' R' D' R U R' U' R2 U
+GTX:U' R' U D R D' R' U' R D R' D' R U,GXT:U' R' D R D' R' U R D R' U' D' R U
+GTY:D' R U' R' U R' D R U' R' D' R2 U R' D,GZM:R U' R' U R' D R U' R' D' R2 U R'
+GTY:D' R U' R' U R' D R U' R' D' R2 U R' D,GYT:D' R U' R2 D R U R' D' R U' R U R' D
+GTZ:U' R' U R D R' U' R U D',GZT:U' D R' U R D' R' U' R U
+GTZ:U' R' U R D R' U' R U D',JHT:R U' R' U R D R' U' R U D' R'
+GWC:R' U' R' D R U R' D' R2,JEM:U R' U' R' D R U R' D' R2 U'
+GWC:R' U' R' D R U R' D' R2,JWF:U' R' U' R' D R U R' D' R2 U
+GWC:R' U' R' D R U R' D' R2,GXC:D' R' U' R' D R U R' D' R2 D
+GWC:R' U' R' D R U R' D' R2,JMA:U' R' D R U R' D' R
+GWC:R' U' R' D R U R' D' R2,JTM:R F R' U' R' D R U R' D' R2 F' R'
+GWE:U R' U' R2 D R2 U R U' R2 D' R2,GYW:R2 D R2 U R U' R2 D' R2 U R' U'
+GWE:U R' U' R2 D R2 U R U' R2 D' R2,JWH:R' U' R2 D R2 U R U' R2 D' R2 U
+GWF:R' U2 R' D R U2 R' D' R2,GXF:D' R' U2 R' D R U2 R' D' R2 D
+GWF:R' U2 R' D R U2 R' D' R2,JWI:U' R' U2 R' D R U2 R' D' R2 U
+GWF:R' U2 R' D R U2 R' D' R2,JMD:U2 R' D R U2 R' D' R
+GWO:R' F' R U2 R D' R' U R D R' U R' F R,WOT:R2 F' R U2 R D' R' U R D R' U R' F R2
+GWP:R D' B R' D R D' B' D R' D' R D R',XPT:B R' D R D' B' D R' D' R
+GWQ:R' F' R U2 D' R D R' U R D' R' U D R' F R,WQT:R2 F' R U2 D' R D R' U R D' R' U D R' F R2
+GWR:R' U R U R' D R U2 R' D' R U R' U' R,JMI:U R U R' D R U2 R' D' R U R' U'
+GWS:R' U R' D R U' R' D' R2,GXP:D' R' U R' D R U' R' D' R2 D
+GWS:R' U R' D R U' R' D' R2,JZN:R U R' D R U' R' D'
+GWS:R' U R' D R U' R' D' R2,WOS:B R' U R' D R U' R' D' R2 B'
+GWS:R' U R' D R U' R' D' R2,JWS:U' R' U R' D R U' R' D' R2 U
+GWS:R' U R' D R U' R' D' R2,JAG:R F' R' U R' D R U' R' D' R2 F R'
+GWS:R' U R' D R U' R' D' R2,JFM:R B' R' U R' D R U' R' D' R2 B R'
+GWS:R' U R' D R U' R' D' R2,JMG:U R' D R U' R' D' R
+GWT:R2 U R U' R' D R U R' U' D' R2,JYM:U R U' R' D R U R' U' D'
+GWT:R2 U R U' R' D R U R' U' D' R2,GXQ:D' R2 U R U' R' D R U R' U' D' R2 D
+GWT:R2 U R U' R' D R U R' U' D' R2,JMH:R' U R U' R' D R U R' U' D' R
+GWT:R2 U R U' R' D R U R' U' D' R2,JWT:U' R2 U R U' R' D R U R' U' D' R2 U
+GWX:R' F' R U' R' D' R U R' D F R,GXW:R' F' D' R U' R' D R U R' F R
+GWY:U R U' R2 D R2 U R' U' R2 D' R2,GYW:R2 D R2 U R U' R2 D' R2 U R' U'
+GWY:U R U' R2 D R2 U R' U' R2 D' R2,JWY:R U' R2 D R2 U R' U' R2 D' R2 U
+GWZ:R F' R' U2 R D R' U2 R D' F R',GZW:R F' D R' U2 R D' R' U2 R F R'
+GXA:R' D R U2 R D' R' U2 R D R2 D' R,JRB:D R U2 R D' R' U2 R D R2 D'
+GXA:R' D R U2 R D' R' U2 R D R2 D' R,JDX:U R' D R U2 R D' R' U2 R D R2 D' R U'
+GXB:U' R B' R' U R' D' R U' R' D R2 B R' U,JFZ:R B' R' U R' D' R U' R' D R2 B R'
+GXC:D' R' U' R' D R U R' D' R2 D,JXF:U' D' R' U' R' D R U R' D' R2 U D
+GXC:D' R' U' R' D R U R' D' R2 D,JRA:R D' R' U' R' D R U R' D' R2 D R'
+GXD:R' D R U R D' R' U' R D R2 D' R,JRE:D R U R D' R' U' R D R2 D'
+GXE:U2 R' U' D' R U R' D R U' R' U R U2,JCZ:R' U' D' R U R' D R U' R' U R
+GXE:U2 R' U' D' R U R' D R U' R' U R U2,JXH:U R' U' D' R U R' D R U' R' U R U'
+GXF:D' R' U2 R' D R U2 R' D' R2 D,JRD:R D' R' U2 R' D R U2 R' D' R2 D R'
+GXF:D' R' U2 R' D R U2 R' D' R2 D,JXI:U' D' R' U2 R' D R U2 R' D' R2 U D
+GXM:R' D R U' R D' R' U R D R2 D' R,JRN:D R U' R D' R' U R D R2 D'
+GXM:R' D R U' R D' R' U R D R2 D' R,JXM:U' R' D R U' R D' R' U R D R2 D' R U
+GXN:U R U' R' U2 R' D R U2 R' D' R2 U R' U',JXN:R U' R' U2 R' D R U2 R' D' R2 U R'
+GXP:D' R' U R' D R U' R' D' R2 D,JRQ:R D' R' U R' D R U' R' D' R2 D R'
+GXP:D' R' U R' D R U' R' D' R2 D,JXP:U' D' R' U R' D R U' R' D' R2 U D
+GXR:R' U R U D' R' D R U2 R' D' R U D R' U' R,JBS:R U D' R' D R U2 R' D' R U D R'
+GXS:D' R' U R' D R U' R' D' R U' R D R' U R,JRG:R D' R' U R' D R U' R' D' R U' R D R' U
+GXS:D' R' U R' D R U' R' D' R U' R D R' U R,JIE:R U R D' R' U R' D R U' R' D' R U' R D R2
+GYA:U' D' R' D R U2 R' D' R U' D,JSB:R U' D' R' D R U2 R' D' R U' D R'
+GYA:U' D' R' D R U2 R' D' R U' D,JDY:D' R' D R U2 R' D' R U2 D
+GYA:U' D' R' D R U2 R' D' R U' D,JYD:U2 D' R' D R U2 R' D' R D
+GYB:U R U R' U' R' D' R U R' D R2 U' R' U',JYE:R U R' U' R' D' R U R' D R2 U' R'
+GYC:R' U2 R D R' U R D' R' U R,JSA:U2 R D R' U R D' R' U
+GYC:R' U2 R D R' U R D' R' U R,JYF:U' R' U2 R D R' U R D' R' U R U
+GYD:U2 D' R' D R U' R' D' R U' D,JAY:D' R' D R U' R' D' R U D
+GYD:U2 D' R' D R U' R' D' R U' D,JSE:R U2 D' R' D R U' R' D' R U' D R'
+GYD:U2 D' R' D R U' R' D' R U' D,JYG:U D' R' D R U' R' D' R D
+GYE:R2 U R U' R D R' U R D' R2 U' R2,JGS:U' R D R' U R D' R'
+GYF:R' U R D R' U2 R D' R' U R,JSD:U R D R' U2 R D' R' U
+GYF:R' U R D R' U2 R D' R' U R,JWD:R F' R' U R D R' U2 R D' R' U R F R'
+GYF:R' U R D R' U2 R D' R' U R,JYI:U' R' U R D R' U2 R D' R' U R U
+GYM:U' R U2 R' D R U2 R' U D',JDZ:R' D' R U2 R' D R U2
+GYO:U R2 U' D' R' U R D R' U' R U R2 U',JYO:R2 U' D' R' U R D R' U' R U R2
+GYP:R B R' U D' R' D R U' R' D' R D R B' R',JYG:U D' R' D R U' R' D' R D
+GYQ:R' B' R U R D' R' U' R D R2 B R,JOE:R U R D' R' U' R D R2
+GYR:R' U R U R' D' R U2 R' D R U R' U' R,JSI:U R U R' D' R U2 R' D R U R' U'
+GYS:D R' U' R D' R' U R,JSG:R D R' U' R D' R' U
+GYS:D R' U' R D' R' U R,JNS:R' F' R2 D R' U' R D' R' U R' F R
+GYS:D R' U' R D' R' U R,JDG:R' B' R2 D R' U' R D' R' U R' B R
+GYS:D R' U' R D' R' U R,JWG:R F' D R' U' R D' R' U R F R'
+GYS:D R' U' R D' R' U R,JSP:U' R' U' R D' R' U R U D
+GYW:R2 D R2 U R U' R2 D' R2 U R' U',JYW:U' R2 D R2 U R U' R2 D' R2 U R'
+GZA:U' R' D' R U2 R' D R U',JZD:U2 R' D' R U2 R' D R
+GZA:U' R' D' R U2 R' D R U',JTB:R U' R' D' R U2 R' D R U' R'
+GZA:U' R' D' R U2 R' D R U',JCS:R' U' R' D' R U2 R' D R U' R
+GZA:U' R' D' R U2 R' D R U',JDZ:R' D' R U2 R' D R U2
+GZB:R U' R D R' U' R D' R' U2 R',JAS:U' R D R' U' R D' R' U2
+GZB:R U' R D R' U' R D' R' U2 R',XWT:R2 F' R U' R D R' U' R D' R' U2 R' F R2
+GZC:R' U2 D R D' R' U R D R' U D' R,JTA:U2 D R D' R' U R D R' U D'
+GZD:U2 R' D' R U' R' D R U',JTE:R U2 R' D' R U' R' D R U' R'
+GZD:U2 R' D' R U' R' D R U',JZG:U R' D' R U' R' D R
+GZD:U2 R' D' R U' R' D R U',JAZ:R' D' R U' R' D R U
+GZD:U2 R' D' R U' R' D R U',JFS:R' U2 R' D' R U' R' D R U' R
+GZE:R U' R D R' U2 R D' R' U' R',JDS:U' R D R' U2 R D' R' U'
+GZF:R' U D R D' R' U2 R D R' U D' R,JTD:U D R D' R' U2 R D R' U D'
+GZF:R' U D R D' R' U2 R D R' U D' R,JXR:R U' R' U D R D' R' U2 R D R' U D' R U R'
+GZM:R U' R' U R' D R U' R' D' R2 U R',JWS:U' R' U R' D R U' R' D' R2 U
+GZM:R U' R' U R' D R U' R' D' R2 U R',JZM:U' R U' R' U R' D R U' R' D' R2 U R' U
+GZN:U R U R' D R U' R' U' D',JTZ:D' R U R' D R U' R'
+GZN:U R U R' D R U' R' U' D',JMS:R' U R U R' D R U' R' U' D' R
+GZN:U R U R' D R U' R' U' D',JZN:R U R' D R U' R' D'
+GZO:U R2 D' R' U' R D R' U R' U',JZO:R2 D' R' U' R D R' U R'
+GZO:U R2 D' R' U' R D R' U R' U',JQS:R' U R2 D' R' U' R D R' U R' U' R
+GZP:R B R' U R' D' R U' R' D R2 B' R',JZT:R U R' D' R U' R' D
+GZP:R B R' U R' D' R U' R' D R2 B' R',JZP:U' R B R' U R' D' R U' R' D R2 B' R' U
+GZP:R B R' U R' D' R U' R' D R2 B' R',JZG:U R' D' R U' R' D R
+GZQ:R U' D' R' U' R D R' U R U R',JPS:U' D' R' U' R D R' U R U
+GZQ:R U' D' R' U' R D R' U R U R',XRP:R U' R U' D' R' U' R D R' U R U R' U R'
+GZR:R' U D R2 D' R' U2 R D R' U2 R' U' D' R,JTI:U D R2 D' R' U2 R D R' U2 R' U' D'
+GZS:R' D R D' R' U' R D R' U D' R,JTG:D R D' R' U' R D R' U D'
+GZT:U' D R' U R D' R' U' R U,JTH:R U' D R' U R D' R' U' R U R'
+JAD:R' U' D' R' D R U' R' D' R U2 D R,JDA:R' U2 D' R' D R U R' D' R U D R
+JAE:U' R2 D R' U2 R D' R' U2 R' U,JBG:R2 D R' U2 R D' R' U2 R'
+JAE:U' R2 D R' U2 R D' R' U2 R' U,JEA:U' R U2 R D R' U2 R D' R2 U
+JAE:U' R2 D R' U2 R D' R' U2 R' U,JFI:U R2 D R' U2 R D' R' U2 R' U'
+JAF:U' R' U' R' D' R U R' D R2 U,JCG:R' U' R' D' R U R' D R2
+JAF:U' R' U' R' D' R U R' D R2 U,JFA:U' R2 D' R U' R' D R U R U
+JAG:R F' R' U R' D R U' R' D' R2 F R',JGA:R F' R2 D R U R' D' R U' R F R'
+JAH:R' U' D' R' D R U R' D' R D R,JYA:U' D' R' D R U R' D' R D
+JAH:R' U' D' R' D R U R' D' R D R,JHA:R' D' R' D R U' R' D' R U D R
+JAI:U' R' U2 R' D' R U2 R' D R2 U,JXC:R U' R' U2 R' D' R U2 R' D R2 U R'
+JAI:U' R' U2 R' D' R U2 R' D R2 U,JFG:R' U2 R' D' R U2 R' D R2
+JAI:U' R' U2 R' D' R U2 R' D R2 U,JIA:U' R2 D' R U2 R' D R U2 R U
+JAM:R' D R U' R' D' R U,JAY:D' R' D R U' R' D' R U D
+JAM:R' D R U' R' D' R U,JMG:U R' D R U' R' D' R
+JAM:R' D R U' R' D' R U,JMA:U' R' D R U R' D' R
+JAM:R' D R U' R' D' R U,JOD:R' U' D' R D R U' R' D' R U R2 U D R
+JAN:D R' D' R U' R' D R U D',JAZ:R' D' R U' R' D R U
+JAN:D R' D' R U' R' D R U D',JNG:U D R' D' R U' R' D R D'
+JAN:D R' D' R U' R' D R U D',JNA:U' D R' D' R U R' D R D'
+JAO:R' B D' R U' R' D R U R' B' R,JOA:R' B R U' R' D' R U R' D B' R
+JAP:U' D' R D R' U' R D' R' U2 D,JAS:U' R D R' U' R D' R' U2
+JAP:U' D' R D R' U' R D' R' U2 D,JPA:U2 D' R D R' U R D' R' U D
+JAP:U' D' R D R' U' R D' R' U2 D,JPG:D' R D R' U' R D' R' U D
+JAQ:U' R D' R' U' R D R' U2,JAT:U' D R D' R' U' R D R' U2 D'
+JAQ:U' R D' R' U' R D R' U2,JQA:U2 R D' R' U R D R' U
+JAQ:U' R D' R' U' R D R' U2,JQG:R D' R' U' R D R' U
+JAR:R D' R2 D R U' R' D' R U R D R',JRA:R D' R' U' R' D R U R' D' R2 D R'
+JAS:U' R D R' U' R D' R' U2,JSA:U2 R D R' U R D' R' U
+JAS:U' R D R' U' R D' R' U2,JSG:R D R' U' R D' R' U
+JAT:U' D R D' R' U' R D R' U2 D',JTA:U2 D R D' R' U R D R' U D'
+JAT:U' D R D' R' U' R D R' U2 D',JTG:D R D' R' U' R D R' U D'
+JAW:R2 F R U R' D' R U2 R' D R U R' F' R2,JBT:R U R' D' R U2 R' D R U R'
+JAW:R2 F R U R' D' R U2 R' D R U R' F' R2,JWA:R2 F R U' R' D' R U2 R' D R U' R' F' R2
+JAX:R' D R U' R D' R' U' R D R' U R' D' R U,JXG:U R' D R U' R D' R' U' R D R' U R' D' R
+JAX:R' D R U' R D' R' U' R D R' U R' D' R U,JIB:R2 D R U' R D' R' U' R D R' U R' D' R U R
+JAX:R' D R U' R D' R' U' R D R' U R' D' R U,JXA:U' R' D R U' R D' R' U R D R' U R' D' R
+JAX:R' D R U' R D' R' U' R D R' U R' D' R U,JZR:R U R' D R U' R D' R' U' R D R' U R' D'
+JAY:D' R' D R U' R' D' R U D,JYG:U D' R' D R U' R' D' R D
+JAY:D' R' D R U' R' D' R U D,JHA:R' D' R' D R U' R' D' R U D R
+JAY:D' R' D R U' R' D' R U D,JYA:U' D' R' D R U R' D' R D
+JAZ:R' D' R U' R' D R U,JZG:U R' D' R U' R' D R
+JAZ:R' D' R U' R' D R U,JGC:R2 D' R U' R' D R U R
+JAZ:R' D' R U' R' D R U,JZA:U' R' D' R U R' D R
+JBD:R' F R U D R' D' R U R' D R U2 D' R' F' R,JEW:R U D R' D' R U R' D R U2 D' R'
+JBD:R' F R U D R' D' R U R' D R U2 D' R' F' R,JDB:R' F R U2 D R' D' R U' R' D R U' D' R' F' R
+JBE:R2 D R' U2 R D' R' U' R D R' U' R D' R2,JEB:R2 D R' U R D' R' U R D R' U2 R D' R2
+JBF:R2 U' R U R' D' R U2 R' D R U R' U R2,JFB:R2 U' R U' R' D' R U2 R' D R U' R' U R2
+JBG:R2 D R' U2 R D' R' U2 R',JFI:U R2 D R' U2 R D' R' U2 R' U'
+JBG:R2 D R' U2 R D' R' U2 R',JGB:R U2 R D R' U2 R D' R2
+JBH:R D R D' R' U2 R D R' U2 D' R',JCD:U' R D R D' R' U2 R D R' U2 D' R' U
+JBH:R D R D' R' U2 R D R' U2 D' R',JHB:R U2 D R D' R' U2 R D R' D' R'
+JBI:R' U' R' D R U' R D' R' U R D R' U R' D' R2,JRZ:D R U' R D' R' U R D R' U R' D' R U' R'
+JBI:R' U' R' D R U' R D' R' U R D R' U R' D' R2,JIB:R2 D R U' R D' R' U' R D R' U R' D' R U R
+JBI:R' U' R' D R U' R D' R' U R D R' U R' D' R2,JXA:U' R' D R U' R D' R' U R D R' U R' D' R
+JBM:R' D F2 D' R D R' F2 R D',JBY:D' R' D F2 D' R D R' F2 R
+JBM:R' D F2 D' R D R' F2 R D',JMB:D R' F2 R D' R' D F2 D' R
+JBN:R U R' D R U2 R' D' R U R',JMI:U R U R' D R U2 R' D' R U R' U'
+JBN:R U R' D R U2 R' D' R U R',JNB:R U' R' D R U2 R' D' R U' R'
+JBO:R2 D' R' U2 R D R' U2 R',JBR:D R2 D' R' U2 R D R' U2 R' D'
+JBO:R2 D' R' U2 R D R' U2 R',JQI:U R2 D' R' U2 R D R' U2 R' U'
+JBO:R2 D' R' U2 R D R' U2 R',JOB:R U2 R D' R' U2 R D R2
+JBP:U' D' R D R' U R' F R2 D' R' D R' F' R,JQW:F' R U' D' R D R' U R' F R2 D' R' D R'
+JBP:U' D' R D R' U R' F R2 D' R' D R' F' R,JOI:D' R D R' U R' F R2 D' R' D R' F' R U'
+JBP:U' D' R D R' U R' F R2 D' R' D R' F' R,JPB:R' F R D' R D R2 F' R U' R D' R' U D
+JBQ:R D' R D R' U2 R D' R' U2 D R',JQB:R U2 D' R D R' U2 R D' R' D R'
+JBQ:R D' R D R' U2 R D' R' U2 D R',XPN:F2 R D' R D R' U2 R D' R' U2 D R' F2
+JBR:D R2 D' R' U2 R D R' U2 R' D',JTI:U D R2 D' R' U2 R D R' U2 R' U' D'
+JBR:D R2 D' R' U2 R D R' U2 R' D',JRB:D R U2 R D' R' U2 R D R2 D'
+JBS:R U D' R' D R U2 R' D' R U D R',JSB:R U' D' R' D R U2 R' D' R U' D R'
+JBT:R U R' D' R U2 R' D R U R',JSI:U R U R' D' R U2 R' D R U R' U'
+JBT:R U R' D' R U2 R' D R U R',JBZ:D R U R' D' R U2 R' D R U R' D'
+JBT:R U R' D' R U2 R' D R U R',JSC:R' U R' D' R U2 R' D R U R
+JBT:R U R' D' R U2 R' D R U R',JTB:R U' R' D' R U2 R' D R U' R'
+JBW:R U D R' D' R U2 R' D R U D' R',JBX:D' R U D R' D' R U2 R' D R U D' R' D
+JBW:R U D R' D' R U2 R' D R U D' R',JWB:R U' D R' D' R U2 R' D R U' D' R'
+JBX:D' R U D R' D' R U2 R' D R U D' R' D,JIC:R' D' R U D R' D' R U2 R' D R U D' R' D R
+JBX:D' R U D R' D' R U2 R' D R U D' R' D,JXB:D' R U' D R' D' R U2 R' D R U' D' R' D
+JBY:D' R' D F2 D' R D R' F2 R,JYB:R' F2 R D' R' D F2 D' R D
+JBZ:D R U R' D' R U2 R' D R U R' D',JZB:D R U' R' D' R U2 R' D R U' R' D'
+JCD:U' R D R D' R' U2 R D R' U2 D' R' U,JDC:U' R U2 D R D' R' U2 R D R' D' R' U
+JCE:R U' R' U' R' D' R U' R' D R U2 R U R',JCF:R' U' R' D' R U' R' D R U2 R
+JCE:R U' R' U' R' D' R U' R' D R U2 R U R',JEC:R U' R' U2 R' D' R U R' D R U R U R'
+JCF:R' U' R' D' R U' R' D R U2 R,JFC:R' U2 R' D' R U R' D R U R
+JCG:R' U' R' D' R U R' D R2,JYE:R U R' U' R' D' R U R' D R2 U' R'
+JCG:R' U' R' D' R U R' D R2,JGC:R2 D' R U' R' D R U R
+JCG:R' U' R' D' R U R' D R2,JZA:U' R' D' R U R' D R
+JCH:R' F R U R' D R U' R' D' F' R,JZN:R U R' D R U' R' D'
+JCH:R' F R U R' D R U' R' D' F' R,JHC:R' F D R U R' D' R U' R' F' R
+JCI:R' D' R U' D R' D' R U2 R' D R U' D' R' D R,JXB:D' R U' D R' D' R U2 R' D R U' D' R' D
+JCI:R' D' R U' D R' D' R U2 R' D R U' D' R' D R,JIC:R' D' R U D R' D' R U2 R' D R U D' R' D R
+JCM:R' U' D R U R' D' R U' R' U R,JCY:D' R' U' D R U R' D' R U' R' U R D
+JCM:R' U' D R U R' D' R U' R' U R,JMC:R' U' R U R' D R U' R' U D' R
+JCN:D R' U' D' R U R' D R U' R' U R D',JCZ:R' U' D' R U R' D R U' R' U R
+JCN:D R' U' D' R U R' D R U' R' U R D',JNC:D R' U' R U R' D' R U' R' U D R D'
+JCO:R2 D' R2 U' R U R2 D R2 U' R' U,JPH:U R2 D' R2 U' R U R2 D R2 U' R'
+JCO:R2 D' R2 U' R U R2 D R2 U' R' U,JOC:U' R U R2 D' R2 U' R' U R2 D R2
+JCO:R2 D' R2 U' R U R2 D R2 U' R' U,JOT:U' R' U R2 D' R2 U' R U R2 D R2
+JCP:U2 R U R' U' R D' R' U R U' D R' U2,JPC:U2 R U D' R' U' R D R' U R U' R' U2
+JCQ:U' R U' D' R' U R D R' U' R U R' U,JOH:R U' D' R' U R D R' U' R U R'
+JCQ:U' R U' D' R' U R D R' U' R U R' U,JQC:U' R U' R' U R D' R' U' R U D R' U
+JCR:U2 R U R' U' R D R' U R U' D' R' U2,JRC:U2 R U D R' U' R D' R' U R U' R' U2
+JCR:U2 R U R' U' R D R' U R U' D' R' U2,JSH:U' R U R' U' R D R' U R U' D' R' U
+JCS:R' U' R' D' R U2 R' D R U' R,JSC:R' U R' D' R U2 R' D R U R
+JCS:R' U' R' D' R U2 R' D R U' R,JTB:R U' R' D' R U2 R' D R U' R'
+JCT:R2 U' R2 D' R U R' D R U' R U R2,JGZ:R' D' R U R' D R U'
+JCT:R2 U' R2 D' R U R' D R U' R U R2,JTC:R2 U' R' U R' D' R U' R' D R2 U R2
+JCT:R2 U' R2 D' R U R' D R U' R U R2,JTZ:D' R U R' D R U' R'
+JCW:U' R' U R U' R' D R U R' U' D' R U,JMH:R' U R U' R' D R U R' U' D' R
+JCW:U' R' U R U' R' D R U R' U' D' R U,JWC:U' R' U D R U' R' D' R U R' U' R U
+JCX:R U' R2 D' R U2 R' D R U2 R U R',JIA:U' R2 D' R U2 R' D R U2 R U
+JCX:R U' R2 D' R U2 R' D R U2 R U R',JXC:R U' R' U2 R' D' R U2 R' D R2 U R'
+JCY:D' R' U' D R U R' D' R U' R' U R D,JYC:D' R' U' R U R' D R U' R' U D' R D
+JCZ:R' U' D' R U R' D R U' R' U R,JXH:U R' U' D' R U R' D R U' R' U R U'
+JCZ:R' U' D' R U R' D R U' R' U R,JZC:R' U' R U R' D' R U' R' U D R
+JDB:R' F R U2 D R' D' R U' R' D R U' D' R' F' R,JWE:R U2 D R' D' R U' R' D R U' D' R'
+JDC:U' R U2 D R D' R' U2 R D R' D' R' U,JHB:R U2 D R D' R' U2 R D R' D' R'
+JDG:R' B' R2 D R' U' R D' R' U R' B R,JSG:R D R' U' R D' R' U
+JDG:R' B' R2 D R' U' R D' R' U R' B R,JGD:R' B' R U' R D R' U R D' R2 B R
+JDH:R' U2 D' R' D R U2 R' D' R D R,JYD:U2 D' R' D R U2 R' D' R D
+JDH:R' U2 D' R' D R U2 R' D' R D R,JHD:R' D' R' D R U2 R' D' R U2 D R
+JDI:R D R' U' D' R D R' U2 R D' R' U' D R D' R',JID:R D R' U D' R D R' U2 R D' R' U D R D' R'
+JDM:R' D R U2 R' D' R U2,JMD:U2 R' D R U2 R' D' R
+JDM:R' D R U2 R' D' R U2,JDY:D' R' D R U2 R' D' R U2 D
+JDN:D R' D' R U2 R' D R U2 D',JDZ:R' D' R U2 R' D R U2
+JDN:D R' D' R U2 R' D R U2 D',JND:U2 D R' D' R U2 R' D R D'
+JDO:R' U' D' R2 U' R' D R U R' D' R' U D R,JOD:R' U' D' R D R U' R' D' R U R2 U D R
+JDO:R' U' D' R2 U' R' D R U R' D' R' U D R,JMA:U' R' D R U R' D' R
+JDP:U' D' R D R' U2 R D' R' U' D,JDS:U' R D R' U2 R D' R' U'
+JDP:U' D' R D R' U2 R D' R' U' D,JPD:U D' R D R' U2 R D' R' U D
+JDQ:U' R D' R' U2 R D R' U',JDT:U' D R D' R' U2 R D R' U' D'
+JDQ:U' R D' R' U2 R D R' U',JQD:U R D' R' U2 R D R' U
+JDR:R D' R2 D R U2 R' D' R U2 R D R',JRD:R D' R' U2 R' D R U2 R' D' R2 D R'
+JDS:U' R D R' U2 R D' R' U',JSD:U R D R' U2 R D' R' U
+JDT:U' D R D' R' U2 R D R' U' D',JTD:U D R D' R' U2 R D R' U D'
+JDW:R F' R' U' R D R' U2 R D' R' U' R F R',JWD:R F' R' U R D R' U2 R D' R' U R F R'
+JDX:U R' D R U2 R D' R' U2 R D R2 D' R U',JXD:U R' D R2 D' R' U2 R D R' U2 R' D' R U'
+JDY:D' R' D R U2 R' D' R U2 D,JHD:R' D' R' D R U2 R' D' R U2 D R
+JDY:D' R' D R U2 R' D' R U2 D,JYD:U2 D' R' D R U2 R' D' R D
+JDZ:R' D' R U2 R' D R U2,JZD:U2 R' D' R U2 R' D R
+JDZ:R' D' R U2 R' D R U2,JGF:R2 D' R U2 R' D R U2 R
+JDZ:R' D' R U2 R' D R U2,JSO:R' B D' R U2 R' D R U2 R' B' R
+JEA:U' R U2 R D R' U2 R D' R2 U,JGB:R U2 R D R' U2 R D' R2
+JEA:U' R U2 R D R' U2 R D' R2 U,JIF:U R U2 R D R' U2 R D' R2 U'
+JEC:R U' R' U2 R' D' R U R' D R U R U R',JFC:R' U2 R' D' R U R' D R U R
+JEG:R2 D R' U R D' R' U' R',JGE:R U R D R' U' R D' R2
+JEH:R D R D' R' U R D R' U' D' R',JHE:R U D R D' R' U' R D R' D' R'
+JEI:R2 D' R' U R' D R U R' D' R U' R D R' U' R',JIE:R U R D' R' U R' D R U' R' D' R U' R D R2
+JEM:U R' U' R' D R U R' D' R2 U',JME:U R2 D R U' R' D' R U R U'
+JEM:U R' U' R' D R U R' D' R2 U',JWF:U' R' U' R' D R U R' D' R2 U
+JEN:R U R' D R U R' D' R U2 R',JNE:R U2 R' D R U' R' D' R U' R'
+JEO:R2 D' R' U R D R' U' R',JER:D R2 D' R' U R D R' U' R' D'
+JEO:R2 D' R' U R D R' U' R',JOE:R U R D' R' U' R D R2
+JEP:U R' U2 D' R D R' U R D' R' U D R U',JPE:U R' U' D' R D R' U' R D' R' U2 D R U'
+JEQ:R D' R D R' U R D' R' U' D R',JQE:R U D' R D R' U' R D' R' D R'
+JER:D R2 D' R' U R D R' U' R' D',JRE:D R U R D' R' U' R D R2 D'
+JES:R U D' R' D R U R' D' R U2 D R',JSE:R U2 D' R' D R U' R' D' R U' D R'
+JET:R U R' D' R U R' D R U2 R',JEZ:D R U R' D' R U R' D R U2 R' D'
+JET:R U R' D' R U R' D R U2 R',JSF:R' U R' D' R U R' D R U2 R
+JET:R U R' D' R U R' D R U2 R',JTE:R U2 R' D' R U' R' D R U' R'
+JEW:R U D R' D' R U R' D R U2 D' R',JEX:D' R U D R' D' R U R' D R U2 D' R' D
+JEW:R U D R' D' R U R' D R U2 D' R',JWE:R U2 D R' D' R U' R' D R U' D' R'
+JEX:D' R U D R' D' R U R' D R U2 D' R' D,JXE:D' R U2 D R' D' R U' R' D R U' D' R' D
+JEY:R U R2 D' R U' R' D R U R U' R',JGC:R2 D' R U' R' D R U R
+JEY:R U R2 D' R U' R' D R U R U' R',JYE:R U R' U' R' D' R U R' D R2 U' R'
+JEZ:D R U R' D' R U R' D R U2 R' D',JZE:D R U2 R' D' R U' R' D R U' R' D'
+JFA:U' R2 D' R U' R' D R U R U,JGC:R2 D' R U' R' D R U R
+JFG:R' U2 R' D' R U2 R' D R2,JGF:R2 D' R U2 R' D R U2 R
+JFG:R' U2 R' D' R U2 R' D R2,JZD:U2 R' D' R U2 R' D R
+JFH:R B' D' R' U' R D R' U R B R',JHF:R B' R' U' R D' R' U R D B R'
+JFI:U R2 D R' U2 R D' R' U2 R' U',JIF:U R U2 R D R' U2 R D' R2 U'
+JFM:R B' R' U R' D R U' R' D' R2 B R',JMF:R B' R2 D R U R' D' R U' R B R'
+JFN:D R' D' R2 B' R2 D R D' R B R',JNF:R B' R' D R' D' R2 B R2 D R D'
+JFO:R B D' R' U R D R' U' R B' R',JOF:R B R' U R D' R' U' R D B' R'
+JFP:U' R' U' R D' R' U' R D R' U2 R U,JPF:U' R' U2 R D' R' U R D R' U R U
+JFQ:R D' R U D R' U' R D' R' U R U' R' D R',JQF:R D' R U R' U' R D R' U R U' D' R' D R'
+JFR:U R' F R2 D R' U' R D' R' U R' F' R U',JRF:U R' F R U' R D R' U R D' R2 F' R U'
+JFS:R' U2 R' D' R U' R' D R U' R,JSF:R' U R' D' R U R' D R U2 R
+JFS:R' U2 R' D' R U' R' D R U' R,JTE:R U2 R' D' R U' R' D R U' R'
+JFS:R' U2 R' D' R U' R' D R U' R,XQT:R2 B R' U2 R' D' R U' R' D R U' R B' R2
+JFT:U' R' U' R2 D R' U R D' R' U' R' U R U,JTF:U' R' U' R U R D R' U' R D' R2 U R U
+JFW:U' R2 D R U' R' D' R U R U,JFX:U' D' R2 D R U' R' D' R U R U D
+JFW:U' R2 D R U' R' D' R U R U,JME:U R2 D R U' R' D' R U R U'
+JFW:U' R2 D R U' R' D' R U R U,JWF:U' R' U' R' D R U R' D' R2 U
+JFX:U' D' R2 D R U' R' D' R U R U D,JXF:U' D' R' U' R' D R U R' D' R2 U D
+JFY:U' R' U' R D R' U' R D' R' U2 R U,JYF:U' R' U2 R D R' U R D' R' U R U
+JFZ:R B' R' U R' D' R U' R' D R2 B R',JZT:R U R' D' R U' R' D
+JFZ:R B' R' U R' D' R U' R' D R2 B R',JZF:R B' R2 D' R U R' D R U' R B R'
+JFZ:R B' R' U R' D' R U' R' D R2 B R',JZG:U R' D' R U' R' D R
+JGB:R U2 R D R' U2 R D' R2,JIF:U R U2 R D R' U2 R D' R2 U'
+JGD:R' B' R U' R D R' U R D' R2 B R,JGS:U' R D R' U R D' R'
+JGF:R2 D' R U2 R' D R U2 R,JIA:U' R2 D' R U2 R' D R U2 R U
+JGM:R' D R U R' D' R U',JMA:U' R' D R U R' D' R
+JGM:R' D R U R' D' R U',JGY:D' R' D R U R' D' R U' D
+JGM:R' D R U R' D' R U',JMG:U R' D R U' R' D' R
+JGM:R' D R U R' D' R U',JNZ:D R U R' D' R U' R'
+JGN:D R' D' R U R' D R U' D',JNA:U' D R' D' R U R' D R D'
+JGN:D R' D' R U R' D R U' D',JWZ:R D R' D' R U R' D R U' D' R'
+JGN:D R' D' R U R' D R U' D',JGZ:R' D' R U R' D R U'
+JGN:D R' D' R U R' D R U' D',JNG:U D R' D' R U' R' D R D'
+JGO:R' B D' R U R' D R U' R' B' R,JTZ:D' R U R' D R U' R'
+JGO:R' B D' R U R' D R U' R' B' R,JOG:R' B R U R' D' R U' R' D B' R
+JGP:U' D' R D R' U R D' R' D,JQZ:R U' D' R D R' U R D' R' D R'
+JGP:U' D' R D R' U R D' R' D,JGS:U' R D R' U R D' R'
+JGP:U' D' R D R' U R D' R' D,JPA:U2 D' R D R' U R D' R' U D
+JGP:U' D' R D R' U R D' R' D,JPG:D' R D R' U' R D' R' U D
+JGQ:U' R D' R' U R D R',JOZ:R U' R D' R' U R D R2
+JGQ:U' R D' R' U R D R',JGT:U' D R D' R' U R D R' D'
+JGQ:U' R D' R' U R D R',JQA:U2 R D' R' U R D R' U
+JGQ:U' R D' R' U R D R',JQG:R D' R' U' R D R' U
+JGR:U' R D' R' U R' D R U R' D' R U' R D R',JRG:R D' R' U R' D R U' R' D' R U' R D R' U
+JGS:U' R D R' U R D' R',JSN:R' F' R U' R D R' U R D' R2 F R
+JGS:U' R D R' U R D' R',JSA:U2 R D R' U R D' R' U
+JGS:U' R D R' U R D' R',JSG:R D R' U' R D' R' U
+JGT:U' D R D' R' U R D R' D',JTA:U2 D R D' R' U R D R' U D'
+JGT:U' D R D' R' U R D R' D',JTG:D R D' R' U' R D R' U D'
+JGT:U' D R D' R' U R D R' D',JTN:R' F' R U' D R D' R' U R D R' D' R' F R
+JGW:R F' R' U' R D R' U R D' F R',JWG:R F' D R' U' R D' R' U R F R'
+JGX:R' D R U' R D' R' U R D R' U R' D' R U',JXA:U' R' D R U' R D' R' U R D R' U R' D' R
+JGX:R' D R U' R D' R' U R D R' U R' D' R U',JRZ:D R U' R D' R' U R D R' U R' D' R U' R'
+JGX:R' D R U' R D' R' U R D R' U R' D' R U',JXG:U R' D R U' R D' R' U' R D R' U R' D' R
+JGY:D' R' D R U R' D' R U' D,JYA:U' D' R' D R U R' D' R D
+JGY:D' R' D R U R' D' R U' D,JSZ:R D' R' D R U R' D' R U' D R'
+JGY:D' R' D R U R' D' R U' D,JYG:U D' R' D R U' R' D' R D
+JGZ:R' D' R U R' D R U',JZA:U' R' D' R U R' D R
+JGZ:R' D' R U R' D R U',JTZ:D' R U R' D R U' R'
+JGZ:R' D' R U R' D R U',JZG:U R' D' R U' R' D R
+JGZ:R' D' R U R' D R U',JZF:R B' R2 D' R U R' D R U' R B R'
+JHC:R' F D R U R' D' R U' R' F' R,JNZ:D R U R' D' R U' R'
+JHM:R' U D R U' R' D' R U R' U' R,JMY:U D R U' R' D' R U R' U'
+JHM:R' U D R U' R' D' R U R' U' R,JHY:D' R' U D R U' R' D' R U R' U' R D
+JHM:R' U D R U' R' D' R U R' U' R,JMH:R' U R U' R' D R U R' U' D' R
+JHM:R' U D R U' R' D' R U R' U' R,JWC:U' R' U D R U' R' D' R U R' U' R U
+JHN:R' F D R U' R' D' R U R' F' R,JNH:R' F R U' R' D R U R' D' F' R
+JHO:R U' R' U R D' R' U' R U D R',JHR:D R U' R' U R D' R' U' R U D R' D'
+JHO:R U' R' U R D' R' U' R U D R',JOH:R U' D' R' U R D R' U' R U R'
+JHO:R U' R' U R D' R' U' R U D R',JOY:R2 U' R' U R D' R' U' R U D R2
+JHO:R U' R' U R D' R' U' R U D R',JQC:U' R U' R' U R D' R' U' R U D R' U
+JHP:R U R2 D' R2 U' R' U R2 D R2 U',JOC:U' R U R2 D' R2 U' R' U R2 D R2
+JHP:R U R2 D' R2 U' R' U R2 D R2 U',JPH:U R2 D' R2 U' R U R2 D R2 U' R'
+JHP:R U R2 D' R2 U' R' U R2 D R2 U',XOT:R' U R2 D' R2 U' R' U R2 D R2 U' R2
+JHQ:R B' R' U R D' R' U' R D B R',JQH:R B' D' R' U R D R' U' R B R'
+JHR:D R U' R' U R D' R' U' R U D R' D',JRH:D R U' D' R' U R D R' U' R U R' D'
+JHS:U' R U D R' U' R D' R' U R U' R' U,JRC:U2 R U D R' U' R D' R' U R U' R' U2
+JHS:U' R U D R' U' R D' R' U R U' R' U,JSH:U' R U R' U' R D R' U R U' D' R' U
+JHT:R U' R' U R D R' U' R U D' R',JTH:R U' D R' U R D' R' U' R U R'
+JHW:U' R2 D R2 U R' U' R2 D' R2 U R,JWY:R U' R2 D R2 U R' U' R2 D' R2 U
+JHW:U' R2 D R2 U R' U' R2 D' R2 U R,JWH:R' U' R2 D R2 U R U' R2 D' R2 U
+JHW:U' R2 D R2 U R' U' R2 D' R2 U R,XNT:R2 U' R2 D R2 U R' U' R2 D' R2 U R'
+JHX:U R' U' R U R' D' R U' R' U D R U',JZC:R' U' R U R' D' R U' R' U D R
+JHX:U R' U' R U R' D' R U' R' U D R U',JXH:U R' U' D' R U R' D R U' R' U R U'
+JHY:D' R' U D R U' R' D' R U R' U' R D,JYH:D' R' U R U' R' D R U R' U' D' R D
+JHZ:R' U D' R U' R' D R U R' U' R,JSY:U D' R U' R' D R U R' U'
+JHZ:R' U D' R U' R' D R U R' U' R,JZH:R' U R U' R' D' R U R' U' D R
+JIB:R2 D R U' R D' R' U' R D R' U R' D' R U R,JZR:R U R' D R U' R D' R' U' R D R' U R' D'
+JIM:U R U' R' D R U2 R' D' R U' R' U',JNB:R U' R' D R U2 R' D' R U' R'
+JIM:U R U' R' D R U2 R' D' R U' R' U',JMI:U R U R' D R U2 R' D' R U R' U'
+JIN:D R' D' R U' R B' R2 D R D' R B R' U,JIZ:R' D' R U' R B' R2 D R D' R B R' U D
+JIN:D R' D' R U' R B' R2 D R D' R B R' U,JNI:U' R B' R' D R' D' R2 B R' U R' D R D'
+JIO:U R' F R D' R D R2 F' R U' R D' R' D,JIR:U D R' F R D' R D R2 F' R U' R D' R'
+JIO:U R' F R D' R D R2 F' R U' R D' R' D,JOI:D' R D R' U R' F R2 D' R' D R' F' R U'
+JIO:U R' F R D' R D R2 F' R U' R D' R' D,JPB:R' F R D' R D R2 F' R U' R D' R' U D
+JIP:U' R' U' R D' R' U2 R D R' U' R U,JOX:R U' R' U' R D' R' U2 R D R' U' R U R'
+JIP:U' R' U' R D' R' U2 R D R' U' R U,JPI:U' R' U R D' R' U2 R D R' U R U
+JIQ:U R U2 R D' R' U2 R D R2 U',JOB:R U2 R D' R' U2 R D R2
+JIQ:U R U2 R D' R' U2 R D R2 U',JIT:U D R U2 R D' R' U2 R D R2 U' D'
+JIQ:U R U2 R D' R' U2 R D R2 U',JQI:U R2 D' R' U2 R D R' U2 R' U'
+JIR:U D R' F R D' R D R2 F' R U' R D' R',JWQ:R D' R D R2 F' R U' R D' R' U D R' F
+JIR:U D R' F R D' R D R2 F' R U' R D' R',JRI:R D R' U R' F R2 D' R' D R' F' R U' D'
+JIR:U D R' F R D' R D R2 F' R U' R D' R',JPB:R' F R D' R D R2 F' R U' R D' R' U D
+JIS:U R U' R' D' R U2 R' D R U' R' U',JTB:R U' R' D' R U2 R' D R U' R'
+JIS:U R U' R' D' R U2 R' D R U' R' U',JSI:U R U R' D' R U2 R' D R U R' U'
+JIT:U D R U2 R D' R' U2 R D R2 U' D',JRB:D R U2 R D' R' U2 R D R2 D'
+JIT:U D R U2 R D' R' U2 R D R2 U' D',JTI:U D R2 D' R' U2 R D R' U2 R' U' D'
+JIW:U' R2 D R U2 R' D' R U2 R U,JNX:R U' R2 D R U2 R' D' R U2 R U R'
+JIW:U' R2 D R U2 R' D' R U2 R U,JIX:U' D' R2 D R U2 R' D' R U2 R U D
+JIW:U' R2 D R U2 R' D' R U2 R U,JWI:U' R' U2 R' D R U2 R' D' R2 U
+JIX:U' D' R2 D R U2 R' D' R U2 R U D,JSX:R U' D' R2 D R U2 R' D' R U2 R U D R'
+JIX:U' D' R2 D R U2 R' D' R U2 R U D,JXI:U' D' R' U2 R' D R U2 R' D' R2 U D
+JIY:U' R' U' R D R' U2 R D' R' U' R U,JTX:R U' R' U' R D R' U2 R D' R' U' R U R'
+JIY:U' R' U' R D R' U2 R D' R' U' R U,JYI:U' R' U R D R' U2 R D' R' U R U
+JIZ:R' D' R U' R B' R2 D R D' R B R' U D,JZI:U' D' R B' R' D R' D' R2 B R' U R' D R
+JMA:U' R' D R U R' D' R,JYA:U' D' R' D R U R' D' R D
+JMB:D R' F2 R D' R' D F2 D' R,JYB:R' F2 R D' R' D F2 D' R D
+JMC:R' U' R U R' D R U' R' U D' R,JYC:D' R' U' R U R' D R U' R' U D' R D
+JMD:U2 R' D R U2 R' D' R,JYD:U2 D' R' D R U2 R' D' R D
+JMG:U R' D R U' R' D' R,JZN:R U R' D R U' R' D'
+JMG:U R' D R U' R' D' R,JYG:U D' R' D R U' R' D' R D
+JMH:R' U R U' R' D R U R' U' D' R,JYM:U R U' R' D R U R' U' D'
+JMH:R' U R U' R' D R U R' U' D' R,JYH:D' R' U R U' R' D R U R' U' D' R D
+JMO:R B R' U D R' D' R U R' D R U2 D' R B' R',JOM:R B R' U2 D R' D' R U' R' D R U' D' R B' R'
+JMO:R B R' U D R' D' R U R' D R U2 D' R B' R',XWQ:R2 B R' U D R' D' R U R' D R U2 D' R B' R2
+JMP:U' R B R' U R' D R U' R' D' R2 B' R' U,JPM:U' R B R2 D R U R' D' R U' R B' R' U
+JMP:U' R B R' U R' D R U' R' D' R2 B' R' U,XWO:R U' R B R' U R' D R U' R' D' R2 B' R' U R'
+JMQ:D R' F' R D' R' D F D' R,XWP:R D R' F' R D' R' D F D'
+JMQ:D R' F' R D' R' D F D' R,JQM:R' D F' D' R D R' F R D'
+JMQ:D R' F' R D' R' D F D' R,JYN:R' F' R D' R' D F D' R D
+JMQ:D R' F' R D' R' D F D' R,XNO:R U' R' D R' F' R D' R' D F D' R2 U R'
+JMR:D R2 U' D' R' U R D R' U' R U R2 D',JYO:R2 U' D' R' U R D R' U' R U R2
+JMR:D R2 U' D' R' U R D R' U' R U R2 D',JRM:D R2 U' R' U R D' R' U' R U D R2 D'
+JMS:R' U R U R' D R U' R' U' D' R,JSM:R' U D R U R' D' R U' R' U' R
+JMS:R' U R U R' D R U' R' U' D' R,JYP:D' R' U R U R' D R U' R' U' D' R D
+JMS:R' U R U R' D R U' R' U' D' R,XRN:R' U R' U R U R' D R U' R' U' D' R U' R
+JMT:R F R2 D R U' R' D' R U R F' R',JTM:R F R' U' R' D R U R' D' R2 F' R'
+JMX:U' R' D R2 D' R' U' R D R' U R' D' R U,JXM:U' R' D R U' R D' R' U R D R2 D' R U
+JMX:U' R' D R2 D' R' U' R D R' U R' D' R U,XWS:R U' R' D R2 D' R' U' R D R' U R' D' R U R'
+JMY:U D R U' R' D' R U R' U',JYM:U R U' R' D R U R' U' D'
+JMY:U D R U' R' D' R U R' U',JYS:U R U' R' D' R U R' U' D
+JMZ:U' R U' R2 D R U R' D' R U' R U R' U,JZM:U' R U' R' U R' D R U' R' D' R2 U R' U
+JMZ:U' R U' R2 D R U R' D' R U' R U R' U,XWR:R U' R U' R2 D R U R' D' R U' R U R' U R'
+JNA:U' D R' D' R U R' D R D',JZA:U' R' D' R U R' D R
+JNC:D R' U' R U R' D' R U' R' U D R D',JZC:R' U' R U R' D' R U' R' U D R
+JND:U2 D R' D' R U2 R' D R D',JZD:U2 R' D' R U2 R' D R
+JNG:U D R' D' R U' R' D R D',JZW:R U D R' D' R U' R' D R D' R'
+JNG:U D R' D' R U' R' D R D',JZG:U R' D' R U' R' D R
+JNI:U' R B' R' D R' D' R2 B R' U R' D R D',JZI:U' D' R B' R' D R' D' R2 B R' U R' D R
+JNO:R' D R D' R' D F' D' R D R' F D' R,XMQ:D R D' R' D F' D' R D R' F D'
+JNO:R' D R D' R' D F' D' R D R' F D' R,JON:R' D F' R D' R' D F D' R D R' D' R
+JNP:R' F' R D' R D R' U' R D' R' U D R' F R,XMO:F' R D' R D R' U' R D' R' U D R' F
+JNP:R' F' R D' R D R' U' R D' R' U D R' F R,JPN:R' F' R U' D' R D R' U R D' R' D R' F R
+JNQ:R' F' R2 D' R' U' R D R' U R' F R,XMP:F' R2 D' R' U' R D R' U R' F
+JNQ:R' F' R2 D' R' U' R D R' U R' F R,JQN:R' F' R U' R D' R' U R D R2 F R
+JNR:D R2 D' R' U' R D R' U R' D',JZO:R2 D' R' U' R D R' U R'
+JNR:D R2 D' R' U' R D R' U R' D',JRN:D R U' R D' R' U R D R2 D'
+JNS:R' F' R2 D R' U' R D' R' U R' F R,JSG:R D R' U' R D' R' U
+JNS:R' F' R2 D R' U' R D' R' U R' F R,JSN:R' F' R U' R D R' U R D' R2 F R
+JNT:R' F' R D R D' R' U' R D R' U D' R' F R,JTG:D R D' R' U' R D R' U D'
+JNT:R' F' R D R D' R' U' R D R' U D' R' F R,JTN:R' F' R U' D R D' R' U R D R' D' R' F R
+JNX:R U' R2 D R U2 R' D' R U2 R U R',JXN:R U' R' U2 R' D R U2 R' D' R2 U R'
+JNY:D' R' D F' D' R D R' F R,XMT:R D' R' D F' D' R D R' F
+JNY:D' R' D F' D' R D R' F R,JQM:R' D F' D' R D R' F R D'
+JNY:D' R' D F' D' R D R' F R,JYN:R' F' R D' R' D F D' R D
+JNZ:D R U R' D' R U' R',JZN:R U R' D R U' R' D'
+JNZ:D R U R' D' R U' R',JZT:R U R' D' R U' R' D
+JNZ:D R U R' D' R U' R',WTP:R D' R2 D2 R U R' D' R U' R' D' R2 D R'
+JOB:R U2 R D' R' U2 R D R2,JRB:D R U2 R D' R' U2 R D R2 D'
+JOC:U' R U R2 D' R2 U' R' U R2 D R2,JTO:R2 D' R2 U' R' U R2 D R2 U' R U
+JOE:R U R D' R' U' R D R2,JRE:D R U R D' R' U' R D R2 D'
+JOG:R' B R U R' D' R U' R' D B' R,JZT:R U R' D' R U' R' D
+JOH:R U' D' R' U R D R' U' R U R',JRH:D R U' D' R' U R D R' U' R U R' D'
+JOH:R U' D' R' U R D R' U' R U R',JYO:R2 U' D' R' U R D R' U' R U R2
+JOI:D' R D R' U R' F R2 D' R' D R' F' R U',JRI:R D R' U R' F R2 D' R' D R' F' R U' D'
+JOM:R B R' U2 D R' D' R U' R' D R U' D' R B' R',XQW:R2 B R' U2 D R' D' R U' R' D R U' D' R B' R2
+JON:R' D F' R D' R' D F D' R D R' D' R,XQM:D F' R D' R' D F D' R D R' D'
+JOR:R B R' U R D R' U' R D' B' R',JRO:R B D R' U R D' R' U' R B' R'
+JOS:R' B R U2 R' D' R U2 R' D B' R,JSO:R' B D' R U2 R' D R U2 R' B' R
+JOS:R' B R U2 R' D' R U2 R' D B' R,JZD:U2 R' D' R U2 R' D R
+JOT:U' R' U R2 D' R2 U' R U R2 D R2,JTO:R2 D' R2 U' R' U R2 D R2 U' R U
+JOW:R B R' U2 R' D R U' R' D' R U' R B' R',JWO:R B R' U R' D R U R' D' R U2 R B' R'
+JOW:R B R' U2 R' D R U' R' D' R U' R B' R',XQN:R2 B R' U2 R' D R U' R' D' R U' R B' R2
+JOX:R U' R' U' R D' R' U2 R D R' U' R U R',JXO:R U' R' U R D' R' U2 R D R' U R U R'
+JOY:R2 U' R' U R D' R' U' R U D R2,JRM:D R2 U' R' U R D' R' U' R U D R2 D'
+JOY:R2 U' R' U R D' R' U' R U D R2,JYO:R2 U' D' R' U R D R' U' R U R2
+JOZ:R U' R D' R' U R D R2,XPM:F' R U' R D' R' U R D R2 F
+JOZ:R U' R D' R' U R D R2,JRN:D R U' R D' R' U R D R2 D'
+JOZ:R U' R D' R' U R D R2,JZO:R2 D' R' U' R D R' U R'
+JPA:U2 D' R D R' U R D' R' U D,JSA:U2 R D R' U R D' R' U
+JPB:R' F R D' R D R2 F' R U' R D' R' U D,JWQ:R D' R D R2 F' R U' R D' R' U D R' F
+JPD:U D' R D R' U2 R D' R' U D,JSD:U R D R' U2 R D' R' U
+JPG:D' R D R' U' R D' R' U D,JZQ:R D' R D R' U' R D' R' U D R'
+JPG:D' R D R' U' R D' R' U D,JSG:R D R' U' R D' R' U
+JPH:U R2 D' R2 U' R U R2 D R2 U' R',XTO:R2 U R2 D' R2 U' R U R2 D R2 U' R
+JPI:U' R' U R D' R' U2 R D R' U R U,JXO:R U' R' U R D' R' U2 R D R' U R U R'
+JPM:U' R B R2 D R U R' D' R U' R B' R' U,XOW:R U' R B R2 D R U R' D' R U' R B' R' U R'
+JPN:R' F' R U' D' R D R' U R D' R' D R' F R,XOM:F' R U' D' R D R' U R D' R' D R' F
+JPR:U' R' U R2 D' R' U2 R D R' U2 R' U' R U,JRP:U' R' U R U2 R D' R' U2 R D R2 U' R U
+JPS:U' D' R' U' R D R' U R U,JSP:U' R' U' R D' R' U R U D
+JPT:U R' D' R D R' U2 R D' R' U2 D R U',JTP:U R' U2 D' R D R' U2 R D' R' D R U'
+JPW:U R' F R U2 R D' R' U2 R D R2 F' R U',JWP:U R' F R2 D' R' U2 R D R' U2 R' F' R U'
+JPX:U' D' R2 D R U R' D' R U' R U D,JSW:U' R2 D R U R' D' R U' R U
+JPX:U' D' R2 D R U R' D' R U' R U D,JXP:U' D' R' U R' D R U' R' D' R2 U D
+JPX:U' D' R2 D R U R' D' R U' R U D,XOS:R U' D' R2 D R U R' D' R U' R U D R'
+JPY:D' R' U D R U R' D' R U' R' U' R D,JSM:R' U D R U R' D' R U' R' U' R
+JPY:D' R' U D R U R' D' R U' R' U' R D,JYP:D' R' U R U R' D R U' R' U' D' R D
+JPZ:U' R B R2 D' R U R' D R U' R B' R' U,JZP:U' R B R' U R' D' R U' R' D R2 B' R' U
+JQA:U2 R D' R' U R D R' U,JTA:U2 D R D' R' U R D R' U D'
+JQB:R U2 D' R D R' U2 R D' R' D R',XNP:F2 R U2 D' R D R' U2 R D' R' D R' F2
+JQD:U R D' R' U2 R D R' U,JTD:U D R D' R' U2 R D R' U D'
+JQG:R D' R' U' R D R' U,JTG:D R D' R' U' R D R' U D'
+JQG:R D' R' U' R D R' U,JZO:R2 D' R' U' R D R' U R'
+JQI:U R2 D' R' U2 R D R' U2 R' U',JTI:U D R2 D' R' U2 R D R' U2 R' U' D'
+JQM:R' D F' D' R D R' F R D',XPW:D F' D' R D R' F R D' R'
+JQM:R' D F' D' R D R' F R D',XON:R U' R2 D F' D' R D R' F R D' R U R'
+JQN:R' F' R U' R D' R' U R D R2 F R,XPM:F' R U' R D' R' U R D R2 F
+JQR:R D' R2 D R U R' D' R U' R D R',JRQ:R D' R' U R' D R U' R' D' R2 D R'
+JQS:R' U R2 D' R' U' R D R' U R' U' R,JSQ:R' U R U' R D' R' U R D R2 U' R
+JQS:R' U R2 D' R' U' R D R' U R' U' R,JTY:D R' U R2 D' R' U' R D R' U R' U' R D'
+JQT:U D' R' U2 R D R' U2 R U',JTQ:U R' U2 R D' R' U2 R U' D
+JQW:F' R U' D' R D R' U R' F R2 D' R' D R',JRI:R D R' U R' F R2 D' R' D R' F' R U' D'
+JQW:F' R U' D' R D R' U R' F R2 D' R' D R',JWQ:R D' R D R2 F' R U' R D' R' U D R' F
+JQX:R U' R' U' D' R D R' U2 R D' R' U' D R U R',JXQ:R U' R' U D' R D R' U2 R D' R' U D R U R'
+JQY:U R U' R D' R' U' R D R' U2 R' U',JYQ:U R U2 R D' R' U R D R' U R' U'
+JQZ:R U' D' R D R' U R D' R' D R',XOM:F' R U' D' R D R' U R D' R' D R' F
+JQZ:R U' D' R D R' U R D' R' D R',JZQ:R D' R D R' U' R D' R' U D R'
+JRW:U R' F R U2 R D R' U2 R D' R2 F' R U',JWR:U R' F R2 D R' U2 R D' R' U2 R' F' R U'
+JRX:R U' R' U' D R D' R' U2 R D R' U' D' R U R',JXR:R U' R' U D R D' R' U2 R D R' U D' R U R'
+JRY:U R D' R' D R U' R' D' R U D R' U',JYR:U R U' D' R' D R U R' D' R D R' U'
+JRZ:D R U' R D' R' U R D R' U R' D' R U' R',JZR:R U R' D R U' R D' R' U' R D R' U R' D'
+JRZ:D R U' R D' R' U R D R' U R' D' R U' R',JXA:U' R' D R U' R D' R' U R D R' U R' D' R
+JSF:R' U R' D' R U R' D R U2 R,XTQ:R2 B R' U R' D' R U R' D R U2 R B' R2
+JSM:R' U D R U R' D' R U' R' U' R,XNR:R' U R' U D R U R' D' R U' R' U' R U' R
+JSQ:R' U R U' R D' R' U R D R2 U' R,JYT:D R' U R U' R D' R' U R D R2 U' R D'
+JSW:U' R2 D R U R' D' R U' R U,JWS:U' R' U R' D R U' R' D' R2 U
+JSX:R U' D' R2 D R U2 R' D' R U2 R U D R',JXS:R U' D' R' U2 R' D R U2 R' D' R2 U D R'
+JSY:U D' R U' R' D R U R' U',JYM:U R U' R' D R U R' U' D'
+JSY:U D' R U' R' D R U R' U',JYS:U R U' R' D' R U R' U' D
+JSZ:R D' R' D R U R' D' R U' D R',JZS:R U D' R' D R U' R' D' R D R'
+JTB:R U' R' D' R U2 R' D R U' R',JWA:R2 F R U' R' D' R U2 R' D R U' R' F' R2
+JTB:R U' R' D' R U2 R' D R U' R',JZB:D R U' R' D' R U2 R' D R U' R' D'
+JTC:R2 U' R' U R' D' R U' R' D R2 U R2,JZT:R U R' D' R U' R' D
+JTC:R2 U' R' U R' D' R U' R' D R2 U R2,JZG:U R' D' R U' R' D R
+JTE:R U2 R' D' R U' R' D R U' R',JZE:D R U2 R' D' R U' R' D R U' R' D'
+JTW:U' R2 U D R U' R' D' R U R' U' R2 U,JWT:U' R2 U R U' R' D R U R' U' D' R2 U
+JTX:R U' R' U' R D R' U2 R D' R' U' R U R',JXT:R U' R' U R D R' U2 R D' R' U R U R'
+JTY:D R' U R2 D' R' U' R D R' U R' U' R D',JYT:D R' U R U' R D' R' U R D R2 U' R D'
+JTZ:D' R U R' D R U' R',JZF:R B' R2 D' R U R' D R U' R B R'
+JTZ:D' R U R' D R U' R',JZN:R U R' D R U' R' D'
+JTZ:D' R U R' D R U' R',JZT:R U R' D' R U' R' D
+JTZ:D' R U R' D R U' R',WPT:R D' R2 D R U R' D R U' R' D2 R2 D R'
+JWB:R U' D R' D' R U2 R' D R U' D' R',JXB:D' R U' D R' D' R U2 R' D R U' D' R' D
+JWE:R U2 D R' D' R U' R' D R U' D' R',JXE:D' R U2 D R' D' R U' R' D R U' D' R' D
+JWF:U' R' U' R' D R U R' D' R2 U,JXF:U' D' R' U' R' D R U R' D' R2 U D
+JWH:R' U' R2 D R2 U R U' R2 D' R2 U,JYW:U' R2 D R2 U R U' R2 D' R2 U R'
+JWH:R' U' R2 D R2 U R U' R2 D' R2 U,XTN:R U' R2 D R2 U R U' R2 D' R2 U R2
+JWI:U' R' U2 R' D R U2 R' D' R2 U,JXN:R U' R' U2 R' D R U2 R' D' R2 U R'
+JWI:U' R' U2 R' D R U2 R' D' R2 U,JXI:U' D' R' U2 R' D R U2 R' D' R2 U D
+JWO:R B R' U R' D R U R' D' R U2 R B' R',XNQ:R2 B R' U R' D R U R' D' R U2 R B' R2
+JWS:U' R' U R' D R U' R' D' R2 U,JXP:U' D' R' U R' D R U' R' D' R2 U D
+JWX:R U' R' D R' D' R U2 R' D R U2 D' R U R',JXW:R U' R' U2 D R' D' R U2 R' D R D' R U R'
+JWY:R U' R2 D R2 U R' U' R2 D' R2 U,JYW:U' R2 D R2 U R U' R2 D' R2 U R'
+JWY:R U' R2 D R2 U R' U' R2 D' R2 U,XNT:R2 U' R2 D R2 U R' U' R2 D' R2 U R'
+JWZ:R D R' D' R U R' D R U' D' R',JZW:R U D R' D' R U' R' D R D' R'
+JXG:U R' D R U' R D' R' U' R D R' U R' D' R,JZR:R U R' D R U' R D' R' U' R D R' U R' D'
+JXI:U' D' R' U2 R' D R U2 R' D' R2 U D,JXS:R U' D' R' U2 R' D R U2 R' D' R2 U D R'
+JXM:U' R' D R U' R D' R' U R D R2 D' R U,XSW:R U' R' D R U' R D' R' U R D R2 D' R U R'
+JXP:U' D' R' U R' D R U' R' D' R2 U D,XSO:R U' D' R' U R' D R U' R' D' R2 U D R'
+JXT:R U' R' U R D R' U2 R D' R' U R U R',JYI:U' R' U R D R' U2 R D' R' U R U
+JYG:U D' R' D R U' R' D' R D,JZS:R U D' R' D R U' R' D' R D R'
+JYN:R' F' R D' R' D F D' R D,XTM:F' R D' R' D F D' R D R'
+JYS:U R U' R' D' R U R' U' D,JZH:R' U R U' R' D' R U R' U' D R
+JYW:U' R2 D R2 U R U' R2 D' R2 U R',XTN:R U' R2 D R2 U R U' R2 D' R2 U R2
+JZG:U R' D' R U' R' D R,JZT:R U R' D' R U' R' D
+JZM:U' R U' R' U R' D R U' R' D' R2 U R' U,XRW:R U' R U' R' U R' D R U' R' D' R2 U R' U R'
+JZN:R U R' D R U' R' D',WPT:R D' R2 D R U R' D R U' R' D2 R2 D R'
+JZO:R2 D' R' U' R D R' U R',XMP:F' R2 D' R' U' R D R' U R' F
+JZQ:R D' R D R' U' R D' R' U D R',XMO:F' R D' R D R' U' R D' R' U D R' F
+JZT:R U R' D' R U' R' D,WTP:R D' R2 D2 R U R' D' R U' R' D' R2 D R'
+WOR:R' U R' F' R2 D' R' U' R D R' U R' F R U' R,WRO:R' U R' F' R U' R D' R' U R D R2 F R U' R
+WOS:B R' U R' D R U' R' D' R2 B',WSO:B R2 D R U R' D' R U' R B'
+WOT:R2 F' R U2 R D' R' U R D R' U R' F R2,WTO:R2 F' R U' R D' R' U' R D R' U2 R' F R2
+WPR:R' U R2 D' B D R' D' R B' R' D R' U' R,WRP:R' U R D' R B R' D R D' B' D R2 U' R
+WPR:R' U R2 D' B D R' D' R B' R' D R' U' R,WPS:D' B D R' D' R B' R' D R
+WPS:D' B D R' D' R B' R' D R,WSP:R' D' R B R' D R D' B' D
+WPS:D' B D R' D' R B' R' D R,XQR:B D R' D' R B' R' D R D'
+WPT:R D' R2 D R U R' D R U' R' D2 R2 D R',WTP:R D' R2 D2 R U R' D' R U' R' D' R2 D R'
+WQR:B R' U D R' D' R U' R' D R D' R B',WRQ:B R' D R' D' R U R' D R U' D' R B'
+WQS:B2 R' D R' D' R U2 R' D R U2 D' R B2,WSQ:B2 R' U2 D R' D' R U2 R' D R D' R B2
+WQT:R2 F' R U2 D' R D R' U R D' R' U D R' F R2,WTQ:R2 F' R U' D' R D R' U' R D' R' U2 D R' F R2
+WRP:R' U R D' R B R' D R D' B' D R2 U' R,WSP:R' D' R B R' D R D' B' D
+WSP:R' D' R B R' D R D' B' D,XRQ:D R' D' R B R' D R D' B'
+XMO:F' R D' R D R' U' R D' R' U D R' F,XOM:F' R U' D' R D R' U R D' R' D R' F
+XMP:F' R2 D' R' U' R D R' U R' F,XPM:F' R U' R D' R' U R D R2 F
+XMQ:D R D' R' D F' D' R D R' F D',XMT:R D' R' D F' D' R D R' F
+XMQ:D R D' R' D F' D' R D R' F D',XQM:D F' R D' R' D F D' R D R' D'
+XMR:D' R D R' F' R D' R' D F,XTM:F' R D' R' D F D' R D R'
+XMR:D' R D R' F' R D' R' D F,XRM:F' D' R D R' F R D' R' D
+XMR:D' R D R' F' R D' R' D F,XWP:R D R' F' R D' R' D F D'
+XMS:R' U D R U' R D' R' U R D R2 U' D' R,XSM:R' U D R2 D' R' U' R D R' U R' U' D' R
+XMT:R D' R' D F' D' R D R' F,XRM:F' D' R D R' F R D' R' D
+XMT:R D' R' D F' D' R D R' F,XTM:F' R D' R' D F D' R D R'
+XNO:R U' R' D R' F' R D' R' D F D' R2 U R',XWP:R D R' F' R D' R' D F D'
+XNO:R U' R' D R' F' R D' R' D F D' R2 U R',XON:R U' R2 D F' D' R D R' F R D' R U R'
+XNP:F2 R U2 D' R D R' U2 R D' R' D R' F2,XPN:F2 R D' R D R' U2 R D' R' U2 D R' F2
+XNQ:R2 B R' U R' D R U R' D' R U2 R B' R2,XQN:R2 B R' U2 R' D R U' R' D' R U' R B' R2
+XNR:R' U R' U D R U R' D' R U' R' U' R U' R,XRN:R' U R' U R U R' D R U' R' U' D' R U' R
+XNS:R D R2 U R2 U' R2 D' R2 U R2 U' R,XSN:R' U R2 U' R2 D R2 U R2 U' R2 D' R'
+XNT:R2 U' R2 D R2 U R' U' R2 D' R2 U R',XTN:R U' R2 D R2 U R U' R2 D' R2 U R2
+XON:R U' R2 D F' D' R D R' F R D' R U R',XPW:D F' D' R D R' F R D' R'
+XOR:R' U R' U R U' R D' R' U R D R2 U' R U' R,XRO:R' U R' U R2 D' R' U' R D R' U R' U' R U' R
+XOS:R U' D' R2 D R U R' D' R U' R U D R',XSO:R U' D' R' U R' D R U' R' D' R2 U D R'
+XOT:R' U R2 D' R2 U' R' U R2 D R2 U' R2,XTO:R2 U R2 D' R2 U' R U R2 D R2 U' R
+XOW:R U' R B R2 D R U R' D' R U' R B' R' U R',XWO:R U' R B R' U R' D R U' R' D' R2 B' R' U R'
+XPR:R U' R U' R' U' R D' R' U R U D R' U R',XRP:R U' R U' D' R' U' R D R' U R U R' U R'
+XPS:R' U R D' R' U R' D R U' R' D' R2 D R' U' R,XSP:R' U R D' R2 D R U R' D' R U' R D R' U' R
+XPT:B R' D R D' B' D R' D' R,XTP:R' D R D' B D R' D' R B'
+XPT:B R' D R D' B' D R' D' R,XRQ:D R' D' R B R' D R D' B'
+XPW:D F' D' R D R' F R D' R',XRM:F' D' R D R' F R D' R' D
+XPW:D F' D' R D R' F R D' R',XWP:R D R' F' R D' R' D F D'
+XQM:D F' R D' R' D F D' R D R' D',XTM:F' R D' R' D F D' R D R'
+XQR:B D R' D' R B' R' D R D',XRQ:D R' D' R B R' D R D' B'
+XQR:B D R' D' R B' R' D R D',XTP:R' D R D' B D R' D' R B'
+XQS:R U' R2 U R2 D' R2 U' R2 U R2 D R,XSQ:R' D' R2 U' R2 U R2 D R2 U' R2 U R'
+XQT:R2 B R' U2 R' D' R U' R' D R U' R B' R2,XTQ:R2 B R' U R' D' R U R' D R U2 R B' R2
+XQW:R2 B R' U2 D R' D' R U' R' D R U' D' R B' R2,XWQ:R2 B R' U D R' D' R U R' D R U2 D' R B' R2
+XRW:R U' R U' R' U R' D R U' R' D' R2 U R' U R',XWR:R U' R U' R2 D R U R' D' R U' R U R' U R'
+XSW:R U' R' D R U' R D' R' U R D R2 D' R U R',XWS:R U' R' D R2 D' R' U' R D R' U R' D' R U R'
+XTW:R2 F' R U2 R D R' U R D' R' U R' F R2,XWT:R2 F' R U' R D R' U' R D' R' U2 R' F R2
